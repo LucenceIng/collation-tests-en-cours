@@ -1,0 +1,177 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_009443",
+        "t": "Et"
+        },
+        {
+        "-xml:id": "Ao_w_009444",
+        "t": "messire"
+        },
+        {
+        "-xml:id": "Ao_w_009445",
+        "t": "Yvains"
+        },
+        {
+        "-xml:id": "Ao_w_009446",
+        "t": "i"
+        },
+        {
+        "-xml:id": "Ao_w_009447",
+        "t": "mena"
+        },
+        {
+        "-xml:id": "Ao_w_009448",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_009449",
+        "t": "vallet"
+        },
+        {
+        "-xml:id": "Ao_w_009450",
+        "t": "autresin"
+        },
+        {
+        "-xml:id": "Ao_w_009451",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_009452",
+        "t": "aprés"
+        },
+        {
+        "-xml:id": "Ao_w_009453",
+        "t": "lui"
+        },
+        {
+        "-xml:id": "Ao_w_009454",
+        "t": "venoit"
+        },
+        {
+        "-xml:id": "Ao_w_009455",
+        "t": "mout"
+        },
+        {
+        "-xml:id": "Ao_w_009456",
+        "t": "granz"
+        },
+        {
+        "-xml:id": "Ao_w_009457",
+        "t": "rote"
+        },
+        {
+        "-xml:id": "Ao_w_009458",
+        "t": "d"
+        },
+        {
+        "-xml:id": "Ao_w_009459",
+        "t": "autres"
+        },
+        {
+        "-xml:id": "Ao_w_009460",
+        "t": "vallez"
+        },
+        {
+        "-xml:id": "Ao_w_009461",
+        "t": "qui"
+        },
+        {
+        "-xml:id": "Ao_w_009462",
+        "t": "noviau"
+        },
+        {
+        "-xml:id": "Ao_w_009463",
+        "t": "chevalier"
+        },
+        {
+        "-xml:id": "Ao_w_009464",
+        "t": "devoient"
+        },
+        {
+        "-xml:id": "Ao_w_009465",
+        "t": "estre"
+        },
+        {
+        "-xml:id": "Ao_w_009466",
+        "t": "l"
+        },
+        {
+        "-xml:id": "Ao_w_009467",
+        "t": "andemain"
+        },
+        {
+        "-xml:id": "Ao_w_009468",
+        "t": "Qant"
+        },
+        {
+        "-xml:id": "Ao_w_009469",
+        "t": "il"
+        },
+        {"-xml:id": "Ao_w_009470",
+              "t": "vindrent"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_007049",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_007050",
+        "t": "avec"
+        },{
+        "-xml:id": "Ez_w_007051",
+        "t": "eulz"
+        },{
+        "-xml:id": "Ez_w_007052",
+        "t": "grant"
+        },{
+        "-xml:id": "Ez_w_007053",
+        "t": "nombre"
+        },{
+        "-xml:id": "Ez_w_007054",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_007055",
+        "t": "chevaliers"
+        },{
+        "-xml:id": "Ez_w_007056",
+        "t": "Et"
+        },{
+        "-xml:id": "Ez_w_007057",
+        "t": "lendemain"
+        },{
+        "-xml:id": "Ez_w_007058",
+        "t": "devoient"
+        },{
+        "-xml:id": "Ez_w_007059",
+        "t": "estre"
+        },{
+        "-xml:id": "Ez_w_007060",
+        "t": "faiz"
+        },{
+        "-xml:id": "Ez_w_007061",
+        "t": "plusieurs"
+        },{
+        "-xml:id": "Ez_w_007062",
+        "t": "chevaliers"
+        },{
+        "-xml:id": "Ez_w_007063",
+        "t": "nouveaux"
+        },{
+        "-xml:id": "Ez_w_007064",
+        "t": "Quant"
+        },{
+        "-xml:id": "Ez_w_007065",
+        "t": "ilz"
+        },{
+        "-xml:id": "Ez_w_007066",
+        "t": "vindrent"
+        }]
+            }
+        ]
+    }

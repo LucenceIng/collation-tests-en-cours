@@ -1,0 +1,154 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_009369",
+        "t": "Et"
+        },
+        {
+        "-xml:id": "Ao_w_009370",
+        "t": "ele"
+        },
+        {
+        "-xml:id": "Ao_w_009371",
+        "t": "dit"
+        },
+        {
+        "-xml:id": "Ao_w_009372",
+        "t": "qu"
+        },
+        {
+        "-xml:id": "Ao_w_009373",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_009374",
+        "t": "puet"
+        },
+        {
+        "-xml:id": "Ao_w_009375",
+        "t": "bien"
+        },
+        {
+        "-xml:id": "Ao_w_009376",
+        "t": "estre"
+        },
+        {
+        "-xml:id": "Ao_w_009377",
+        "t": "Mais"
+        },
+        {
+        "-xml:id": "Ao_w_009378",
+        "t": "ce"
+        },
+        {
+        "-xml:id": "Ao_w_009379",
+        "t": "disoient"
+        },
+        {
+        "-xml:id": "Ao_w_009380",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_009381",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_009382",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_009383",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_009384",
+        "t": "vallez"
+        },
+        {
+        "-xml:id": "Ao_w_009385",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_009386",
+        "t": "l"
+        },
+        {
+        "-xml:id": "Ao_w_009387",
+        "t": "ooit"
+        },
+        {"-xml:id": "Ao_w_009388",
+              "t": "pas"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_006987",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_006988",
+        "t": "elle"
+        },{
+        "-xml:id": "Ez_w_006989",
+        "t": "dist"
+        },{
+        "-xml:id": "Ez_w_006990",
+        "t": "qu"
+        },{
+        "-xml:id": "Ez_w_006991",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_006992",
+        "t": "peut"
+        },{
+        "-xml:id": "Ez_w_006993",
+        "t": "bien"
+        },{
+        "-xml:id": "Ez_w_006994",
+        "t": "estre"
+        },{
+        "-xml:id": "Ez_w_006995",
+        "t": "mais"
+        },{
+        "-xml:id": "Ez_w_006996",
+        "t": "ce"
+        },{
+        "-xml:id": "Ez_w_006997",
+        "t": "disoent"
+        },{
+        "-xml:id": "Ez_w_006998",
+        "t": "ilz"
+        },{
+        "-xml:id": "Ez_w_006999",
+        "t": "si"
+        },{
+        "-xml:id": "Ez_w_007000",
+        "t": "bas"
+        },{
+        "-xml:id": "Ez_w_007001",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_007002",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_007003",
+        "t": "varlet"
+        },{
+        "-xml:id": "Ez_w_007004",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_007005",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_007006",
+        "t": "oyet"
+        },{
+        "-xml:id": "Ez_w_007007",
+        "t": "pas"
+        }]
+            }
+        ]
+    }

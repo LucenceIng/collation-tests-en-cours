@@ -1,0 +1,283 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_005298",
+        "t": "Quant"
+        },
+        {
+        "-xml:id": "Ao_w_005299",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_005300",
+        "t": "encontra"
+        },
+        {
+        "-xml:id": "Ao_w_005301",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_005302",
+        "t": "rote"
+        },
+        {
+        "-xml:id": "Ao_w_005303",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_005304",
+        "t": "demanda"
+        },
+        {
+        "-xml:id": "Ao_w_005305",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_005306",
+        "t": "qex"
+        },
+        {
+        "-xml:id": "Ao_w_005307",
+        "t": "estoit"
+        },
+        {
+        "-xml:id": "Ao_w_005308",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_005309",
+        "t": "rois"
+        },
+        {
+        "-xml:id": "Ao_w_005310",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_005311",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_005312",
+        "t": "fu"
+        },
+        {
+        "-xml:id": "Ao_w_005313",
+        "t": "assez"
+        },
+        {
+        "-xml:id": "Ao_w_005314",
+        "t": "qui"
+        },
+        {
+        "-xml:id": "Ao_w_005315",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_005316",
+        "t": "mostra"
+        },
+        {
+        "-xml:id": "Ao_w_005317",
+        "t": "Il"
+        },
+        {
+        "-xml:id": "Ao_w_005318",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_005319",
+        "t": "arester"
+        },
+        {
+        "-xml:id": "Ao_w_005320",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_005321",
+        "t": "litiere"
+        },
+        {
+        "-xml:id": "Ao_w_005322",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_005323",
+        "t": "salue"
+        },
+        {
+        "-xml:id": "Ao_w_005324",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_005325",
+        "t": "roi"
+        },
+        {
+        "-xml:id": "Ao_w_005326",
+        "t": "Et"
+        },
+        {
+        "-xml:id": "Ao_w_005327",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_005328",
+        "t": "rois"
+        },
+        {
+        "-xml:id": "Ao_w_005329",
+        "t": "s"
+        },
+        {
+        "-xml:id": "Ao_w_005330",
+        "t": "areste"
+        },
+        {
+        "-xml:id": "Ao_w_005331",
+        "t": "mout"
+        },
+        {
+        "-xml:id": "Ao_w_005332",
+        "t": "volentiers"
+        },
+        {
+        "-xml:id": "Ao_w_005333",
+        "t": "por"
+        },
+        {
+        "-xml:id": "Ao_w_005334",
+        "t": "lui"
+        },
+        {
+        "-xml:id": "Ao_w_005335",
+        "t": "oïr"
+        },
+        {
+        "-xml:id": "Ao_w_005336",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_005337",
+        "t": "l"
+        },
+        {
+        "-xml:id": "Ao_w_005338",
+        "t": "esgarde"
+        },
+        {
+        "-xml:id": "Ao_w_005339",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_005340",
+        "t": "grant"
+        },
+        {"-xml:id": "Ao_w_005341",
+              "t": "mervoille"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_004916",
+        "t": "Quant"
+        },{
+        "-xml:id": "Ez_w_004917",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_004918",
+        "t": "vint"
+        },{
+        "-xml:id": "Ez_w_004919",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_004920",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_004921",
+        "t": "demanda"
+        },{
+        "-xml:id": "Ez_w_004922",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_004923",
+        "t": "quel"
+        },{
+        "-xml:id": "Ez_w_004924",
+        "t": "estoit"
+        },{
+        "-xml:id": "Ez_w_004925",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_004926",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_004927",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_004928",
+        "t": "on"
+        },{
+        "-xml:id": "Ez_w_004929",
+        "t": "lui"
+        },{
+        "-xml:id": "Ez_w_004930",
+        "t": "monstra"
+        },{
+        "-xml:id": "Ez_w_004931",
+        "t": "Si"
+        },{
+        "-xml:id": "Ez_w_004932",
+        "t": "fist"
+        },{
+        "-xml:id": "Ez_w_004933",
+        "t": "arrester"
+        },{
+        "-xml:id": "Ez_w_004934",
+        "t": "sa"
+        },{
+        "-xml:id": "Ez_w_004935",
+        "t": "littiere"
+        },{
+        "-xml:id": "Ez_w_004936",
+        "t": "pour"
+        },{
+        "-xml:id": "Ez_w_004937",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_004938",
+        "t": "saluer"
+        },{
+        "-xml:id": "Ez_w_004939",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_004940",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_004941",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_004942",
+        "t": "se"
+        },{
+        "-xml:id": "Ez_w_004943",
+        "t": "arreste"
+        },{
+        "-xml:id": "Ez_w_004944",
+        "t": "voulentiers"
+        },{
+        "-xml:id": "Ez_w_004945",
+        "t": "pour"
+        },{
+        "-xml:id": "Ez_w_004946",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_004947",
+        "t": "ouir"
+        }]
+            }
+        ]
+    }

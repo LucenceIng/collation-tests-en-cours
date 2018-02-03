@@ -1,0 +1,192 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_007265",
+        "t": "Sire"
+        },
+        {
+        "-xml:id": "Ao_w_007266",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_007267",
+        "t": "ele"
+        },
+        {
+        "-xml:id": "Ao_w_007268",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_007269",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_007270",
+        "t": "preudome"
+        },
+        {
+        "-xml:id": "Ao_w_007271",
+        "t": "com"
+        },
+        {
+        "-xml:id": "Ao_w_007272",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_007273",
+        "t": "iestes"
+        },
+        {
+        "-xml:id": "Ao_w_007274",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_007275",
+        "t": "doi"
+        },
+        {
+        "-xml:id": "Ao_w_007276",
+        "t": "ge"
+        },
+        {
+        "-xml:id": "Ao_w_007277",
+        "t": "pas"
+        },
+        {
+        "-xml:id": "Ao_w_007278",
+        "t": "mon"
+        },
+        {
+        "-xml:id": "Ao_w_007279",
+        "t": "non"
+        },
+        {
+        "-xml:id": "Ao_w_007280",
+        "t": "celer"
+        },
+        {
+        "-xml:id": "Ao_w_007281",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_007282",
+        "t": "gel"
+        },
+        {
+        "-xml:id": "Ao_w_007283",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_007284",
+        "t": "dirai"
+        },
+        {
+        "-xml:id": "Ao_w_007285",
+        "t": "L"
+        },
+        {
+        "-xml:id": "Ao_w_007286",
+        "t": "an"
+        },
+        {
+        "-xml:id": "Ao_w_007287",
+        "t": "m"
+        },
+        {
+        "-xml:id": "Ao_w_007288",
+        "t": "apele"
+        },
+        {
+        "-xml:id": "Ao_w_007289",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_007290",
+        "t": "Dame"
+        },
+        {
+        "-xml:id": "Ao_w_007291",
+        "t": "del"
+        },
+        {"-xml:id": "Ao_w_007292",
+              "t": "Lac"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_005761",
+        "t": "Sire"
+        },{
+        "-xml:id": "Ez_w_005762",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_005763",
+        "t": "elle"
+        },{
+        "-xml:id": "Ez_w_005764",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_005765",
+        "t": "si"
+        },{
+        "-xml:id": "Ez_w_005766",
+        "t": "preudomme"
+        },{
+        "-xml:id": "Ez_w_005767",
+        "t": "comme"
+        },{
+        "-xml:id": "Ez_w_005768",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_005769",
+        "t": "estes"
+        },{
+        "-xml:id": "Ez_w_005770",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_005771",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_005772",
+        "t": "dois"
+        },{
+        "-xml:id": "Ez_w_005773",
+        "t": "pas"
+        },{
+        "-xml:id": "Ez_w_005774",
+        "t": "mon"
+        },{
+        "-xml:id": "Ez_w_005775",
+        "t": "nom"
+        },{
+        "-xml:id": "Ez_w_005776",
+        "t": "celer"
+        },{
+        "-xml:id": "Ez_w_005777",
+        "t": "on"
+        },{
+        "-xml:id": "Ez_w_005778",
+        "t": "me"
+        },{
+        "-xml:id": "Ez_w_005779",
+        "t": "appelle"
+        },{
+        "-xml:id": "Ez_w_005780",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_005781",
+        "t": "dame"
+        },{
+        "-xml:id": "Ez_w_005782",
+        "t": "du"
+        },{
+        "-xml:id": "Ez_w_005783",
+        "t": "lac"
+        }]
+            }
+        ]
+    }

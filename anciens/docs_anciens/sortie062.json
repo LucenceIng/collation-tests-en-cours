@@ -1,0 +1,137 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_005479",
+        "t": "Il"
+        },
+        {
+        "-xml:id": "Ao_w_005480",
+        "t": "meesmes"
+        },
+        {
+        "-xml:id": "Ao_w_005481",
+        "t": "giete"
+        },
+        {
+        "-xml:id": "Ao_w_005482",
+        "t": "les"
+        },
+        {
+        "-xml:id": "Ao_w_005483",
+        "t": "poinz"
+        },
+        {
+        "-xml:id": "Ao_w_005484",
+        "t": "por"
+        },
+        {
+        "-xml:id": "Ao_w_005485",
+        "t": "sachier"
+        },
+        {
+        "-xml:id": "Ao_w_005486",
+        "t": "hors"
+        },
+        {
+        "-xml:id": "Ao_w_005487",
+        "t": "les"
+        },
+        {
+        "-xml:id": "Ao_w_005488",
+        "t": "tronçons"
+        },
+        {
+        "-xml:id": "Ao_w_005489",
+        "t": "Et"
+        },
+        {
+        "-xml:id": "Ao_w_005490",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_005491",
+        "t": "chevaliers"
+        },
+        {
+        "-xml:id": "Ao_w_005492",
+        "t": "li"
+        },
+        {"-xml:id": "Ao_w_005493",
+              "t": "crie"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_005059",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_005060",
+        "t": "lui"
+        },{
+        "-xml:id": "Ez_w_005061",
+        "t": "mesmes"
+        },{
+        "-xml:id": "Ez_w_005062",
+        "t": "y"
+        },{
+        "-xml:id": "Ez_w_005063",
+        "t": "veult"
+        },{
+        "-xml:id": "Ez_w_005064",
+        "t": "mettre"
+        },{
+        "-xml:id": "Ez_w_005065",
+        "t": "les"
+        },{
+        "-xml:id": "Ez_w_005066",
+        "t": "mains"
+        },{
+        "-xml:id": "Ez_w_005067",
+        "t": "pour"
+        },{
+        "-xml:id": "Ez_w_005068",
+        "t": "lui"
+        },{
+        "-xml:id": "Ez_w_005069",
+        "t": "oster"
+        },{
+        "-xml:id": "Ez_w_005070",
+        "t": "l"
+        },{
+        "-xml:id": "Ez_w_005071",
+        "t": "espee"
+        },{
+        "-xml:id": "Ez_w_005072",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_005073",
+        "t": "les"
+        },{
+        "-xml:id": "Ez_w_005074",
+        "t": "deux"
+        },{
+        "-xml:id": "Ez_w_005075",
+        "t": "tronchons"
+        },{
+        "-xml:id": "Ez_w_005076",
+        "t": "Et"
+        },{
+        "-xml:id": "Ez_w_005077",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_005078",
+        "t": "chevalier"
+        },{
+        "-xml:id": "Ez_w_005079",
+        "t": "lui"
+        },{
+        "-xml:id": "Ez_w_005080",
+        "t": "dist"
+        }]
+            }
+        ]
+    }

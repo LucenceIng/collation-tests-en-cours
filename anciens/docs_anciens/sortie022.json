@@ -1,0 +1,173 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_001184",
+        "t": "Por"
+        },
+        {
+        "-xml:id": "Ao_w_001185",
+        "t": "quoi"
+        },
+        {
+        "-xml:id": "Ao_w_001186",
+        "t": "dame"
+        },
+        {
+        "-xml:id": "Ao_w_001187",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_001188",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_001189",
+        "t": "sont"
+        },
+        {
+        "-xml:id": "Ao_w_001190",
+        "t": "donques"
+        },
+        {
+        "-xml:id": "Ao_w_001191",
+        "t": "tuit"
+        },
+        {
+        "-xml:id": "Ao_w_001192",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_001193",
+        "t": "chevalier"
+        },
+        {
+        "-xml:id": "Ao_w_001194",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_001195",
+        "t": "greignor"
+        },
+        {
+        "-xml:id": "Ao_w_001196",
+        "t": "force"
+        },
+        {
+        "-xml:id": "Ao_w_001197",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_001198",
+        "t": "cors"
+        },
+        {
+        "-xml:id": "Ao_w_001199",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_001200",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_001201",
+        "t": "manbres"
+        },
+        {
+        "-xml:id": "Ao_w_001202",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_001203",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_001204",
+        "t": "autre"
+        },
+        {
+        "-xml:id": "Ao_w_001205",
+        "t": "home"
+        },
+        {
+        "-xml:id": "Ao_w_001206",
+        "t": "ne"
+        },
+        {"-xml:id": "Ao_w_001207",
+              "t": "sont"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_001564",
+        "t": "Comment"
+        },{
+        "-xml:id": "Ez_w_001565",
+        "t": "dame"
+        },{
+        "-xml:id": "Ez_w_001566",
+        "t": "sont"
+        },{
+        "-xml:id": "Ez_w_001567",
+        "t": "donc"
+        },{
+        "-xml:id": "Ez_w_001568",
+        "t": "tous"
+        },{
+        "-xml:id": "Ez_w_001569",
+        "t": "les"
+        },{
+        "-xml:id": "Ez_w_001570",
+        "t": "bons"
+        },{
+        "-xml:id": "Ez_w_001571",
+        "t": "chevaliers"
+        },{
+        "-xml:id": "Ez_w_001572",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_001573",
+        "t": "greigneur"
+        },{
+        "-xml:id": "Ez_w_001574",
+        "t": "force"
+        },{
+        "-xml:id": "Ez_w_001575",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_001576",
+        "t": "corps"
+        },{
+        "-xml:id": "Ez_w_001577",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_001578",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_001579",
+        "t": "membres"
+        },{
+        "-xml:id": "Ez_w_001580",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_001581",
+        "t": "les"
+        },{
+        "-xml:id": "Ez_w_001582",
+        "t": "autres"
+        },{
+        "-xml:id": "Ez_w_001583",
+        "t": "hommes"
+        },{
+        "-xml:id": "Ez_w_001584",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_001585",
+        "t": "sont"
+        }]
+            }
+        ]
+    }

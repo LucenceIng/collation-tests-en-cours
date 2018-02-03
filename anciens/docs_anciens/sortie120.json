@@ -1,0 +1,245 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_009336",
+        "t": "Dame"
+        },
+        {
+        "-xml:id": "Ao_w_009337",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_009338",
+        "t": "messire"
+        },
+        {
+        "-xml:id": "Ao_w_009339",
+        "t": "Yvains"
+        },
+        {
+        "-xml:id": "Ao_w_009340",
+        "t": "entre"
+        },
+        {
+        "-xml:id": "Ao_w_009341",
+        "t": "moi"
+        },
+        {
+        "-xml:id": "Ao_w_009342",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_009343",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_009344",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_009345",
+        "t": "savons"
+        },
+        {
+        "-xml:id": "Ao_w_009346",
+        "t": "pas"
+        },
+        {
+        "-xml:id": "Ao_w_009347",
+        "t": "bien"
+        },
+        {
+        "-xml:id": "Ao_w_009348",
+        "t": "comment"
+        },
+        {
+        "-xml:id": "Ao_w_009349",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_009350",
+        "t": "est"
+        },
+        {
+        "-xml:id": "Ao_w_009351",
+        "t": "Par"
+        },
+        {
+        "-xml:id": "Ao_w_009352",
+        "t": "aventure"
+        },
+        {
+        "-xml:id": "Ao_w_009353",
+        "t": "deffandu"
+        },
+        {
+        "-xml:id": "Ao_w_009354",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_009355",
+        "t": "est"
+        },
+        {
+        "-xml:id": "Ao_w_009356",
+        "t": "qu"
+        },
+        {
+        "-xml:id": "Ao_w_009357",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_009358",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_009359",
+        "t": "nos"
+        },
+        {
+        "-xml:id": "Ao_w_009360",
+        "t": "die"
+        },
+        {
+        "-xml:id": "Ao_w_009361",
+        "t": "comment"
+        },
+        {
+        "-xml:id": "Ao_w_009362",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_009363",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_009364",
+        "t": "non"
+        },
+        {
+        "-xml:id": "Ao_w_009365",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_009366",
+        "t": "qui"
+        },
+        {
+        "-xml:id": "Ao_w_009367",
+        "t": "il"
+        },
+        {"-xml:id": "Ao_w_009368",
+              "t": "est"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_006953",
+        "t": "Nenny"
+        },{
+        "-xml:id": "Ez_w_006954",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_006955",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_006956",
+        "t": "fors"
+        },{
+        "-xml:id": "Ez_w_006957",
+        "t": "tant"
+        },{
+        "-xml:id": "Ez_w_006958",
+        "t": "qu"
+        },{
+        "-xml:id": "Ez_w_006959",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_006960",
+        "t": "est"
+        },{
+        "-xml:id": "Ez_w_006961",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_006962",
+        "t": "gaulle"
+        },{
+        "-xml:id": "Ez_w_006963",
+        "t": "car"
+        },{
+        "-xml:id": "Ez_w_006964",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_006965",
+        "t": "en"
+        },{
+        "-xml:id": "Ez_w_006966",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_006967",
+        "t": "bien"
+        },{
+        "-xml:id": "Ez_w_006968",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_006969",
+        "t": "parler"
+        },{
+        "-xml:id": "Ez_w_006970",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_006971",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_006972",
+        "t": "croy"
+        },{
+        "-xml:id": "Ez_w_006973",
+        "t": "qu"
+        },{
+        "-xml:id": "Ez_w_006974",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_006975",
+        "t": "lui"
+        },{
+        "-xml:id": "Ez_w_006976",
+        "t": "est"
+        },{
+        "-xml:id": "Ez_w_006977",
+        "t": "deffendu"
+        },{
+        "-xml:id": "Ez_w_006978",
+        "t": "qu"
+        },{
+        "-xml:id": "Ez_w_006979",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_006980",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_006981",
+        "t": "nous"
+        },{
+        "-xml:id": "Ez_w_006982",
+        "t": "die"
+        },{
+        "-xml:id": "Ez_w_006983",
+        "t": "comment"
+        },{
+        "-xml:id": "Ez_w_006984",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_006985",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_006986",
+        "t": "non"
+        }]
+            }
+        ]
+    }

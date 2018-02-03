@@ -1,0 +1,918 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_000256",
+        "lemme" : "cant1",
+        "t": "Qant "
+        },
+        {
+        "-xml:id": "Ao_w_000257",
+        "lemme" : "venir",
+        "t": "vint "
+        },
+        {
+        "-xml:id": "Ao_w_000258",
+        "lemme" : "a3+le",
+        "t": "au "
+        },
+        {
+        "-xml:id": "Ao_w_000259",
+        "lemme" : "chief1",
+        "t": "chief "
+        },
+        {
+        "-xml:id": "Ao_w_000260",
+        "lemme" : "de",
+        "t": "de "
+        },
+        {
+        "-xml:id": "Ao_w_000261",
+        "lemme" : "dis+huit",
+        "t": "dishuit "
+        },
+        {
+        "-xml:id": "Ao_w_000262",
+        "lemme" : "an",
+        "t": "anz "
+        },
+        {
+        "-xml:id": "Ao_w_000263",
+        "lemme" : "un",
+        "t": "un "
+        },
+        {
+        "-xml:id": "Ao_w_000264",
+        "lemme" : "poi",
+        "t": "po "
+        },
+        {
+        "-xml:id": "Ao_w_000265",
+        "lemme" : "après",
+        "t": "aprés "
+        },
+        {
+        "-xml:id": "Ao_w_000266",
+        "lemme" : "le",
+        "t": "la "
+        },
+        {
+        "-xml:id": "Ao_w_000267",
+        "lemme" : "pentecoste",
+        "t": "Pentecoste "
+        },
+        {
+        "-xml:id": "Ao_w_000268",
+        "lemme" : "si",
+        "t": "si "
+        },
+        {
+        "-xml:id": "Ao_w_000269",
+        "lemme" : "estre1",
+        "t": "fu "
+        },
+        {
+        "-xml:id": "Ao_w_000270",
+        "lemme" : "aler",
+        "t": "alez "
+        },
+        {
+        "-xml:id": "Ao_w_000271",
+        "lemme" : "en1",
+        "t": "en "
+        },
+        {
+        "-xml:id": "Ao_w_000272",
+        "lemme" : "bois",
+        "t": "bois "
+        },
+        {
+        "-xml:id": "Ao_w_000273",
+        "lemme" : "si",
+        "t": "si "
+        },
+        {
+        "-xml:id": "Ao_w_000274",
+        "lemme" : "avoir",
+        "t": "ot "
+        },
+        {
+        "-xml:id": "Ao_w_000275",
+        "lemme" : "trover",
+        "t": "trové "
+        },
+        {
+        "-xml:id": "Ao_w_000276",
+        "lemme" : "un",
+        "t": "un "
+        },
+        {
+        "-xml:id": "Ao_w_000277",
+        "lemme" : "si",
+        "t": "si "
+        },
+        {
+        "-xml:id": "Ao_w_000278",
+        "lemme" : "grant",
+        "t": "grant "
+        },
+        {
+        "-xml:id": "Ao_w_000279",
+        "lemme" : "cerf",
+        "t": "cerf "
+        },
+        {
+        "-xml:id": "Ao_w_000280",
+        "lemme" : "que2",
+        "t": "que "
+        },
+        {
+        "-xml:id": "Ao_w_000281",
+        "lemme" : "onques",
+        "t": "onques "
+        },
+        {
+        "-xml:id": "Ao_w_000282",
+        "lemme" : "mais1",
+        "t": "mais "
+        },
+        {
+        "-xml:id": "Ao_w_000283",
+        "lemme" : "en1",
+        "t": "en "
+        },
+        {
+        "-xml:id": "Ao_w_000284",
+        "lemme" : "son4",
+        "t": "sa "
+        },
+        {
+        "-xml:id": "Ao_w_000285",
+        "lemme" : "vie",
+        "t": "vie "
+        },
+        {
+        "-xml:id": "Ao_w_000286",
+        "lemme" : "un",
+        "t": "un "
+        },
+        {
+        "-xml:id": "Ao_w_000287",
+        "lemme" : "si",
+        "t": "si "
+        },
+        {
+        "-xml:id": "Ao_w_000288",
+        "lemme" : "grant",
+        "t": "grant "
+        },
+        {
+        "-xml:id": "Ao_w_000289",
+        "lemme" : "ne1",
+        "t": "n "
+        },
+        {
+        "-xml:id": "Ao_w_000290",
+        "lemme" : "avoir",
+        "t": "avoit "
+        },
+        {
+        "-xml:id": "Ao_w_000291",
+        "lemme" : "vëoir",
+        "t": "veü "
+        },
+        {
+        "-xml:id": "Ao_w_000292",
+        "lemme" : "et",
+        "t": "Et "
+        },
+        {
+        "-xml:id": "Ao_w_000293",
+        "lemme" : "por2",
+        "t": "por "
+        },
+        {
+        "-xml:id": "Ao_w_000294",
+        "lemme" : "le",
+        "t": "la "
+        },
+        {
+        "-xml:id": "Ao_w_000295",
+        "lemme" : "grant",
+        "t": "grant "
+        },
+        {
+        "-xml:id": "Ao_w_000296",
+        "lemme" : "merveille",
+        "t": "mervoille "
+        },
+        {
+        "-xml:id": "Ao_w_000297",
+        "lemme" : "mostrer",
+        "t": "mostrer "
+        },
+        {
+        "-xml:id": "Ao_w_000298",
+        "lemme" : "si",
+        "t": "si "
+        },
+        {
+        "-xml:id": "Ao_w_000299",
+        "lemme" : "i2",
+        "t": "i "
+        },
+        {
+        "-xml:id": "Ao_w_000300",
+        "lemme" : "traire",
+        "t": "traist "
+        },
+        {
+        "-xml:id": "Ao_w_000301",
+        "lemme" : "et",
+        "t": "et "
+        },
+        {
+        "-xml:id": "Ao_w_000302",
+        "lemme" : "il",
+        "t": "l "
+        },
+        {
+        "-xml:id": "Ao_w_000303",
+        "lemme" : "ocire",
+        "t": "ocist "
+        },
+        {
+        "-xml:id": "Ao_w_000304",
+        "lemme" : "cant1",
+        "t": "Qant "
+        },
+        {
+        "-xml:id": "Ao_w_000305",
+        "lemme" : "il",
+        "t": "il "
+        },
+        {
+        "-xml:id": "Ao_w_000306",
+        "lemme" : "il",
+        "t": "l "
+        },
+        {
+        "-xml:id": "Ao_w_000307",
+        "lemme" : "avoir",
+        "t": "ot "
+        },
+        {
+        "-xml:id": "Ao_w_000308",
+        "lemme" : "ocire",
+        "t": "ocis "
+        },
+        {
+        "-xml:id": "Ao_w_000309",
+        "lemme" : "si",
+        "t": "si "
+        },
+        {
+        "-xml:id": "Ao_w_000310",
+        "lemme" : "il",
+        "t": "lo "
+        },
+        {
+        "-xml:id": "Ao_w_000311",
+        "lemme" : "trover",
+        "t": "trova "
+        },
+        {
+        "-xml:id": "Ao_w_000312",
+        "lemme" : "de",
+        "t": "de "
+        },
+        {
+        "-xml:id": "Ao_w_000313",
+        "lemme" : "grant",
+        "t": "grant "
+        },
+        {
+        "-xml:id": "Ao_w_000314",
+        "lemme" : "craisse",
+        "t": "graisse "
+        },
+        {
+        "-xml:id": "Ao_w_000315",
+        "lemme" : "come1",
+        "t": "com "
+        },
+        {
+        "-xml:id": "Ao_w_000316",
+        "lemme" : "se",
+        "t": "s "
+        },
+        {
+        "-xml:id": "Ao_w_000317",
+        "lemme" : "il",
+        "t": "il "
+        },
+        {
+        "-xml:id": "Ao_w_000318",
+        "lemme" : "estre1",
+        "t": "fust "
+        },
+        {
+        "-xml:id": "Ao_w_000319",
+        "lemme" : "en1+le",
+        "t": "el "
+        },
+        {
+        "-xml:id": "Ao_w_000320",
+        "lemme" : "mois1",
+        "t": "mois "
+        },
+        {
+        "-xml:id": "Ao_w_000321",
+        "lemme" : "de",
+        "t": "d "
+        },
+        {
+        "-xml:id": "Ao_w_000322",
+        "lemme" : "aost",
+        "t": "aost "
+        },
+        {
+        "-xml:id": "Ao_w_000323",
+        "lemme" : "si",
+        "t": "Si "
+        },
+        {
+        "-xml:id": "Ao_w_000324",
+        "lemme" : "il",
+        "t": "l "
+        },
+        {
+        "-xml:id": "Ao_w_000325",
+        "lemme" : "esgarder",
+        "t": "esgardoient "
+        },
+        {
+        "-xml:id": "Ao_w_000326",
+        "lemme" : "tot",
+        "t": "tuit "
+        },
+        {
+        "-xml:id": "Ao_w_000327",
+        "lemme" : "son4",
+        "t": "si "
+        },
+        {
+        "-xml:id": "Ao_w_000328",
+        "lemme" : "compagnon",
+        "t": "compaignon "
+        },
+        {
+        "-xml:id": "Ao_w_000329",
+        "lemme" : "a3",
+        "t": "a "
+        },
+        {
+        "-xml:id": "Ao_w_000330",
+        "lemme" : "grant",
+        "t": "grant "
+        },
+        {
+        "-xml:id": "Ao_w_000331",
+        "lemme" : "merveille",
+        "t": "mervoille "
+        },
+        {
+        "-xml:id": "Ao_w_000332",
+        "lemme" : "il",
+        "t": "Il "
+        },
+        {
+        "-xml:id": "Ao_w_000333",
+        "lemme" : "envoier",
+        "t": "enveia "
+        },
+        {
+        "-xml:id": "Ao_w_000334",
+        "lemme" : "le",
+        "t": "lo "
+        },
+        {
+        "-xml:id": "Ao_w_000335",
+        "lemme" : "cerf",
+        "t": "cerf "
+        },
+        {
+        "-xml:id": "Ao_w_000336",
+        "lemme" : "a3",
+        "t": "a "
+        },
+        {
+        "-xml:id": "Ao_w_000337",
+        "lemme" : "son4",
+        "t": "sa "
+        },
+        {
+        "-xml:id": "Ao_w_000338",
+        "lemme" : "dame",
+        "t": "dame "
+        },
+        {
+        "-xml:id": "Ao_w_000339",
+        "lemme" : "par",
+        "t": "par "
+        },
+        {
+        "-xml:id": "Ao_w_000340",
+        "lemme" : "deus",
+        "t": "deus "
+        },
+        {
+        "-xml:id": "Ao_w_000341",
+        "lemme" : "vaslet",
+        "t": "vallez "
+        },
+        {
+        "-xml:id": "Ao_w_000342",
+        "lemme" : "et",
+        "t": "et "
+        },
+        {
+        "-xml:id": "Ao_w_000343",
+        "lemme" : "il",
+        "t": "ele "
+        },
+        {
+        "-xml:id": "Ao_w_000344",
+        "lemme" : "soi1",
+        "t": "se "
+        },
+        {
+        "-xml:id": "Ao_w_000345",
+        "lemme" : "merveillier",
+        "t": "merveilla "
+        },
+        {
+        "-xml:id": "Ao_w_000346",
+        "lemme" : "trop",
+        "t": "trop "
+        },
+        {
+        "-xml:id": "Ao_w_000347",
+        "lemme" : "durement",
+        "t": "durement "
+        },
+        {
+        "-xml:id": "Ao_w_000348",
+        "lemme" : "coment",
+        "t": "comment "
+        },
+        {
+        "-xml:id": "Ao_w_000349",
+        "lemme" : "il",
+        "t": "il "
+        },
+        {
+        "-xml:id": "Ao_w_000350",
+        "lemme" : "estre1",
+        "t": "estoit "
+        },
+        {
+        "-xml:id": "Ao_w_000351",
+        "lemme" : "si",
+        "t": "si "
+        },
+        {
+        "-xml:id": "Ao_w_000352",
+        "lemme" : "cras",
+        "t": "gras "
+        },
+        {
+        "-xml:id": "Ao_w_000353",
+        "lemme" : "en1",
+        "t": "en "
+        },
+        {
+        "-xml:id": "Ao_w_000354",
+        "lemme" : "tel",
+        "t": "tel "
+        },
+        {
+        "-xml:id": "Ao_w_000355",
+        "lemme" : "saison",
+        "t": "saison "
+        },
+        {
+        "-xml:id": "Ao_w_000356",
+        "lemme" : "et",
+        "t": "et "
+        },
+        {
+        "-xml:id": "Ao_w_000357",
+        "lemme" : "de",
+        "t": "de "
+        },
+        {
+        "-xml:id": "Ao_w_000358",
+        "lemme" : "le",
+        "t": "la "
+        },
+        {
+        "-xml:id": "Ao_w_000359",
+        "lemme" : "grandor",
+        "t": "grandor "
+        },
+        {
+        "-xml:id": "Ao_w_000360",
+        "lemme" : "que2",
+        "t": "qu "
+        },
+        {
+        "-xml:id": "Ao_w_000361",
+        "lemme" : "il",
+        "t": "il "
+        },
+        {
+        "-xml:id": "Ao_w_000362",
+        "lemme" : "avoir",
+        "t": "avoit "
+        },
+        {
+        "-xml:id": "Ao_w_000363",
+        "lemme" : "soi1",
+        "t": "se "
+        },
+        {
+        "-xml:id": "Ao_w_000364",
+        "lemme" : "merveillier",
+        "t": "merveilla "
+        },
+        {
+        "-xml:id": "Ao_w_000365",
+        "lemme" : "a3",
+        "t": "a "
+        },
+        {"-xml:id": "Ao_w_000366",
+              "lemme" : "desmesure",      
+              "t": "desmesure "
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_000809",
+        "lemme" : "cant1",
+        "t": "Quant "
+        },{
+        "-xml:id": "Ez_w_000810",
+        "lemme" : "venir",
+        "t": "vint "
+        },{
+        "-xml:id": "Ez_w_000811",
+        "lemme" : "a3+le",
+        "t": "au "
+        },{
+        "-xml:id": "Ez_w_000812",
+        "lemme" : "chief1",
+        "t": "chief "
+        },{
+        "-xml:id": "Ez_w_000813",
+        "lemme" : "de",
+        "t": "de "
+        },{
+        "-xml:id": "Ez_w_000814",
+        "lemme" : "dis+huit",
+        "t": "xviii "
+        },{
+        "-xml:id": "Ez_w_000815",
+        "lemme" : "an",
+        "t": "ans "
+        },{
+        "-xml:id": "Ez_w_000816",
+        "lemme" : "un",
+        "t": "ung "
+        },{
+        "-xml:id": "Ez_w_000817",
+        "lemme" : "poi",
+        "t": "peu "
+        },{
+        "-xml:id": "Ez_w_000818",
+        "lemme" : "après",
+        "t": "apres "
+        },{
+        "-xml:id": "Ez_w_000819",
+        "lemme" : "la",
+        "t": "la "
+        },{
+        "-xml:id": "Ez_w_000820",
+        "lemme" : "pentecoste",
+        "t": "penthecouste "
+        },{
+        "-xml:id": "Ez_w_000821",
+        "lemme" : "il",
+        "t": "il "
+        },{
+        "-xml:id": "Ez_w_000822",
+        "lemme" : "aler",
+        "t": "ala "
+        },{
+        "-xml:id": "Ez_w_000823",
+        "lemme" : "a3+le",
+        "t": "au "
+        },{
+        "-xml:id": "Ez_w_000824",
+        "lemme" : "bois",
+        "t": "boys "
+        },{
+        "-xml:id": "Ez_w_000825",
+        "lemme" : "et",
+        "t": "et "
+        },{
+        "-xml:id": "Ez_w_000826",
+        "lemme" : "trover",
+        "t": "trouva "
+        },{
+        "-xml:id": "Ez_w_000827",
+        "lemme" : "un",
+        "t": "ung "
+        },{
+        "-xml:id": "Ez_w_000828",
+        "lemme" : "si",
+        "t": "si "
+        },{
+        "-xml:id": "Ez_w_000829",
+        "lemme" : "grant",
+        "t": "grant "
+        },{
+        "-xml:id": "Ez_w_000830",
+        "lemme" : "cerf",
+        "t": "cerf "
+        },{
+        "-xml:id": "Ez_w_000831",
+        "lemme" : "que2",
+        "t": "que "
+        },{
+        "-xml:id": "Ez_w_000832",
+        "lemme" : "oncques",
+        "t": "oncques "
+        },{
+        "-xml:id": "Ez_w_000833",
+        "lemme" : "mais1",
+        "t": "mes "
+        },{
+        "-xml:id": "Ez_w_000834",
+        "lemme" : "ne1",
+        "t": "n "
+        },{
+        "-xml:id": "Ez_w_000835",
+        "lemme" : "avoir",
+        "t": "avoit "
+        },{
+        "-xml:id": "Ez_w_000836",
+        "lemme" : "vëoir",
+        "t": "veu "
+        },{
+        "-xml:id": "Ez_w_000837",
+        "lemme" : "tel",
+        "t": "tel "
+        },{
+        "-xml:id": "Ez_w_000838",
+        "lemme" : "et",
+        "t": "Et "
+        },{
+        "-xml:id": "Ez_w_000839",
+        "lemme" : "por2",
+        "t": "pour "
+        },{
+        "-xml:id": "Ez_w_000840",
+        "lemme" : "le",
+        "t": "la "
+        },{
+        "-xml:id": "Ez_w_000841",
+        "lemme" : "merveille",
+        "t": "merveille "
+        },{
+        "-xml:id": "Ez_w_000842",
+        "lemme" : "il",
+        "t": "il "
+        },{
+        "-xml:id": "Ez_w_000843",
+        "lemme" : "tirer",
+        "t": "tira "
+        },{
+        "-xml:id": "Ez_w_000844",
+        "lemme" : "un",
+        "t": "une "
+        },{
+        "-xml:id": "Ez_w_000845",
+        "lemme" : "saiete",
+        "t": "saiette "
+        },{
+        "-xml:id": "Ez_w_000846",
+        "lemme" : "et",
+        "t": "et "
+        },{
+        "-xml:id": "Ez_w_000847",
+        "lemme" : "il",
+        "t": "l "
+        },{
+        "-xml:id": "Ez_w_000848",
+        "lemme" : "ocire",
+        "t": "occist "
+        },{
+        "-xml:id": "Ez_w_000849",
+        "lemme" : "et",
+        "t": "et "
+        },{
+        "-xml:id": "Ez_w_000850",
+        "lemme" : "il",
+        "t": "le "
+        },{
+        "-xml:id": "Ez_w_000851",
+        "lemme" : "trover",
+        "t": "trouva "
+        },{
+        "-xml:id": "Ez_w_000852",
+        "lemme" : "de",
+        "t": "de "
+        },{
+        "-xml:id": "Ez_w_000853",
+        "lemme" : "si",
+        "t": "si "
+        },{
+        "-xml:id": "Ez_w_000854",
+        "lemme" : "grant",
+        "t": "grande "
+        },{
+        "-xml:id": "Ez_w_000855",
+        "lemme" : "craisse",
+        "t": "gresse "
+        },{
+        "-xml:id": "Ez_w_000856",
+        "lemme" : "come1",
+        "t": "comme "
+        },{
+        "-xml:id": "Ez_w_000857",
+        "lemme" : "se",
+        "t": "se "
+        },{
+        "-xml:id": "Ez_w_000858",
+        "lemme" : "ce1",
+        "t": "ce "
+        },{
+        "-xml:id": "Ez_w_000859",
+        "lemme" : "estre1",
+        "t": "fust "
+        },{
+        "-xml:id": "Ez_w_000860",
+        "lemme" : "en1+le",
+        "t": "ou "
+        },{
+        "-xml:id": "Ez_w_000861",
+        "lemme" : "mois1",
+        "t": "moys "
+        },{
+        "-xml:id": "Ez_w_000862",
+        "lemme" : "de",
+        "t": "d "
+        },{
+        "-xml:id": "Ez_w_000863",
+        "lemme" : "aost",
+        "t": "aoust "
+        },{
+        "-xml:id": "Ez_w_000864",
+        "lemme" : "son4",
+        "t": "Ses "
+        },{
+        "-xml:id": "Ez_w_000865",
+        "lemme" : "compagnon",
+        "t": "compaignons "
+        },{
+        "-xml:id": "Ez_w_000866",
+        "lemme" : "il",
+        "t": "le "
+        },{
+        "-xml:id": "Ez_w_000867",
+        "lemme" : "regarder",
+        "t": "regardoient "
+        },{
+        "-xml:id": "Ez_w_000868",
+        "lemme" : "a3",
+        "t": "a "
+        },{
+        "-xml:id": "Ez_w_000869",
+        "lemme" : "merveille",
+        "t": "merveilles "
+        },{
+        "-xml:id": "Ez_w_000870",
+        "lemme" : "por2",
+        "t": "pour "
+        },{
+        "-xml:id": "Ez_w_000871",
+        "lemme" : "le",
+        "t": "la "
+        },{
+        "-xml:id": "Ez_w_000872",
+        "lemme" : "grandor",
+        "t": "grandeur "
+        },{
+        "-xml:id": "Ez_w_000873",
+        "lemme" : "que2",
+        "t": "qu "
+        },{
+        "-xml:id": "Ez_w_000874",
+        "lemme" : "il",
+        "t": "il "
+        },{
+        "-xml:id": "Ez_w_000875",
+        "lemme" : "avoir",
+        "t": "avoit "
+        },{
+        "-xml:id": "Ez_w_000876",
+        "lemme" : "il",
+        "t": "Il "
+        },{
+        "-xml:id": "Ez_w_000877",
+        "lemme" : "il",
+        "t": "l "
+        },{
+        "-xml:id": "Ez_w_000878",
+        "lemme" : "envoier",
+        "t": "envoya "
+        },{
+        "-xml:id": "Ez_w_000879",
+        "lemme" : "a3",
+        "t": "a "
+        },{
+        "-xml:id": "Ez_w_000880",
+        "lemme" : "son4",
+        "t": "sa "
+        },{
+        "-xml:id": "Ez_w_000881",
+        "lemme" : "dame",
+        "t": "dame "
+        },{
+        "-xml:id": "Ez_w_000882",
+        "lemme" : "et",
+        "t": "et "
+        },{
+        "-xml:id": "Ez_w_000883",
+        "lemme" : "cel",
+        "t": "celle "
+        },{
+        "-xml:id": "Ez_w_000886",
+        "lemme" : "soi1",
+        "t": "s "
+        },{
+        "-xml:id": "Ez_w_000887",
+        "lemme" : "esmerveillier",
+        "t": "esmerveille "
+        },{
+        "-xml:id": "Ez_w_000888",
+        "lemme" : "mout",
+        "t": "moult "
+        },{
+        "-xml:id": "Ez_w_000889",
+        "lemme" : "de",
+        "t": "de "
+        },{
+        "-xml:id": "Ez_w_000890",
+        "lemme" : "ce1",
+        "t": "ce "
+        },{
+        "-xml:id": "Ez_w_000891",
+        "lemme" : "que2",
+        "t": "que "
+        },{
+        "-xml:id": "Ez_w_000892",
+        "lemme" : "si",
+        "t": "si "
+        },{
+        "-xml:id": "Ez_w_000893",
+        "lemme" : "cras",
+        "t": "gras "
+        },{
+        "-xml:id": "Ez_w_000894",
+        "lemme" : "il",
+        "t": "le "
+        },{
+        "-xml:id": "Ez_w_000895",
+        "lemme" : "vëoir",
+        "t": "vit "
+        },{
+        "-xml:id": "Ez_w_000896",
+        "lemme" : "en1",
+        "t": "en "
+        },{
+        "-xml:id": "Ez_w_000897",
+        "lemme" : "cel",
+        "t": "celle "
+        },{
+        "-xml:id": "Ez_w_000898",
+        "lemme" : "saison",
+        "t": "saison "
+        }]
+            }
+        ]
+    }

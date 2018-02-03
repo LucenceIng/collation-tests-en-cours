@@ -1,0 +1,1283 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_004903",
+        "t": "A"
+        },
+        {
+        "-xml:id": "Ao_w_004904",
+        "t": "cel"
+        },
+        {
+        "-xml:id": "Ao_w_004905",
+        "t": "jor"
+        },
+        {
+        "-xml:id": "Ao_w_004906",
+        "t": "ce"
+        },
+        {
+        "-xml:id": "Ao_w_004907",
+        "t": "dit"
+        },
+        {
+        "-xml:id": "Ao_w_004908",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_004909",
+        "t": "contes"
+        },
+        {
+        "-xml:id": "Ao_w_004910",
+        "t": "estoit"
+        },
+        {
+        "-xml:id": "Ao_w_004911",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_004912",
+        "t": "Chamahalot"
+        },
+        {
+        "-xml:id": "Ao_w_004913",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_004914",
+        "t": "rois"
+        },
+        {
+        "-xml:id": "Ao_w_004915",
+        "t": "Artus"
+        },
+        {
+        "-xml:id": "Ao_w_004916",
+        "t": "car"
+        },
+        {
+        "-xml:id": "Ao_w_004917",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_004918",
+        "t": "i"
+        },
+        {
+        "-xml:id": "Ao_w_004919",
+        "t": "sejornoit"
+        },
+        {
+        "-xml:id": "Ao_w_004920",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_004921",
+        "t": "avocques"
+        },
+        {
+        "-xml:id": "Ao_w_004922",
+        "t": "lui"
+        },
+        {
+        "-xml:id": "Ao_w_004923",
+        "t": "grant"
+        },
+        {
+        "-xml:id": "Ao_w_004924",
+        "t": "planté"
+        },
+        {
+        "-xml:id": "Ao_w_004925",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_004926",
+        "t": "chevaliers"
+        },
+        {
+        "-xml:id": "Ao_w_004927",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_004928",
+        "t": "i"
+        },
+        {
+        "-xml:id": "Ao_w_004929",
+        "t": "devoit"
+        },
+        {
+        "-xml:id": "Ao_w_004930",
+        "t": "sa"
+        },
+        {
+        "-xml:id": "Ao_w_004931",
+        "t": "cort"
+        },
+        {
+        "-xml:id": "Ao_w_004932",
+        "t": "tenir"
+        },
+        {
+        "-xml:id": "Ao_w_004933",
+        "t": "au"
+        },
+        {
+        "-xml:id": "Ao_w_004934",
+        "t": "jor"
+        },
+        {
+        "-xml:id": "Ao_w_004935",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_004936",
+        "t": "feste"
+        },
+        {
+        "-xml:id": "Ao_w_004937",
+        "t": "Saint"
+        },
+        {
+        "-xml:id": "Ao_w_004938",
+        "t": "Jehan"
+        },
+        {
+        "-xml:id": "Ao_w_004939",
+        "t": "Au"
+        },
+        {
+        "-xml:id": "Ao_w_004940",
+        "t": "vendredi"
+        },
+        {
+        "-xml:id": "Ao_w_004941",
+        "t": "matin"
+        },
+        {
+        "-xml:id": "Ao_w_004942",
+        "t": "se"
+        },
+        {
+        "-xml:id": "Ao_w_004943",
+        "t": "leva"
+        },
+        {
+        "-xml:id": "Ao_w_004944",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_004945",
+        "t": "rois"
+        },
+        {
+        "-xml:id": "Ao_w_004946",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_004947",
+        "t": "main"
+        },
+        {
+        "-xml:id": "Ao_w_004948",
+        "t": "com"
+        },
+        {
+        "-xml:id": "Ao_w_004949",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_004950",
+        "t": "pot"
+        },
+        {
+        "-xml:id": "Ao_w_004951",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_004952",
+        "t": "jor"
+        },
+        {
+        "-xml:id": "Ao_w_004953",
+        "t": "aparcevoir"
+        },
+        {
+        "-xml:id": "Ao_w_004954",
+        "t": "car"
+        },
+        {
+        "-xml:id": "Ao_w_004955",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_004956",
+        "t": "voloit"
+        },
+        {
+        "-xml:id": "Ao_w_004957",
+        "t": "en"
+        },
+        {
+        "-xml:id": "Ao_w_004958",
+        "t": "bois"
+        },
+        {
+        "-xml:id": "Ao_w_004959",
+        "t": "aler"
+        },
+        {
+        "-xml:id": "Ao_w_004960",
+        "t": "por"
+        },
+        {
+        "-xml:id": "Ao_w_004961",
+        "t": "archoier"
+        },
+        {
+        "-xml:id": "Ao_w_004962",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_004963",
+        "t": "oï"
+        },
+        {
+        "-xml:id": "Ao_w_004964",
+        "t": "messe"
+        },
+        {
+        "-xml:id": "Ao_w_004965",
+        "t": "au"
+        },
+        {
+        "-xml:id": "Ao_w_004966",
+        "t": "plus"
+        },
+        {
+        "-xml:id": "Ao_w_004967",
+        "t": "matin"
+        },
+        {
+        "-xml:id": "Ao_w_004968",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_004969",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_004970",
+        "t": "onques"
+        },
+        {
+        "-xml:id": "Ao_w_004971",
+        "t": "pot"
+        },
+        {
+        "-xml:id": "Ao_w_004972",
+        "t": "Si"
+        },
+        {
+        "-xml:id": "Ao_w_004973",
+        "t": "tost"
+        },
+        {
+        "-xml:id": "Ao_w_004974",
+        "t": "com"
+        },
+        {
+        "-xml:id": "Ao_w_004975",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_004976",
+        "t": "ot"
+        },
+        {
+        "-xml:id": "Ao_w_004977",
+        "t": "messe"
+        },
+        {
+        "-xml:id": "Ao_w_004978",
+        "t": "oïe"
+        },
+        {
+        "-xml:id": "Ao_w_004979",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_004980",
+        "t": "monta"
+        },
+        {
+        "-xml:id": "Ao_w_004981",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_004982",
+        "t": "s"
+        },
+        {
+        "-xml:id": "Ao_w_004983",
+        "t": "en"
+        },
+        {
+        "-xml:id": "Ao_w_004984",
+        "t": "issi"
+        },
+        {
+        "-xml:id": "Ao_w_004985",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_004986",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_004987",
+        "t": "vile"
+        },
+        {
+        "-xml:id": "Ao_w_004988",
+        "t": "par"
+        },
+        {
+        "-xml:id": "Ao_w_004989",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_004990",
+        "t": "Porte"
+        },
+        {
+        "-xml:id": "Ao_w_004991",
+        "t": "Galesche"
+        },
+        {
+        "-xml:id": "Ao_w_004992",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_004993",
+        "t": "avocques"
+        },
+        {
+        "-xml:id": "Ao_w_004994",
+        "t": "lui"
+        },
+        {
+        "-xml:id": "Ao_w_004995",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_004996",
+        "t": "ses"
+        },
+        {
+        "-xml:id": "Ao_w_004997",
+        "t": "compaignons"
+        },
+        {
+        "-xml:id": "Ao_w_004998",
+        "t": "une"
+        },
+        {
+        "-xml:id": "Ao_w_004999",
+        "t": "partie"
+        },
+        {
+        "-xml:id": "Ao_w_005000",
+        "t": "Messires"
+        },
+        {
+        "-xml:id": "Ao_w_005001",
+        "t": "Gauvains"
+        },
+        {
+        "-xml:id": "Ao_w_005002",
+        "t": "ses"
+        },
+        {
+        "-xml:id": "Ao_w_005003",
+        "t": "niés"
+        },
+        {
+        "-xml:id": "Ao_w_005004",
+        "t": "i"
+        },
+        {
+        "-xml:id": "Ao_w_005005",
+        "t": "fu"
+        },
+        {
+        "-xml:id": "Ao_w_005006",
+        "t": "qui"
+        },
+        {
+        "-xml:id": "Ao_w_005007",
+        "t": "ancores"
+        },
+        {
+        "-xml:id": "Ao_w_005008",
+        "t": "avoit"
+        },
+        {
+        "-xml:id": "Ao_w_005009",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_005010",
+        "t": "vis"
+        },
+        {
+        "-xml:id": "Ao_w_005011",
+        "t": "bandé"
+        },
+        {
+        "-xml:id": "Ao_w_005012",
+        "t": "d"
+        },
+        {
+        "-xml:id": "Ao_w_005013",
+        "t": "une"
+        },
+        {
+        "-xml:id": "Ao_w_005014",
+        "t": "plaie"
+        },
+        {
+        "-xml:id": "Ao_w_005015",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_005016",
+        "t": "Gasoains"
+        },
+        {
+        "-xml:id": "Ao_w_005017",
+        "t": "d"
+        },
+        {
+        "-xml:id": "Ao_w_005018",
+        "t": "Estrangot"
+        },
+        {
+        "-xml:id": "Ao_w_005019",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_005020",
+        "t": "avoit"
+        },
+        {
+        "-xml:id": "Ao_w_005021",
+        "t": "faite"
+        },
+        {
+        "-xml:id": "Ao_w_005022",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_005023",
+        "t": "n"
+        },
+        {
+        "-xml:id": "Ao_w_005024",
+        "t": "avoit"
+        },
+        {
+        "-xml:id": "Ao_w_005025",
+        "t": "pas"
+        },
+        {
+        "-xml:id": "Ao_w_005026",
+        "t": "plus"
+        },
+        {
+        "-xml:id": "Ao_w_005027",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_005028",
+        "t": "trois"
+        },
+        {
+        "-xml:id": "Ao_w_005029",
+        "t": "semaines"
+        },
+        {
+        "-xml:id": "Ao_w_005030",
+        "t": "car"
+        },
+        {
+        "-xml:id": "Ao_w_005031",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_005032",
+        "t": "s"
+        },
+        {
+        "-xml:id": "Ao_w_005033",
+        "t": "estoient"
+        },
+        {
+        "-xml:id": "Ao_w_005034",
+        "t": "combatu"
+        },
+        {
+        "-xml:id": "Ao_w_005035",
+        "t": "devant"
+        },
+        {
+        "-xml:id": "Ao_w_005036",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_005037",
+        "t": "roi"
+        },
+        {
+        "-xml:id": "Ao_w_005038",
+        "t": "ansanble"
+        },
+        {
+        "-xml:id": "Ao_w_005039",
+        "t": "entr"
+        },
+        {
+        "-xml:id": "Ao_w_005040",
+        "t": "aus"
+        },
+        {
+        "-xml:id": "Ao_w_005041",
+        "t": "deus"
+        },
+        {
+        "-xml:id": "Ao_w_005042",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_005043",
+        "t": "l"
+        },
+        {
+        "-xml:id": "Ao_w_005044",
+        "t": "avoit"
+        },
+        {
+        "-xml:id": "Ao_w_005045",
+        "t": "apelé"
+        },
+        {
+        "-xml:id": "Ao_w_005046",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_005047",
+        "t": "desleiauté"
+        },
+        {
+        "-xml:id": "Ao_w_005048",
+        "t": "devant"
+        },
+        {
+        "-xml:id": "Ao_w_005049",
+        "t": "tote"
+        },
+        {
+        "-xml:id": "Ao_w_005050",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_005051",
+        "t": "cort"
+        },
+        {
+        "-xml:id": "Ao_w_005052",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_005053",
+        "t": "roi"
+        },
+        {
+        "-xml:id": "Ao_w_005054",
+        "t": "Et"
+        },
+        {
+        "-xml:id": "Ao_w_005055",
+        "t": "avocques"
+        },
+        {
+        "-xml:id": "Ao_w_005056",
+        "t": "aus"
+        },
+        {
+        "-xml:id": "Ao_w_005057",
+        "t": "fu"
+        },
+        {
+        "-xml:id": "Ao_w_005058",
+        "t": "messires"
+        },
+        {
+        "-xml:id": "Ao_w_005059",
+        "t": "Yvains"
+        },
+        {
+        "-xml:id": "Ao_w_005060",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_005061",
+        "t": "Granz"
+        },
+        {
+        "-xml:id": "Ao_w_005062",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_005063",
+        "t": "filz"
+        },
+        {
+        "-xml:id": "Ao_w_005064",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_005065",
+        "t": "roi"
+        },
+        {
+        "-xml:id": "Ao_w_005066",
+        "t": "Urien"
+        },
+        {
+        "-xml:id": "Ao_w_005067",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_005068",
+        "t": "Kex"
+        },
+        {
+        "-xml:id": "Ao_w_005069",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_005070",
+        "t": "seneschax"
+        },
+        {
+        "-xml:id": "Ao_w_005071",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_005072",
+        "t": "Tohorz"
+        },
+        {
+        "-xml:id": "Ao_w_005073",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_005074",
+        "t": "filz"
+        },
+        {
+        "-xml:id": "Ao_w_005075",
+        "t": "Arés"
+        },
+        {
+        "-xml:id": "Ao_w_005076",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_005077",
+        "t": "roi"
+        },
+        {
+        "-xml:id": "Ao_w_005078",
+        "t": "d"
+        },
+        {
+        "-xml:id": "Ao_w_005079",
+        "t": "Autice"
+        },
+        {
+        "-xml:id": "Ao_w_005080",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_005081",
+        "t": "Lucanz"
+        },
+        {
+        "-xml:id": "Ao_w_005082",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_005083",
+        "t": "boteilliers"
+        },
+        {
+        "-xml:id": "Ao_w_005084",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_005085",
+        "t": "Beduiers"
+        },
+        {
+        "-xml:id": "Ao_w_005086",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_005087",
+        "t": "conestables"
+        },
+        {
+        "-xml:id": "Ao_w_005088",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_005089",
+        "t": "des"
+        },
+        {
+        "-xml:id": "Ao_w_005090",
+        "t": "autres"
+        },
+        {
+        "-xml:id": "Ao_w_005091",
+        "t": "chevaliers"
+        },
+        {
+        "-xml:id": "Ao_w_005092",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_005093",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_005094",
+        "t": "maison"
+        },
+        {
+        "-xml:id": "Ao_w_005095",
+        "t": "au"
+        },
+        {
+        "-xml:id": "Ao_w_005096",
+        "t": "roi"
+        },
+        {
+        "-xml:id": "Ao_w_005097",
+        "t": "meesmes"
+        },
+        {
+        "-xml:id": "Ao_w_005098",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_005099",
+        "t": "grant"
+        },
+        {"-xml:id": "Ao_w_005100",
+              "t": "planté"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_004607",
+        "t": "A"
+        },{
+        "-xml:id": "Ez_w_004608",
+        "t": "Ce"
+        },{
+        "-xml:id": "Ez_w_004609",
+        "t": "jour"
+        },{
+        "-xml:id": "Ez_w_004610",
+        "t": "estoit"
+        },{
+        "-xml:id": "Ez_w_004611",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_004612",
+        "t": "kamalot"
+        },{
+        "-xml:id": "Ez_w_004613",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_004614",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_004615",
+        "t": "Artus"
+        },{
+        "-xml:id": "Ez_w_004616",
+        "t": "ou"
+        },{
+        "-xml:id": "Ez_w_004617",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_004618",
+        "t": "sejournoit"
+        },{
+        "-xml:id": "Ez_w_004619",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_004620",
+        "t": "avec"
+        },{
+        "-xml:id": "Ez_w_004621",
+        "t": "lui"
+        },{
+        "-xml:id": "Ez_w_004622",
+        "t": "grande"
+        },{
+        "-xml:id": "Ez_w_004623",
+        "t": "multitude"
+        },{
+        "-xml:id": "Ez_w_004624",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_004625",
+        "t": "chevaliers"
+        },{
+        "-xml:id": "Ez_w_004626",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_004627",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_004628",
+        "t": "devoit"
+        },{
+        "-xml:id": "Ez_w_004629",
+        "t": "tenir"
+        },{
+        "-xml:id": "Ez_w_004630",
+        "t": "sacourt"
+        },{
+        "-xml:id": "Ez_w_004631",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_004632",
+        "t": "jour"
+        },{
+        "-xml:id": "Ez_w_004633",
+        "t": "saint"
+        },{
+        "-xml:id": "Ez_w_004634",
+        "t": "jehan"
+        },{
+        "-xml:id": "Ez_w_004635",
+        "t": "Le"
+        },{
+        "-xml:id": "Ez_w_004636",
+        "t": "vendredi"
+        },{
+        "-xml:id": "Ez_w_004637",
+        "t": "matin"
+        },{
+        "-xml:id": "Ez_w_004638",
+        "t": "se"
+        },{
+        "-xml:id": "Ez_w_004639",
+        "t": "leva"
+        },{
+        "-xml:id": "Ez_w_004640",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_004641",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_004642",
+        "t": "si"
+        },{
+        "-xml:id": "Ez_w_004643",
+        "t": "tost"
+        },{
+        "-xml:id": "Ez_w_004644",
+        "t": "comme"
+        },{
+        "-xml:id": "Ez_w_004645",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_004646",
+        "t": "peult"
+        },{
+        "-xml:id": "Ez_w_004647",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_004648",
+        "t": "jour"
+        },{
+        "-xml:id": "Ez_w_004649",
+        "t": "voir"
+        },{
+        "-xml:id": "Ez_w_004650",
+        "t": "car"
+        },{
+        "-xml:id": "Ez_w_004651",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_004652",
+        "t": "voulloit"
+        },{
+        "-xml:id": "Ez_w_004653",
+        "t": "aller"
+        },{
+        "-xml:id": "Ez_w_004654",
+        "t": "au"
+        },{
+        "-xml:id": "Ez_w_004655",
+        "t": "bois"
+        },{
+        "-xml:id": "Ez_w_004656",
+        "t": "pour"
+        },{
+        "-xml:id": "Ez_w_004657",
+        "t": "chasser"
+        },{
+        "-xml:id": "Ez_w_004658",
+        "t": "Il"
+        },{
+        "-xml:id": "Ez_w_004659",
+        "t": "ouyt"
+        },{
+        "-xml:id": "Ez_w_004660",
+        "t": "messe"
+        },{
+        "-xml:id": "Ez_w_004661",
+        "t": "bien"
+        },{
+        "-xml:id": "Ez_w_004662",
+        "t": "matin"
+        },{
+        "-xml:id": "Ez_w_004663",
+        "t": "puys"
+        },{
+        "-xml:id": "Ez_w_004664",
+        "t": "monta"
+        },{
+        "-xml:id": "Ez_w_004665",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_004666",
+        "t": "cheval"
+        },{
+        "-xml:id": "Ez_w_004667",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_004668",
+        "t": "yssit"
+        },{
+        "-xml:id": "Ez_w_004669",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_004670",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_004671",
+        "t": "ville"
+        },{
+        "-xml:id": "Ez_w_004672",
+        "t": "par"
+        },{
+        "-xml:id": "Ez_w_004673",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_004674",
+        "t": "porte"
+        },{
+        "-xml:id": "Ez_w_004675",
+        "t": "galeche"
+        },{
+        "-xml:id": "Ez_w_004676",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_004677",
+        "t": "avec"
+        },{
+        "-xml:id": "Ez_w_004678",
+        "t": "luy"
+        },{
+        "-xml:id": "Ez_w_004679",
+        "t": "une"
+        },{
+        "-xml:id": "Ez_w_004680",
+        "t": "partie"
+        },{
+        "-xml:id": "Ez_w_004681",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_004682",
+        "t": "ses"
+        },{
+        "-xml:id": "Ez_w_004683",
+        "t": "compaignons"
+        },{
+        "-xml:id": "Ez_w_004684",
+        "t": "messire"
+        },{
+        "-xml:id": "Ez_w_004685",
+        "t": "gauvain"
+        },{
+        "-xml:id": "Ez_w_004686",
+        "t": "y"
+        },{
+        "-xml:id": "Ez_w_004687",
+        "t": "estoit"
+        },{
+        "-xml:id": "Ez_w_004688",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_004689",
+        "t": "quel"
+        },{
+        "-xml:id": "Ez_w_004690",
+        "t": "avoit"
+        },{
+        "-xml:id": "Ez_w_004691",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_004692",
+        "t": "visage"
+        },{
+        "-xml:id": "Ez_w_004693",
+        "t": "bende"
+        },{
+        "-xml:id": "Ez_w_004694",
+        "t": "pour"
+        },{
+        "-xml:id": "Ez_w_004695",
+        "t": "une"
+        },{
+        "-xml:id": "Ez_w_004696",
+        "t": "playe"
+        },{
+        "-xml:id": "Ez_w_004697",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_004698",
+        "t": "gassenin"
+        },{
+        "-xml:id": "Ez_w_004699",
+        "t": "d"
+        },{
+        "-xml:id": "Ez_w_004700",
+        "t": "estrangot"
+        },{
+        "-xml:id": "Ez_w_004701",
+        "t": "lui"
+        },{
+        "-xml:id": "Ez_w_004702",
+        "t": "avoit"
+        },{
+        "-xml:id": "Ez_w_004703",
+        "t": "faitte"
+        },{
+        "-xml:id": "Ez_w_004704",
+        "t": "environ"
+        },{
+        "-xml:id": "Ez_w_004705",
+        "t": "trois"
+        },{
+        "-xml:id": "Ez_w_004706",
+        "t": "sepmaines"
+        },{
+        "-xml:id": "Ez_w_004707",
+        "t": "devant"
+        },{
+        "-xml:id": "Ez_w_004708",
+        "t": "Car"
+        },{
+        "-xml:id": "Ez_w_004709",
+        "t": "ilz"
+        },{
+        "-xml:id": "Ez_w_004710",
+        "t": "sestoient"
+        },{
+        "-xml:id": "Ez_w_004711",
+        "t": "entre"
+        },{
+        "-xml:id": "Ez_w_004712",
+        "t": "eulx"
+        },{
+        "-xml:id": "Ez_w_004713",
+        "t": "deux"
+        },{
+        "-xml:id": "Ez_w_004714",
+        "t": "devant"
+        },{
+        "-xml:id": "Ez_w_004715",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_004716",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_004717",
+        "t": "combatus"
+        },{
+        "-xml:id": "Ez_w_004718",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_004719",
+        "t": "l"
+        },{
+        "-xml:id": "Ez_w_004720",
+        "t": "avoit"
+        },{
+        "-xml:id": "Ez_w_004721",
+        "t": "gassenin"
+        },{
+        "-xml:id": "Ez_w_004722",
+        "t": "appelle"
+        },{
+        "-xml:id": "Ez_w_004723",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_004724",
+        "t": "desloyaulte"
+        },{
+        "-xml:id": "Ez_w_004725",
+        "t": "devant"
+        },{
+        "-xml:id": "Ez_w_004726",
+        "t": "toute"
+        },{
+        "-xml:id": "Ez_w_004727",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_004728",
+        "t": "court"
+        },{
+        "-xml:id": "Ez_w_004729",
+        "t": "avec"
+        },{
+        "-xml:id": "Ez_w_004730",
+        "t": "y"
+        },{
+        "-xml:id": "Ez_w_004731",
+        "t": "fut"
+        },{
+        "-xml:id": "Ez_w_004732",
+        "t": "messire"
+        },{
+        "-xml:id": "Ez_w_004733",
+        "t": "yvain"
+        },{
+        "-xml:id": "Ez_w_004734",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_004735",
+        "t": "grant"
+        },{
+        "-xml:id": "Ez_w_004736",
+        "t": "filz"
+        },{
+        "-xml:id": "Ez_w_004737",
+        "t": "au"
+        },{
+        "-xml:id": "Ez_w_004738",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_004739",
+        "t": "urien"
+        },{
+        "-xml:id": "Ez_w_004740",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_004741",
+        "t": "keu"
+        },{
+        "-xml:id": "Ez_w_004742",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_004743",
+        "t": "senechal"
+        },{
+        "-xml:id": "Ez_w_004744",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_004745",
+        "t": "hector"
+        },{
+        "-xml:id": "Ez_w_004746",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_004747",
+        "t": "filz"
+        },{
+        "-xml:id": "Ez_w_004748",
+        "t": "ares"
+        },{
+        "-xml:id": "Ez_w_004749",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_004750",
+        "t": "lucan"
+        },{
+        "-xml:id": "Ez_w_004751",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_004752",
+        "t": "bouteillier"
+        },{
+        "-xml:id": "Ez_w_004753",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_004754",
+        "t": "bedoires"
+        },{
+        "-xml:id": "Ez_w_004755",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_004756",
+        "t": "connestable"
+        },{
+        "-xml:id": "Ez_w_004757",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_004758",
+        "t": "des"
+        },{
+        "-xml:id": "Ez_w_004759",
+        "t": "autres"
+        },{
+        "-xml:id": "Ez_w_004760",
+        "t": "chevaliers"
+        },{
+        "-xml:id": "Ez_w_004761",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_004762",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_004763",
+        "t": "maison"
+        },{
+        "-xml:id": "Ez_w_004764",
+        "t": "au"
+        },{
+        "-xml:id": "Ez_w_004765",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_004766",
+        "t": "artus"
+        }]
+            }
+        ]
+    }

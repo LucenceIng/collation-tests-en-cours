@@ -1,0 +1,127 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_001369",
+        "t": "Quel"
+        },
+        {
+        "-xml:id": "Ao_w_001370",
+        "t": "devision"
+        },
+        {
+        "-xml:id": "Ao_w_001371",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_001372",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_001373",
+        "t": "donques"
+        },
+        {
+        "-xml:id": "Ao_w_001374",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_001375",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_001376",
+        "t": "dame"
+        },
+        {
+        "-xml:id": "Ao_w_001377",
+        "t": "antre"
+        },
+        {
+        "-xml:id": "Ao_w_001378",
+        "t": "les"
+        },
+        {
+        "-xml:id": "Ao_w_001379",
+        "t": "vertuz"
+        },
+        {
+        "-xml:id": "Ao_w_001380",
+        "t": "del"
+        },
+        {
+        "-xml:id": "Ao_w_001381",
+        "t": "cuer"
+        },
+        {
+        "-xml:id": "Ao_w_001382",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_001383",
+        "t": "celes"
+        },
+        {
+        "-xml:id": "Ao_w_001384",
+        "t": "do"
+        },
+        {"-xml:id": "Ao_w_001385",
+              "t": "cors"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_001726",
+        "t": "Quelle"
+        },{
+        "-xml:id": "Ez_w_001727",
+        "t": "difference"
+        },{
+        "-xml:id": "Ez_w_001728",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_001729",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_001730",
+        "t": "dame"
+        },{
+        "-xml:id": "Ez_w_001731",
+        "t": "mettez"
+        },{
+        "-xml:id": "Ez_w_001732",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_001733",
+        "t": "entre"
+        },{
+        "-xml:id": "Ez_w_001734",
+        "t": "les"
+        },{
+        "-xml:id": "Ez_w_001735",
+        "t": "vertus"
+        },{
+        "-xml:id": "Ez_w_001736",
+        "t": "du"
+        },{
+        "-xml:id": "Ez_w_001737",
+        "t": "cueur"
+        },{
+        "-xml:id": "Ez_w_001738",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_001739",
+        "t": "celles"
+        },{
+        "-xml:id": "Ez_w_001740",
+        "t": "du"
+        },{
+        "-xml:id": "Ez_w_001741",
+        "t": "corps"
+        }]
+            }
+        ]
+    }

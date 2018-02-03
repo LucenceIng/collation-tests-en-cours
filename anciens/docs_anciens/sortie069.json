@@ -1,0 +1,277 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_005686",
+        "t": "En"
+        },
+        {
+        "-xml:id": "Ao_w_005687",
+        "t": "non"
+        },
+        {
+        "-xml:id": "Ao_w_005688",
+        "t": "Deu"
+        },
+        {
+        "-xml:id": "Ao_w_005689",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_005690",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_005691",
+        "t": "rois"
+        },
+        {
+        "-xml:id": "Ao_w_005692",
+        "t": "dont"
+        },
+        {
+        "-xml:id": "Ao_w_005693",
+        "t": "cuidoie"
+        },
+        {
+        "-xml:id": "Ao_w_005694",
+        "t": "ge"
+        },
+        {
+        "-xml:id": "Ao_w_005695",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_005696",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_005697",
+        "t": "an"
+        },
+        {
+        "-xml:id": "Ao_w_005698",
+        "t": "fussiez"
+        },
+        {
+        "-xml:id": "Ao_w_005699",
+        "t": "bien"
+        },
+        {
+        "-xml:id": "Ao_w_005700",
+        "t": "venchiez"
+        },
+        {
+        "-xml:id": "Ao_w_005701",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_005702",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_005703",
+        "t": "plus"
+        },
+        {
+        "-xml:id": "Ao_w_005704",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_005705",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_005706",
+        "t": "oseroie"
+        },
+        {
+        "-xml:id": "Ao_w_005707",
+        "t": "ge"
+        },
+        {
+        "-xml:id": "Ao_w_005708",
+        "t": "pas"
+        },
+        {
+        "-xml:id": "Ao_w_005709",
+        "t": "asseürer"
+        },
+        {
+        "-xml:id": "Ao_w_005710",
+        "t": "car"
+        },
+        {
+        "-xml:id": "Ao_w_005711",
+        "t": "ge"
+        },
+        {
+        "-xml:id": "Ao_w_005712",
+        "t": "crienbroie"
+        },
+        {
+        "-xml:id": "Ao_w_005713",
+        "t": "faillir"
+        },
+        {
+        "-xml:id": "Ao_w_005714",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_005715",
+        "t": "mon"
+        },
+        {
+        "-xml:id": "Ao_w_005716",
+        "t": "covant"
+        },
+        {
+        "-xml:id": "Ao_w_005717",
+        "t": "Ne"
+        },
+        {
+        "-xml:id": "Ao_w_005718",
+        "t": "ja"
+        },
+        {
+        "-xml:id": "Ao_w_005719",
+        "t": "autres"
+        },
+        {
+        "-xml:id": "Ao_w_005720",
+        "t": "par"
+        },
+        {
+        "-xml:id": "Ao_w_005721",
+        "t": "mon"
+        },
+        {
+        "-xml:id": "Ao_w_005722",
+        "t": "lox"
+        },
+        {
+        "-xml:id": "Ao_w_005723",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_005724",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_005725",
+        "t": "en"
+        },
+        {"-xml:id": "Ao_w_005726",
+              "t": "asseüra"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_005242",
+        "t": "En"
+        },{
+        "-xml:id": "Ez_w_005243",
+        "t": "verite"
+        },{
+        "-xml:id": "Ez_w_005244",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_005245",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_005246",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_005247",
+        "t": "donc"
+        },{
+        "-xml:id": "Ez_w_005248",
+        "t": "en"
+        },{
+        "-xml:id": "Ez_w_005249",
+        "t": "estes"
+        },{
+        "-xml:id": "Ez_w_005250",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_005251",
+        "t": "bien"
+        },{
+        "-xml:id": "Ez_w_005252",
+        "t": "vengie"
+        },{
+        "-xml:id": "Ez_w_005253",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_005254",
+        "t": "plus"
+        },{
+        "-xml:id": "Ez_w_005255",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_005256",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_005257",
+        "t": "oseroie"
+        },{
+        "-xml:id": "Ez_w_005258",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_005259",
+        "t": "asseurer"
+        },{
+        "-xml:id": "Ez_w_005260",
+        "t": "car"
+        },{
+        "-xml:id": "Ez_w_005261",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_005262",
+        "t": "cuideroie"
+        },{
+        "-xml:id": "Ez_w_005263",
+        "t": "faillir"
+        },{
+        "-xml:id": "Ez_w_005264",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_005265",
+        "t": "mon"
+        },{
+        "-xml:id": "Ez_w_005266",
+        "t": "convenant"
+        },{
+        "-xml:id": "Ez_w_005267",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_005268",
+        "t": "ja"
+        },{
+        "-xml:id": "Ez_w_005269",
+        "t": "autre"
+        },{
+        "-xml:id": "Ez_w_005270",
+        "t": "par"
+        },{
+        "-xml:id": "Ez_w_005271",
+        "t": "mon"
+        },{
+        "-xml:id": "Ez_w_005272",
+        "t": "conseil"
+        },{
+        "-xml:id": "Ez_w_005273",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_005274",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_005275",
+        "t": "asseurera"
+        }]
+            }
+        ]
+    }

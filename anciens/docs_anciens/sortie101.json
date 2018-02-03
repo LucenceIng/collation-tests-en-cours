@@ -1,0 +1,53 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_008355",
+        "t": "Li"
+        },
+        {
+        "-xml:id": "Ao_w_008356",
+        "t": "qex"
+        },
+        {
+        "-xml:id": "Ao_w_008357",
+        "t": "vallez"
+        },
+        {
+        "-xml:id": "Ao_w_008358",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_008359",
+        "t": "li"
+        },
+        {"-xml:id": "Ao_w_008360",
+              "t": "rois"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_006475",
+        "t": "Le"
+        },{
+        "-xml:id": "Ez_w_006476",
+        "t": "quel"
+        },{
+        "-xml:id": "Ez_w_006477",
+        "t": "varlet"
+        },{
+        "-xml:id": "Ez_w_006478",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_006479",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_006480",
+        "t": "roy"
+        }]
+            }
+        ]
+    }

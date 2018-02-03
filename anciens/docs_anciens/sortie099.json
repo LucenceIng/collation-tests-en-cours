@@ -1,0 +1,75 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_008333",
+        "t": "Messire"
+        },
+        {
+        "-xml:id": "Ao_w_008334",
+        "t": "Yvains"
+        },
+        {
+        "-xml:id": "Ao_w_008335",
+        "t": "s"
+        },
+        {
+        "-xml:id": "Ao_w_008336",
+        "t": "an"
+        },
+        {
+        "-xml:id": "Ao_w_008337",
+        "t": "vait"
+        },
+        {
+        "-xml:id": "Ao_w_008338",
+        "t": "au"
+        },
+        {
+        "-xml:id": "Ao_w_008339",
+        "t": "roi"
+        },
+        {
+        "-xml:id": "Ao_w_008340",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_008341",
+        "t": "li"
+        },
+        {"-xml:id": "Ao_w_008342",
+              "t": "dit"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_006452",
+        "t": "Messire"
+        },{
+        "-xml:id": "Ez_w_006453",
+        "t": "yvain"
+        },{
+        "-xml:id": "Ez_w_006454",
+        "t": "va"
+        },{
+        "-xml:id": "Ez_w_006455",
+        "t": "au"
+        },{
+        "-xml:id": "Ez_w_006456",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_006457",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_006458",
+        "t": "lui"
+        },{
+        "-xml:id": "Ez_w_006459",
+        "t": "dist"
+        }]
+            }
+        ]
+    }

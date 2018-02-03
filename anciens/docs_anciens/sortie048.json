@@ -1,0 +1,198 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_004332",
+        "t": "Ensi"
+        },
+        {
+        "-xml:id": "Ao_w_004333",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_004334",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_004335",
+        "t": "Dame"
+        },
+        {
+        "-xml:id": "Ao_w_004336",
+        "t": "del"
+        },
+        {
+        "-xml:id": "Ao_w_004337",
+        "t": "Lac"
+        },
+        {
+        "-xml:id": "Ao_w_004338",
+        "t": "promis"
+        },
+        {
+        "-xml:id": "Ao_w_004339",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_004340",
+        "t": "l"
+        },
+        {
+        "-xml:id": "Ao_w_004341",
+        "t": "anfant"
+        },
+        {
+        "-xml:id": "Ao_w_004342",
+        "t": "qu"
+        },
+        {
+        "-xml:id": "Ao_w_004343",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_004344",
+        "t": "sera"
+        },
+        {
+        "-xml:id": "Ao_w_004345",
+        "t": "chevaliers"
+        },
+        {
+        "-xml:id": "Ao_w_004346",
+        "t": "prochainnement"
+        },
+        {
+        "-xml:id": "Ao_w_004347",
+        "t": "Et"
+        },
+        {
+        "-xml:id": "Ao_w_004348",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_004349",
+        "t": "en"
+        },
+        {
+        "-xml:id": "Ao_w_004350",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_004351",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_004352",
+        "t": "grant"
+        },
+        {
+        "-xml:id": "Ao_w_004353",
+        "t": "joie"
+        },
+        {
+        "-xml:id": "Ao_w_004354",
+        "t": "qu"
+        },
+        {
+        "-xml:id": "Ao_w_004355",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_004356",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_004357",
+        "t": "poïst"
+        },
+        {
+        "-xml:id": "Ao_w_004358",
+        "t": "greignor"
+        },
+        {"-xml:id": "Ao_w_004359",
+              "t": "avoir"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_004108",
+        "t": "Ainsi"
+        },{
+        "-xml:id": "Ez_w_004109",
+        "t": "lui"
+        },{
+        "-xml:id": "Ez_w_004110",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_004111",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_004112",
+        "t": "dame"
+        },{
+        "-xml:id": "Ez_w_004113",
+        "t": "du"
+        },{
+        "-xml:id": "Ez_w_004114",
+        "t": "lac"
+        },{
+        "-xml:id": "Ez_w_004115",
+        "t": "promis"
+        },{
+        "-xml:id": "Ez_w_004116",
+        "t": "qu"
+        },{
+        "-xml:id": "Ez_w_004117",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_004118",
+        "t": "sera"
+        },{
+        "-xml:id": "Ez_w_004119",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_004120",
+        "t": "chevalier"
+        },{
+        "-xml:id": "Ez_w_004121",
+        "t": "prouchainnement"
+        },{
+        "-xml:id": "Ez_w_004122",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_004123",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_004124",
+        "t": "en"
+        },{
+        "-xml:id": "Ez_w_004125",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_004126",
+        "t": "si"
+        },{
+        "-xml:id": "Ez_w_004127",
+        "t": "grant"
+        },{
+        "-xml:id": "Ez_w_004128",
+        "t": "joye"
+        },{
+        "-xml:id": "Ez_w_004129",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_004130",
+        "t": "plus"
+        },{
+        "-xml:id": "Ez_w_004131",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_004132",
+        "t": "peut"
+        }]
+            }
+        ]
+    }

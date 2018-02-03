@@ -1,0 +1,83 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_000933",
+        "t": "Alez"
+        },
+        {
+        "-xml:id": "Ao_w_000934",
+        "t": "tost"
+        },
+        {
+        "-xml:id": "Ao_w_000935",
+        "t": "jus"
+        },
+        {
+        "-xml:id": "Ao_w_000936",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_000937",
+        "t": "ele"
+        },
+        {
+        "-xml:id": "Ao_w_000938",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_000939",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_000940",
+        "t": "n"
+        },
+        {
+        "-xml:id": "Ao_w_000941",
+        "t": "i"
+        },
+        {
+        "-xml:id": "Ao_w_000942",
+        "t": "eroiz"
+        },
+        {
+        "-xml:id": "Ao_w_000943",
+        "t": "ores"
+        },
+        {"-xml:id": "Ao_w_000944",
+              "t": "pas"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_001357",
+        "t": "Descendez"
+        },{
+        "-xml:id": "Ez_w_001358",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_001359",
+        "t": "elle"
+        },{
+        "-xml:id": "Ez_w_001360",
+        "t": "car"
+        },{
+        "-xml:id": "Ez_w_001361",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_001362",
+        "t": "n"
+        },{
+        "-xml:id": "Ez_w_001363",
+        "t": "yrez"
+        },{
+        "-xml:id": "Ez_w_001364",
+        "t": "mie"
+        }]
+            }
+        ]
+    }

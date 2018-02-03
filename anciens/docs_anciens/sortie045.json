@@ -1,0 +1,138 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_003957",
+        "t": "Coment"
+        },
+        {
+        "-xml:id": "Ao_w_003958",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_003959",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_003960",
+        "t": "dame"
+        },
+        {
+        "-xml:id": "Ao_w_003961",
+        "t": "filz"
+        },
+        {
+        "-xml:id": "Ao_w_003962",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_003963",
+        "t": "roi"
+        },
+        {
+        "-xml:id": "Ao_w_003964",
+        "t": "Si"
+        },
+        {
+        "-xml:id": "Ao_w_003965",
+        "t": "s"
+        },
+        {
+        "-xml:id": "Ao_w_003966",
+        "t": "acorde"
+        },
+        {
+        "-xml:id": "Ao_w_003967",
+        "t": "vostre"
+        },
+        {
+        "-xml:id": "Ao_w_003968",
+        "t": "cuers"
+        },
+        {
+        "-xml:id": "Ao_w_003969",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_003970",
+        "t": "ce"
+        },
+        {
+        "-xml:id": "Ao_w_003971",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_003972",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_003973",
+        "t": "volez"
+        },
+        {
+        "-xml:id": "Ao_w_003974",
+        "t": "chevaliers"
+        },
+        {"-xml:id": "Ao_w_003975",
+              "t": "estre"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_003771",
+        "t": "Comment"
+        },{
+        "-xml:id": "Ez_w_003772",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_003773",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_003774",
+        "t": "dame"
+        },{
+        "-xml:id": "Ez_w_003775",
+        "t": "filz"
+        },{
+        "-xml:id": "Ez_w_003776",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_003777",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_003778",
+        "t": "se"
+        },{
+        "-xml:id": "Ez_w_003779",
+        "t": "y"
+        },{
+        "-xml:id": "Ez_w_003780",
+        "t": "accorde"
+        },{
+        "-xml:id": "Ez_w_003781",
+        "t": "vostre"
+        },{
+        "-xml:id": "Ez_w_003783",
+        "t": "voulente"
+        },{
+        "-xml:id": "Ez_w_003784",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_003785",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_003786",
+        "t": "voulez"
+        },{
+        "-xml:id": "Ez_w_003787",
+        "t": "chevalier"
+        },{
+        "-xml:id": "Ez_w_003788",
+        "t": "estre"
+        }]
+            }
+        ]
+    }

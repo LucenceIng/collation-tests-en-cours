@@ -1,0 +1,141 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_007672",
+        "t": "Quant"
+        },
+        {
+        "-xml:id": "Ao_w_007673",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_007674",
+        "t": "ot"
+        },
+        {
+        "-xml:id": "Ao_w_007675",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_007676",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_007677",
+        "t": "dui"
+        },
+        {
+        "-xml:id": "Ao_w_007678",
+        "t": "anfant"
+        },
+        {
+        "-xml:id": "Ao_w_007679",
+        "t": "sont"
+        },
+        {
+        "-xml:id": "Ao_w_007680",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_007681",
+        "t": "coisin"
+        },
+        {
+        "-xml:id": "Ao_w_007682",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_007683",
+        "t": "est"
+        },
+        {
+        "-xml:id": "Ao_w_007684",
+        "t": "mervoilles"
+        },
+        {
+        "-xml:id": "Ao_w_007685",
+        "t": "liez"
+        },
+        {
+        "-xml:id": "Ao_w_007686",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_007687",
+        "t": "dit"
+        },
+        {
+        "-xml:id": "Ao_w_007688",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_007689",
+        "t": "la"
+        },
+        {"-xml:id": "Ao_w_007690",
+              "t": "dame"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_006099",
+        "t": "Quant"
+        },{
+        "-xml:id": "Ez_w_006100",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_006101",
+        "t": "ot"
+        },{
+        "-xml:id": "Ez_w_006102",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_006103",
+        "t": "les"
+        },{
+        "-xml:id": "Ez_w_006104",
+        "t": "deux"
+        },{
+        "-xml:id": "Ez_w_006105",
+        "t": "enfans"
+        },{
+        "-xml:id": "Ez_w_006106",
+        "t": "sont"
+        },{
+        "-xml:id": "Ez_w_006107",
+        "t": "ses"
+        },{
+        "-xml:id": "Ez_w_006108",
+        "t": "cousins"
+        },{
+        "-xml:id": "Ez_w_006109",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_006110",
+        "t": "en"
+        },{
+        "-xml:id": "Ez_w_006111",
+        "t": "est"
+        },{
+        "-xml:id": "Ez_w_006112",
+        "t": "moult"
+        },{
+        "-xml:id": "Ez_w_006113",
+        "t": "joieux"
+        },{
+        "-xml:id": "Ez_w_006114",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_006115",
+        "t": "lui"
+        },{
+        "-xml:id": "Ez_w_006116",
+        "t": "dist"
+        }]
+            }
+        ]
+    }

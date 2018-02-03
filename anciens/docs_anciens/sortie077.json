@@ -1,0 +1,243 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_006823",
+        "t": "Sire"
+        },
+        {
+        "-xml:id": "Ao_w_006824",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_006825",
+        "t": "ele"
+        },
+        {
+        "-xml:id": "Ao_w_006826",
+        "t": "granz"
+        },
+        {
+        "-xml:id": "Ao_w_006827",
+        "t": "merciz"
+        },
+        {
+        "-xml:id": "Ao_w_006828",
+        "t": "Or"
+        },
+        {
+        "-xml:id": "Ao_w_006829",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_006830",
+        "t": "requier"
+        },
+        {
+        "-xml:id": "Ao_w_006831",
+        "t": "ge"
+        },
+        {
+        "-xml:id": "Ao_w_006832",
+        "t": "dons"
+        },
+        {
+        "-xml:id": "Ao_w_006833",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_006834",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_006835",
+        "t": "cest"
+        },
+        {
+        "-xml:id": "Ao_w_006836",
+        "t": "mien"
+        },
+        {
+        "-xml:id": "Ao_w_006837",
+        "t": "vallet"
+        },
+        {
+        "-xml:id": "Ao_w_006838",
+        "t": "qui"
+        },
+        {
+        "-xml:id": "Ao_w_006839",
+        "t": "ci"
+        },
+        {
+        "-xml:id": "Ao_w_006840",
+        "t": "est"
+        },
+        {
+        "-xml:id": "Ao_w_006841",
+        "t": "me"
+        },
+        {
+        "-xml:id": "Ao_w_006842",
+        "t": "faites"
+        },
+        {
+        "-xml:id": "Ao_w_006843",
+        "t": "chevalier"
+        },
+        {
+        "-xml:id": "Ao_w_006844",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_006845",
+        "t": "tex"
+        },
+        {
+        "-xml:id": "Ao_w_006846",
+        "t": "armes"
+        },
+        {
+        "-xml:id": "Ao_w_006847",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_006848",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_006849",
+        "t": "tex"
+        },
+        {
+        "-xml:id": "Ao_w_006850",
+        "t": "hernois"
+        },
+        {
+        "-xml:id": "Ao_w_006851",
+        "t": "com"
+        },
+        {
+        "-xml:id": "Ao_w_006852",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_006853",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_006854",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_006855",
+        "t": "qant"
+        },
+        {
+        "-xml:id": "Ao_w_006856",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_006857",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_006858",
+        "t": "en"
+        },
+        {"-xml:id": "Ao_w_006859",
+              "t": "requerra"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_005590",
+        "t": "Sire"
+        },{
+        "-xml:id": "Ez_w_005591",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_005592",
+        "t": "elle"
+        },{
+        "-xml:id": "Ez_w_005593",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_005594",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_005595",
+        "t": "requier"
+        },{
+        "-xml:id": "Ez_w_005596",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_005597",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_005598",
+        "t": "faciez"
+        },{
+        "-xml:id": "Ez_w_005599",
+        "t": "ce"
+        },{
+        "-xml:id": "Ez_w_005600",
+        "t": "mien"
+        },{
+        "-xml:id": "Ez_w_005601",
+        "t": "varlet"
+        },{
+        "-xml:id": "Ez_w_005602",
+        "t": "chevalier"
+        },{
+        "-xml:id": "Ez_w_005603",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_005604",
+        "t": "telles"
+        },{
+        "-xml:id": "Ez_w_005605",
+        "t": "armes"
+        },{
+        "-xml:id": "Ez_w_005606",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_005607",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_005608",
+        "t": "tel"
+        },{
+        "-xml:id": "Ez_w_005609",
+        "t": "harnoys"
+        },{
+        "-xml:id": "Ez_w_005610",
+        "t": "comme"
+        },{
+        "-xml:id": "Ez_w_005611",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_005612",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_005613",
+        "t": "quant"
+        },{
+        "-xml:id": "Ez_w_005614",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_005615",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_005616",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_005617",
+        "t": "requerra"
+        }]
+            }
+        ]
+    }

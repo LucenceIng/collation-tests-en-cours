@@ -1,0 +1,74 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_008431",
+        "t": "Comment"
+        },
+        {
+        "-xml:id": "Ao_w_008432",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_008433",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_008434",
+        "t": "rois"
+        },
+        {
+        "-xml:id": "Ao_w_008435",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_008436",
+        "t": "velt"
+        },
+        {
+        "-xml:id": "Ao_w_008437",
+        "t": "ja"
+        },
+        {
+        "-xml:id": "Ao_w_008438",
+        "t": "estre"
+        },
+        {"-xml:id": "Ao_w_008439",
+              "t": "chevaliers"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_006506",
+        "t": "Comment"
+        },{
+        "-xml:id": "Ez_w_006507",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_006508",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_006509",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_006510",
+        "t": "veult"
+        },{
+        "-xml:id": "Ez_w_006511",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_006512",
+        "t": "ja"
+        },{
+        "-xml:id": "Ez_w_006513",
+        "t": "estre"
+        },{
+        "-xml:id": "Ez_w_006514",
+        "t": "chevalier"
+        }]
+            }
+        ]
+    }

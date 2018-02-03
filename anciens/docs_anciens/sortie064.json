@@ -1,0 +1,46 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_005510",
+        "t": "Comment"
+        },
+        {
+        "-xml:id": "Ao_w_005511",
+        "t": "donc"
+        },
+        {
+        "-xml:id": "Ao_w_005512",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_005513",
+        "t": "li"
+        },
+        {"-xml:id": "Ao_w_005514",
+              "t": "rois"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_005095",
+        "t": "Comment"
+        },{
+        "-xml:id": "Ez_w_005096",
+        "t": "donc"
+        },{
+        "-xml:id": "Ez_w_005097",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_005098",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_005099",
+        "t": "roy"
+        }]
+            }
+        ]
+    }

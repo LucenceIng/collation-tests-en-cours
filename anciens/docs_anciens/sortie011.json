@@ -1,0 +1,81 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_000923",
+        "t": "Dame"
+        },
+        {
+        "-xml:id": "Ao_w_000924",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_000925",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_000926",
+        "t": "ge"
+        },
+        {
+        "-xml:id": "Ao_w_000927",
+        "t": "voil"
+        },
+        {
+        "-xml:id": "Ao_w_000928",
+        "t": "aler"
+        },
+        {
+        "-xml:id": "Ao_w_000929",
+        "t": "jusq"
+        },
+        {
+        "-xml:id": "Ao_w_000930",
+        "t": "en"
+        },
+        {
+        "-xml:id": "Ao_w_000931",
+        "t": "ce"
+        },
+        {"-xml:id": "Ao_w_000932",
+              "t": "bois"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_001347",
+        "t": "Dame"
+        },{
+        "-xml:id": "Ez_w_001348",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_001349",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_001350",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_001351",
+        "t": "vueil"
+        },{
+        "-xml:id": "Ez_w_001352",
+        "t": "aler"
+        },{
+        "-xml:id": "Ez_w_001353",
+        "t": "jusques"
+        },{
+        "-xml:id": "Ez_w_001354",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_001355",
+        "t": "ce"
+        },{
+        "-xml:id": "Ez_w_001356",
+        "t": "boys"
+        }]
+            }
+        ]
+    }

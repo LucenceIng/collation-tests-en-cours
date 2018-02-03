@@ -1,0 +1,230 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_000671",
+        "t": "Ha"
+        },
+        {
+        "-xml:id": "Ao_w_000672",
+        "t": "dame"
+        },
+        {
+        "-xml:id": "Ao_w_000673",
+        "t": "dites"
+        },
+        {
+        "-xml:id": "Ao_w_000674",
+        "t": "moi"
+        },
+        {
+        "-xml:id": "Ao_w_000675",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_000676",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_000677",
+        "t": "avez"
+        },
+        {
+        "-xml:id": "Ao_w_000678",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_000679",
+        "t": "se"
+        },
+        {
+        "-xml:id": "Ao_w_000680",
+        "t": "nus"
+        },
+        {
+        "-xml:id": "Ao_w_000681",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_000682",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_000683",
+        "t": "correciee"
+        },
+        {
+        "-xml:id": "Ao_w_000684",
+        "t": "nel"
+        },
+        {
+        "-xml:id": "Ao_w_000685",
+        "t": "me"
+        },
+        {
+        "-xml:id": "Ao_w_000686",
+        "t": "celez"
+        },
+        {
+        "-xml:id": "Ao_w_000687",
+        "t": "mie"
+        },
+        {
+        "-xml:id": "Ao_w_000688",
+        "t": "car"
+        },
+        {
+        "-xml:id": "Ao_w_000689",
+        "t": "ge"
+        },
+        {
+        "-xml:id": "Ao_w_000690",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_000691",
+        "t": "cuideroie"
+        },
+        {
+        "-xml:id": "Ao_w_000692",
+        "t": "pas"
+        },
+        {
+        "-xml:id": "Ao_w_000693",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_000694",
+        "t": "nus"
+        },
+        {
+        "-xml:id": "Ao_w_000695",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_000696",
+        "t": "osast"
+        },
+        {
+        "-xml:id": "Ao_w_000697",
+        "t": "correcier"
+        },
+        {
+        "-xml:id": "Ao_w_000698",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_000699",
+        "t": "mon"
+        },
+        {"-xml:id": "Ao_w_000700",
+              "t": "vivant"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_001147",
+        "t": "Ha"
+        },{
+        "-xml:id": "Ez_w_001148",
+        "t": "dame"
+        },{
+        "-xml:id": "Ez_w_001149",
+        "t": "dictes"
+        },{
+        "-xml:id": "Ez_w_001150",
+        "t": "moy"
+        },{
+        "-xml:id": "Ez_w_001151",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_001152",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_001153",
+        "t": "avez"
+        },{
+        "-xml:id": "Ez_w_001154",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_001155",
+        "t": "s"
+        },{
+        "-xml:id": "Ez_w_001156",
+        "t": "aucuns"
+        },{
+        "-xml:id": "Ez_w_001157",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_001158",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_001159",
+        "t": "courroucee"
+        },{
+        "-xml:id": "Ez_w_001160",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_001161",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_001162",
+        "t": "me"
+        },{
+        "-xml:id": "Ez_w_001163",
+        "t": "celez"
+        },{
+        "-xml:id": "Ez_w_001164",
+        "t": "mie"
+        },{
+        "-xml:id": "Ez_w_001165",
+        "t": "car"
+        },{
+        "-xml:id": "Ez_w_001166",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_001167",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_001168",
+        "t": "cuide"
+        },{
+        "-xml:id": "Ez_w_001169",
+        "t": "pas"
+        },{
+        "-xml:id": "Ez_w_001170",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_001171",
+        "t": "homme"
+        },{
+        "-xml:id": "Ez_w_001172",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_001173",
+        "t": "osast"
+        },{
+        "-xml:id": "Ez_w_001174",
+        "t": "courroucer"
+        },{
+        "-xml:id": "Ez_w_001175",
+        "t": "tant"
+        },{
+        "-xml:id": "Ez_w_001176",
+        "t": "comme"
+        },{
+        "-xml:id": "Ez_w_001177",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_001178",
+        "t": "fusse"
+        },{
+        "-xml:id": "Ez_w_001179",
+        "t": "vit"
+        }]
+            }
+        ]
+    }

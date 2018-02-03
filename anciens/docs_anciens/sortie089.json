@@ -1,0 +1,202 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_007946",
+        "t": "Lyonel"
+        },
+        {
+        "-xml:id": "Ao_w_007947",
+        "t": "Lyonel"
+        },
+        {
+        "-xml:id": "Ao_w_007948",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_007949",
+        "t": "seiez"
+        },
+        {
+        "-xml:id": "Ao_w_007950",
+        "t": "pas"
+        },
+        {
+        "-xml:id": "Ao_w_007951",
+        "t": "esbahiz"
+        },
+        {
+        "-xml:id": "Ao_w_007952",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_007953",
+        "t": "desesperez"
+        },
+        {
+        "-xml:id": "Ao_w_007954",
+        "t": "se"
+        },
+        {
+        "-xml:id": "Ao_w_007955",
+        "t": "danz"
+        },
+        {
+        "-xml:id": "Ao_w_007956",
+        "t": "Claudas"
+        },
+        {
+        "-xml:id": "Ao_w_007957",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_007958",
+        "t": "vostre"
+        },
+        {
+        "-xml:id": "Ao_w_007959",
+        "t": "terre"
+        },
+        {
+        "-xml:id": "Ao_w_007960",
+        "t": "en"
+        },
+        {
+        "-xml:id": "Ao_w_007961",
+        "t": "sa"
+        },
+        {
+        "-xml:id": "Ao_w_007962",
+        "t": "baillie"
+        },
+        {
+        "-xml:id": "Ao_w_007963",
+        "t": "car"
+        },
+        {
+        "-xml:id": "Ao_w_007964",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_007965",
+        "t": "avroiz"
+        },
+        {
+        "-xml:id": "Ao_w_007966",
+        "t": "plus"
+        },
+        {
+        "-xml:id": "Ao_w_007967",
+        "t": "d"
+        },
+        {
+        "-xml:id": "Ao_w_007968",
+        "t": "amis"
+        },
+        {
+        "-xml:id": "Ao_w_007969",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_007970",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_007971",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_007972",
+        "t": "quidez"
+        },
+        {
+        "-xml:id": "Ao_w_007973",
+        "t": "au"
+        },
+        {"-xml:id": "Ao_w_007974",
+              "t": "recovrer"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_006180",
+        "t": "Lyonnel"
+        },{
+        "-xml:id": "Ez_w_006181",
+        "t": "lyonnel"
+        },{
+        "-xml:id": "Ez_w_006182",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_006183",
+        "t": "soyez"
+        },{
+        "-xml:id": "Ez_w_006184",
+        "t": "mie"
+        },{
+        "-xml:id": "Ez_w_006185",
+        "t": "esbahy"
+        },{
+        "-xml:id": "Ez_w_006186",
+        "t": "se"
+        },{
+        "-xml:id": "Ez_w_006187",
+        "t": "claudas"
+        },{
+        "-xml:id": "Ez_w_006188",
+        "t": "tient"
+        },{
+        "-xml:id": "Ez_w_006189",
+        "t": "vostre"
+        },{
+        "-xml:id": "Ez_w_006190",
+        "t": "terre"
+        },{
+        "-xml:id": "Ez_w_006191",
+        "t": "par"
+        },{
+        "-xml:id": "Ez_w_006192",
+        "t": "force"
+        },{
+        "-xml:id": "Ez_w_006193",
+        "t": "car"
+        },{
+        "-xml:id": "Ez_w_006194",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_006195",
+        "t": "aurez"
+        },{
+        "-xml:id": "Ez_w_006196",
+        "t": "plus"
+        },{
+        "-xml:id": "Ez_w_006197",
+        "t": "amis"
+        },{
+        "-xml:id": "Ez_w_006198",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_006199",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_006200",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_006201",
+        "t": "cuidez"
+        },{
+        "-xml:id": "Ez_w_006202",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_006203",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_006204",
+        "t": "recouvrer"
+        }]
+            }
+        ]
+    }

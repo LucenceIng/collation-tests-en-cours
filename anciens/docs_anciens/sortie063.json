@@ -1,0 +1,117 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_005494",
+        "t": "Ha"
+        },
+        {
+        "-xml:id": "Ao_w_005495",
+        "t": "sire"
+        },
+        {
+        "-xml:id": "Ao_w_005496",
+        "t": "or"
+        },
+        {
+        "-xml:id": "Ao_w_005497",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_005498",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_005499",
+        "t": "hastez"
+        },
+        {
+        "-xml:id": "Ao_w_005500",
+        "t": "mie"
+        },
+        {
+        "-xml:id": "Ao_w_005501",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_005502",
+        "t": "Ge"
+        },
+        {
+        "-xml:id": "Ao_w_005503",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_005504",
+        "t": "serai"
+        },
+        {
+        "-xml:id": "Ao_w_005505",
+        "t": "pas"
+        },
+        {
+        "-xml:id": "Ao_w_005506",
+        "t": "an"
+        },
+        {
+        "-xml:id": "Ao_w_005507",
+        "t": "tel"
+        },
+        {
+        "-xml:id": "Ao_w_005508",
+        "t": "maniere"
+        },
+        {"-xml:id": "Ao_w_005509",
+              "t": "desferrez"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_005081",
+        "t": "Haa"
+        },{
+        "-xml:id": "Ez_w_005082",
+        "t": "sire"
+        },{
+        "-xml:id": "Ez_w_005083",
+        "t": "or"
+        },{
+        "-xml:id": "Ez_w_005084",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_005085",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_005086",
+        "t": "hastez"
+        },{
+        "-xml:id": "Ez_w_005087",
+        "t": "mie"
+        },{
+        "-xml:id": "Ez_w_005088",
+        "t": "ainsi"
+        },{
+        "-xml:id": "Ez_w_005089",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_005090",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_005091",
+        "t": "seray"
+        },{
+        "-xml:id": "Ez_w_005092",
+        "t": "mie"
+        },{
+        "-xml:id": "Ez_w_005093",
+        "t": "ainsi"
+        },{
+        "-xml:id": "Ez_w_005094",
+        "t": "defferre"
+        }]
+            }
+        ]
+    }

@@ -1,0 +1,219 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_008256",
+        "t": "Comment"
+        },
+        {
+        "-xml:id": "Ao_w_008257",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_008258",
+        "t": "messire"
+        },
+        {
+        "-xml:id": "Ao_w_008259",
+        "t": "Yvains"
+        },
+        {
+        "-xml:id": "Ao_w_008260",
+        "t": "biax"
+        },
+        {
+        "-xml:id": "Ao_w_008261",
+        "t": "dolz"
+        },
+        {
+        "-xml:id": "Ao_w_008262",
+        "t": "amis"
+        },
+        {
+        "-xml:id": "Ao_w_008263",
+        "t": "volez"
+        },
+        {
+        "-xml:id": "Ao_w_008264",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_008265",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_008266",
+        "t": "estre"
+        },
+        {
+        "-xml:id": "Ao_w_008267",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_008268",
+        "t": "tost"
+        },
+        {
+        "-xml:id": "Ao_w_008269",
+        "t": "Et"
+        },
+        {
+        "-xml:id": "Ao_w_008270",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_008271",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_008272",
+        "t": "respont"
+        },
+        {
+        "-xml:id": "Ao_w_008273",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_008274",
+        "t": "oïl"
+        },
+        {
+        "-xml:id": "Ao_w_008275",
+        "t": "Biax"
+        },
+        {
+        "-xml:id": "Ao_w_008276",
+        "t": "douz"
+        },
+        {
+        "-xml:id": "Ao_w_008277",
+        "t": "amis"
+        },
+        {
+        "-xml:id": "Ao_w_008278",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_008279",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_008280",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_008281",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_008282",
+        "t": "venist"
+        },
+        {
+        "-xml:id": "Ao_w_008283",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_008284",
+        "t": "miauz"
+        },
+        {
+        "-xml:id": "Ao_w_008285",
+        "t": "encor"
+        },
+        {
+        "-xml:id": "Ao_w_008286",
+        "t": "atandre"
+        },
+        {
+        "-xml:id": "Ao_w_008287",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_008288",
+        "t": "aprendre"
+        },
+        {
+        "-xml:id": "Ao_w_008289",
+        "t": "des"
+        },
+        {
+        "-xml:id": "Ao_w_008290",
+        "t": "armes"
+        },
+        {
+        "-xml:id": "Ao_w_008291",
+        "t": "tant"
+        },
+        {
+        "-xml:id": "Ao_w_008292",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_008293",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_008294",
+        "t": "en"
+        },
+        {"-xml:id": "Ao_w_008295",
+              "t": "seüssiez"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_006408",
+        "t": "Comment"
+        },{
+        "-xml:id": "Ez_w_006409",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_006410",
+        "t": "messire"
+        },{
+        "-xml:id": "Ez_w_006411",
+        "t": "yvain"
+        },{
+        "-xml:id": "Ez_w_006412",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_006413",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_006414",
+        "t": "vaulsist"
+        },{
+        "-xml:id": "Ez_w_006415",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_006416",
+        "t": "pas"
+        },{
+        "-xml:id": "Ez_w_006417",
+        "t": "mieulx"
+        },{
+        "-xml:id": "Ez_w_006418",
+        "t": "encores"
+        },{
+        "-xml:id": "Ez_w_006419",
+        "t": "attendre"
+        },{
+        "-xml:id": "Ez_w_006420",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_006421",
+        "t": "aprendre"
+        },{
+        "-xml:id": "Ez_w_006422",
+        "t": "des"
+        },{
+        "-xml:id": "Ez_w_006423",
+        "t": "armes"
+        }]
+            }
+        ]
+    }

@@ -1,0 +1,268 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_008378",
+        "t": "A"
+        },
+        {
+        "-xml:id": "Ao_w_008379",
+        "t": "ces"
+        },
+        {
+        "-xml:id": "Ao_w_008380",
+        "t": "paroles"
+        },
+        {
+        "-xml:id": "Ao_w_008381",
+        "t": "vint"
+        },
+        {
+        "-xml:id": "Ao_w_008382",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_008383",
+        "t": "reine"
+        },
+        {
+        "-xml:id": "Ao_w_008384",
+        "t": "parmi"
+        },
+        {
+        "-xml:id": "Ao_w_008385",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_008386",
+        "t": "sale"
+        },
+        {
+        "-xml:id": "Ao_w_008387",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_008388",
+        "t": "delez"
+        },
+        {
+        "-xml:id": "Ao_w_008389",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_008390",
+        "t": "messire"
+        },
+        {
+        "-xml:id": "Ao_w_008391",
+        "t": "Gauvains"
+        },
+        {
+        "-xml:id": "Ao_w_008392",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_008393",
+        "t": "niés"
+        },
+        {
+        "-xml:id": "Ao_w_008394",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_008395",
+        "t": "roi"
+        },
+        {
+        "-xml:id": "Ao_w_008396",
+        "t": "Et"
+        },
+        {
+        "-xml:id": "Ao_w_008397",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_008398",
+        "t": "rois"
+        },
+        {
+        "-xml:id": "Ao_w_008399",
+        "t": "regarde"
+        },
+        {
+        "-xml:id": "Ao_w_008400",
+        "t": "monseignor"
+        },
+        {
+        "-xml:id": "Ao_w_008401",
+        "t": "Yvain"
+        },
+        {
+        "-xml:id": "Ao_w_008402",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_008403",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_008404",
+        "t": "dit"
+        },
+        {
+        "-xml:id": "Ao_w_008405",
+        "t": "Dites"
+        },
+        {
+        "-xml:id": "Ao_w_008406",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_008407",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_008408",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_008409",
+        "t": "rois"
+        },
+        {
+        "-xml:id": "Ao_w_008410",
+        "t": "del"
+        },
+        {
+        "-xml:id": "Ao_w_008411",
+        "t": "vallet"
+        },
+        {
+        "-xml:id": "Ao_w_008412",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_008413",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_008414",
+        "t": "dame"
+        },
+        {
+        "-xml:id": "Ao_w_008415",
+        "t": "me"
+        },
+        {
+        "-xml:id": "Ao_w_008416",
+        "t": "bailla"
+        },
+        {
+        "-xml:id": "Ao_w_008417",
+        "t": "vestu"
+        },
+        {
+        "-xml:id": "Ao_w_008418",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_008419",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_008420",
+        "t": "robe"
+        },
+        {
+        "-xml:id": "Ao_w_008421",
+        "t": "blanche"
+        },
+        {
+        "-xml:id": "Ao_w_008422",
+        "t": "De"
+        },
+        {
+        "-xml:id": "Ao_w_008423",
+        "t": "celui"
+        },
+        {
+        "-xml:id": "Ao_w_008424",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_008425",
+        "t": "messire"
+        },
+        {
+        "-xml:id": "Ao_w_008426",
+        "t": "Yvains"
+        },
+        {
+        "-xml:id": "Ao_w_008427",
+        "t": "di"
+        },
+        {
+        "-xml:id": "Ao_w_008428",
+        "t": "ge"
+        },
+        {
+        "-xml:id": "Ao_w_008429",
+        "t": "por"
+        },
+        {"-xml:id": "Ao_w_008430",
+              "t": "voir"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_006491",
+        "t": "Certes"
+        },{
+        "-xml:id": "Ez_w_006492",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_006493",
+        "t": "messire"
+        },{
+        "-xml:id": "Ez_w_006494",
+        "t": "gauvain"
+        },{
+        "-xml:id": "Ez_w_006495",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_006496",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_006497",
+        "t": "grant"
+        },{
+        "-xml:id": "Ez_w_006498",
+        "t": "droit"
+        },{
+        "-xml:id": "Ez_w_006499",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_006500",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_006501",
+        "t": "royne"
+        },{
+        "-xml:id": "Ez_w_006502",
+        "t": "vint"
+        },{
+        "-xml:id": "Ez_w_006503",
+        "t": "sur"
+        },{
+        "-xml:id": "Ez_w_006504",
+        "t": "ces"
+        },{
+        "-xml:id": "Ez_w_006505",
+        "t": "paroles"
+        }]
+            }
+        ]
+    }

@@ -1,0 +1,167 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_005384",
+        "t": "Biaus"
+        },
+        {
+        "-xml:id": "Ao_w_005385",
+        "t": "sire"
+        },
+        {
+        "-xml:id": "Ao_w_005386",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_005387",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_005388",
+        "t": "rois"
+        },
+        {
+        "-xml:id": "Ao_w_005389",
+        "t": "Dex"
+        },
+        {
+        "-xml:id": "Ao_w_005390",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_005391",
+        "t": "beneïe"
+        },
+        {
+        "-xml:id": "Ao_w_005392",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_005393",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_005394",
+        "t": "doint"
+        },
+        {
+        "-xml:id": "Ao_w_005395",
+        "t": "santé"
+        },
+        {
+        "-xml:id": "Ao_w_005396",
+        "t": "car"
+        },
+        {
+        "-xml:id": "Ao_w_005397",
+        "t": "grant"
+        },
+        {
+        "-xml:id": "Ao_w_005398",
+        "t": "mestier"
+        },
+        {
+        "-xml:id": "Ao_w_005399",
+        "t": "en"
+        },
+        {
+        "-xml:id": "Ao_w_005400",
+        "t": "avez"
+        },
+        {
+        "-xml:id": "Ao_w_005401",
+        "t": "ce"
+        },
+        {
+        "-xml:id": "Ao_w_005402",
+        "t": "m"
+        },
+        {
+        "-xml:id": "Ao_w_005403",
+        "t": "est"
+        },
+        {"-xml:id": "Ao_w_005404",
+              "t": "avis"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_004975",
+        "t": "Beau"
+        },{
+        "-xml:id": "Ez_w_004976",
+        "t": "sire"
+        },{
+        "-xml:id": "Ez_w_004977",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_004978",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_004979",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_004980",
+        "t": "bien"
+        },{
+        "-xml:id": "Ez_w_004981",
+        "t": "soyez"
+        },{
+        "-xml:id": "Ez_w_004982",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_004983",
+        "t": "venus"
+        },{
+        "-xml:id": "Ez_w_004984",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_004985",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_004986",
+        "t": "doint"
+        },{
+        "-xml:id": "Ez_w_004987",
+        "t": "dieu"
+        },{
+        "-xml:id": "Ez_w_004988",
+        "t": "sante"
+        },{
+        "-xml:id": "Ez_w_004989",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_004990",
+        "t": "conseil"
+        },{
+        "-xml:id": "Ez_w_004991",
+        "t": "car"
+        },{
+        "-xml:id": "Ez_w_004992",
+        "t": "grant"
+        },{
+        "-xml:id": "Ez_w_004993",
+        "t": "mestier"
+        },{
+        "-xml:id": "Ez_w_004994",
+        "t": "en"
+        },{
+        "-xml:id": "Ez_w_004995",
+        "t": "avez"
+        },{
+        "-xml:id": "Ez_w_004996",
+        "t": "se"
+        },{
+        "-xml:id": "Ez_w_004997",
+        "t": "mest"
+        },{
+        "-xml:id": "Ez_w_004998",
+        "t": "adviz"
+        }]
+            }
+        ]
+    }

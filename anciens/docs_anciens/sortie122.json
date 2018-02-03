@@ -1,0 +1,350 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_009389",
+        "t": "La"
+        },
+        {
+        "-xml:id": "Ao_w_009390",
+        "t": "reine"
+        },
+        {
+        "-xml:id": "Ao_w_009391",
+        "t": "vet"
+        },
+        {
+        "-xml:id": "Ao_w_009392",
+        "t": "en"
+        },
+        {
+        "-xml:id": "Ao_w_009393",
+        "t": "ses"
+        },
+        {
+        "-xml:id": "Ao_w_009394",
+        "t": "chanbres"
+        },
+        {
+        "-xml:id": "Ao_w_009395",
+        "t": "Et"
+        },
+        {
+        "-xml:id": "Ao_w_009396",
+        "t": "qant"
+        },
+        {
+        "-xml:id": "Ao_w_009397",
+        "t": "vint"
+        },
+        {
+        "-xml:id": "Ao_w_009398",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_009399",
+        "t": "ore"
+        },
+        {
+        "-xml:id": "Ao_w_009400",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_009401",
+        "t": "vespres"
+        },
+        {
+        "-xml:id": "Ao_w_009402",
+        "t": "messire"
+        },
+        {
+        "-xml:id": "Ao_w_009403",
+        "t": "Yvains"
+        },
+        {
+        "-xml:id": "Ao_w_009404",
+        "t": "i"
+        },
+        {
+        "-xml:id": "Ao_w_009405",
+        "t": "mena"
+        },
+        {
+        "-xml:id": "Ao_w_009406",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_009407",
+        "t": "vallet"
+        },
+        {
+        "-xml:id": "Ao_w_009408",
+        "t": "parmi"
+        },
+        {
+        "-xml:id": "Ao_w_009409",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_009410",
+        "t": "main"
+        },
+        {
+        "-xml:id": "Ao_w_009411",
+        "t": "Au"
+        },
+        {
+        "-xml:id": "Ao_w_009412",
+        "t": "revenir"
+        },
+        {
+        "-xml:id": "Ao_w_009413",
+        "t": "des"
+        },
+        {
+        "-xml:id": "Ao_w_009414",
+        "t": "vespres"
+        },
+        {
+        "-xml:id": "Ao_w_009415",
+        "t": "alerent"
+        },
+        {
+        "-xml:id": "Ao_w_009416",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_009417",
+        "t": "rois"
+        },
+        {
+        "-xml:id": "Ao_w_009418",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_009419",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_009420",
+        "t": "reine"
+        },
+        {
+        "-xml:id": "Ao_w_009421",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_009422",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_009423",
+        "t": "autre"
+        },
+        {
+        "-xml:id": "Ao_w_009424",
+        "t": "chevalier"
+        },
+        {
+        "-xml:id": "Ao_w_009425",
+        "t": "par"
+        },
+        {
+        "-xml:id": "Ao_w_009426",
+        "t": "derrieres"
+        },
+        {
+        "-xml:id": "Ao_w_009427",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_009428",
+        "t": "sale"
+        },
+        {
+        "-xml:id": "Ao_w_009429",
+        "t": "en"
+        },
+        {
+        "-xml:id": "Ao_w_009430",
+        "t": "un"
+        },
+        {
+        "-xml:id": "Ao_w_009431",
+        "t": "mout"
+        },
+        {
+        "-xml:id": "Ao_w_009432",
+        "t": "biau"
+        },
+        {
+        "-xml:id": "Ao_w_009433",
+        "t": "jardin"
+        },
+        {
+        "-xml:id": "Ao_w_009434",
+        "t": "sor"
+        },
+        {
+        "-xml:id": "Ao_w_009435",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_009436",
+        "t": "riviere"
+        },
+        {
+        "-xml:id": "Ao_w_009437",
+        "t": "qui"
+        },
+        {
+        "-xml:id": "Ao_w_009438",
+        "t": "as"
+        },
+        {
+        "-xml:id": "Ao_w_009439",
+        "t": "maisons"
+        },
+        {
+        "-xml:id": "Ao_w_009440",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_009441",
+        "t": "roi"
+        },
+        {"-xml:id": "Ao_w_009442",
+              "t": "joignoit"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_007008",
+        "t": "La"
+        },{
+        "-xml:id": "Ez_w_007009",
+        "t": "royne"
+        },{
+        "-xml:id": "Ez_w_007010",
+        "t": "va"
+        },{
+        "-xml:id": "Ez_w_007011",
+        "t": "en"
+        },{
+        "-xml:id": "Ez_w_007012",
+        "t": "sa"
+        },{
+        "-xml:id": "Ez_w_007013",
+        "t": "chambre"
+        },{
+        "-xml:id": "Ez_w_007014",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_007015",
+        "t": "quant"
+        },{
+        "-xml:id": "Ez_w_007016",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_007017",
+        "t": "vint"
+        },{
+        "-xml:id": "Ez_w_007018",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_007019",
+        "t": "heure"
+        },{
+        "-xml:id": "Ez_w_007020",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_007021",
+        "t": "vespres"
+        },{
+        "-xml:id": "Ez_w_007022",
+        "t": "messire"
+        },{
+        "-xml:id": "Ez_w_007023",
+        "t": "yvain"
+        },{
+        "-xml:id": "Ez_w_007024",
+        "t": "emmena"
+        },{
+        "-xml:id": "Ez_w_007025",
+        "t": "son"
+        },{
+        "-xml:id": "Ez_w_007026",
+        "t": "varlet"
+        },{
+        "-xml:id": "Ez_w_007027",
+        "t": "par"
+        },{
+        "-xml:id": "Ez_w_007028",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_007029",
+        "t": "main"
+        },{
+        "-xml:id": "Ez_w_007030",
+        "t": "Au"
+        },{
+        "-xml:id": "Ez_w_007031",
+        "t": "revenir"
+        },{
+        "-xml:id": "Ez_w_007032",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_007033",
+        "t": "vespres"
+        },{
+        "-xml:id": "Ez_w_007034",
+        "t": "alerent"
+        },{
+        "-xml:id": "Ez_w_007035",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_007036",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_007037",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_007038",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_007039",
+        "t": "royne"
+        },{
+        "-xml:id": "Ez_w_007040",
+        "t": "en"
+        },{
+        "-xml:id": "Ez_w_007041",
+        "t": "ung"
+        },{
+        "-xml:id": "Ez_w_007042",
+        "t": "beau"
+        },{
+        "-xml:id": "Ez_w_007043",
+        "t": "jardin"
+        },{
+        "-xml:id": "Ez_w_007044",
+        "t": "qui"
+        },{
+        "-xml:id": "Ez_w_007045",
+        "t": "estoit"
+        },{
+        "-xml:id": "Ez_w_007046",
+        "t": "jouxte"
+        },{
+        "-xml:id": "Ez_w_007047",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_007048",
+        "t": "maison"
+        }]
+            }
+        ]
+    }

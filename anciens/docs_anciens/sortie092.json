@@ -1,0 +1,256 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_008076",
+        "t": "Tant"
+        },
+        {
+        "-xml:id": "Ao_w_008077",
+        "t": "en"
+        },
+        {
+        "-xml:id": "Ao_w_008078",
+        "t": "dient"
+        },
+        {
+        "-xml:id": "Ao_w_008079",
+        "t": "entre"
+        },
+        {
+        "-xml:id": "Ao_w_008080",
+        "t": "monseignor"
+        },
+        {
+        "-xml:id": "Ao_w_008081",
+        "t": "Yvain"
+        },
+        {
+        "-xml:id": "Ao_w_008082",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_008083",
+        "t": "les"
+        },
+        {
+        "-xml:id": "Ao_w_008084",
+        "t": "autres"
+        },
+        {
+        "-xml:id": "Ao_w_008085",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_008086",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_008087",
+        "t": "vallez"
+        },
+        {
+        "-xml:id": "Ao_w_008088",
+        "t": "en"
+        },
+        {
+        "-xml:id": "Ao_w_008089",
+        "t": "est"
+        },
+        {
+        "-xml:id": "Ao_w_008090",
+        "t": "toz"
+        },
+        {
+        "-xml:id": "Ao_w_008091",
+        "t": "esbahiz"
+        },
+        {
+        "-xml:id": "Ao_w_008092",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_008093",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_008094",
+        "t": "rois"
+        },
+        {
+        "-xml:id": "Ao_w_008095",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_008096",
+        "t": "voit"
+        },
+        {
+        "-xml:id": "Ao_w_008097",
+        "t": "mout"
+        },
+        {
+        "-xml:id": "Ao_w_008098",
+        "t": "bien"
+        },
+        {
+        "-xml:id": "Ao_w_008099",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_008100",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_008101",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_008102",
+        "t": "velt"
+        },
+        {
+        "-xml:id": "Ao_w_008103",
+        "t": "rien"
+        },
+        {
+        "-xml:id": "Ao_w_008104",
+        "t": "anquerre"
+        },
+        {
+        "-xml:id": "Ao_w_008105",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_008106",
+        "t": "son"
+        },
+        {
+        "-xml:id": "Ao_w_008107",
+        "t": "covine"
+        },
+        {
+        "-xml:id": "Ao_w_008108",
+        "t": "ainz"
+        },
+        {
+        "-xml:id": "Ao_w_008109",
+        "t": "laisse"
+        },
+        {
+        "-xml:id": "Ao_w_008110",
+        "t": "jusqu"
+        },
+        {
+        "-xml:id": "Ao_w_008111",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_008112",
+        "t": "une"
+        },
+        {
+        "-xml:id": "Ao_w_008113",
+        "t": "autre"
+        },
+        {
+        "-xml:id": "Ao_w_008114",
+        "t": "foiz"
+        },
+        {
+        "-xml:id": "Ao_w_008115",
+        "t": "Puis"
+        },
+        {
+        "-xml:id": "Ao_w_008116",
+        "t": "dist"
+        },
+        {
+        "-xml:id": "Ao_w_008117",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_008118",
+        "t": "monseignor"
+        },
+        {"-xml:id": "Ao_w_008119",
+              "t": "Yvain"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_006288",
+        "t": "Et"
+        },{
+        "-xml:id": "Ez_w_006289",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_006290",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_006291",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_006292",
+        "t": "se"
+        },{
+        "-xml:id": "Ez_w_006293",
+        "t": "enquist"
+        },{
+        "-xml:id": "Ez_w_006294",
+        "t": "point"
+        },{
+        "-xml:id": "Ez_w_006295",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_006296",
+        "t": "son"
+        },{
+        "-xml:id": "Ez_w_006297",
+        "t": "estat"
+        },{
+        "-xml:id": "Ez_w_006298",
+        "t": "pour"
+        },{
+        "-xml:id": "Ez_w_006299",
+        "t": "ce"
+        },{
+        "-xml:id": "Ez_w_006300",
+        "t": "qu"
+        },{
+        "-xml:id": "Ez_w_006301",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_006302",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_006303",
+        "t": "voit"
+        },{
+        "-xml:id": "Ez_w_006304",
+        "t": "esbahy"
+        },{
+        "-xml:id": "Ez_w_006305",
+        "t": "ains"
+        },{
+        "-xml:id": "Ez_w_006306",
+        "t": "dist"
+        },{
+        "-xml:id": "Ez_w_006307",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_006308",
+        "t": "mon"
+        },{
+        "-xml:id": "Ez_w_006309",
+        "t": "seigneur"
+        },{
+        "-xml:id": "Ez_w_006310",
+        "t": "yvain"
+        }]
+            }
+        ]
+    }

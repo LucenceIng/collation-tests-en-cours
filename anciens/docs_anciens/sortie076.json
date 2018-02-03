@@ -1,0 +1,234 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_006783",
+        "t": "Damoisele"
+        },
+        {
+        "-xml:id": "Ao_w_006784",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_006785",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_006786",
+        "t": "rois"
+        },
+        {
+        "-xml:id": "Ao_w_006787",
+        "t": "s"
+        },
+        {
+        "-xml:id": "Ao_w_006788",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_006789",
+        "t": "me"
+        },
+        {
+        "-xml:id": "Ao_w_006790",
+        "t": "costoit"
+        },
+        {
+        "-xml:id": "Ao_w_006791",
+        "t": "del"
+        },
+        {
+        "-xml:id": "Ao_w_006792",
+        "t": "mien"
+        },
+        {
+        "-xml:id": "Ao_w_006793",
+        "t": "assez"
+        },
+        {
+        "-xml:id": "Ao_w_006794",
+        "t": "mais"
+        },
+        {
+        "-xml:id": "Ao_w_006795",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_006796",
+        "t": "honte"
+        },
+        {
+        "-xml:id": "Ao_w_006797",
+        "t": "n"
+        },
+        {
+        "-xml:id": "Ao_w_006798",
+        "t": "i"
+        },
+        {
+        "-xml:id": "Ao_w_006799",
+        "t": "eüsse"
+        },
+        {
+        "-xml:id": "Ao_w_006800",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_006801",
+        "t": "domage"
+        },
+        {
+        "-xml:id": "Ao_w_006802",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_006803",
+        "t": "mes"
+        },
+        {
+        "-xml:id": "Ao_w_006804",
+        "t": "amis"
+        },
+        {
+        "-xml:id": "Ao_w_006805",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_006806",
+        "t": "l"
+        },
+        {
+        "-xml:id": "Ao_w_006807",
+        "t": "avriez"
+        },
+        {
+        "-xml:id": "Ao_w_006808",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_006809",
+        "t": "Mais"
+        },
+        {
+        "-xml:id": "Ao_w_006810",
+        "t": "nomez"
+        },
+        {
+        "-xml:id": "Ao_w_006811",
+        "t": "lou"
+        },
+        {
+        "-xml:id": "Ao_w_006812",
+        "t": "seürement"
+        },
+        {
+        "-xml:id": "Ao_w_006813",
+        "t": "car"
+        },
+        {
+        "-xml:id": "Ao_w_006814",
+        "t": "mout"
+        },
+        {
+        "-xml:id": "Ao_w_006815",
+        "t": "seroit"
+        },
+        {
+        "-xml:id": "Ao_w_006816",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_006817",
+        "t": "dons"
+        },
+        {
+        "-xml:id": "Ao_w_006818",
+        "t": "granz"
+        },
+        {
+        "-xml:id": "Ao_w_006819",
+        "t": "dont"
+        },
+        {
+        "-xml:id": "Ao_w_006820",
+        "t": "ge"
+        },
+        {
+        "-xml:id": "Ao_w_006821",
+        "t": "vos"
+        },
+        {"-xml:id": "Ao_w_006822",
+              "t": "escondiroie"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_005569",
+        "t": "Sire"
+        },{
+        "-xml:id": "Ez_w_005570",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_005571",
+        "t": "elle"
+        },{
+        "-xml:id": "Ez_w_005572",
+        "t": "grant"
+        },{
+        "-xml:id": "Ez_w_005573",
+        "t": "mercis"
+        },{
+        "-xml:id": "Ez_w_005574",
+        "t": "Dictes"
+        },{
+        "-xml:id": "Ez_w_005575",
+        "t": "seurement"
+        },{
+        "-xml:id": "Ez_w_005576",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_005577",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_005578",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_005579",
+        "t": "car"
+        },{
+        "-xml:id": "Ez_w_005580",
+        "t": "moult"
+        },{
+        "-xml:id": "Ez_w_005581",
+        "t": "seroit"
+        },{
+        "-xml:id": "Ez_w_005582",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_005583",
+        "t": "don"
+        },{
+        "-xml:id": "Ez_w_005584",
+        "t": "grant"
+        },{
+        "-xml:id": "Ez_w_005585",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_005586",
+        "t": "quoy"
+        },{
+        "-xml:id": "Ez_w_005587",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_005588",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_005589",
+        "t": "escondiroie"
+        }]
+            }
+        ]
+    }

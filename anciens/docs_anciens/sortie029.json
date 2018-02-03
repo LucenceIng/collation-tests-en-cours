@@ -1,0 +1,656 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_001594",
+        "t": "Et"
+        },
+        {
+        "-xml:id": "Ao_w_001595",
+        "t": "ge"
+        },
+        {
+        "-xml:id": "Ao_w_001596",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_001597",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_001598",
+        "t": "deviserai"
+        },
+        {
+        "-xml:id": "Ao_w_001599",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_001600",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_001601",
+        "t": "dame"
+        },
+        {
+        "-xml:id": "Ao_w_001602",
+        "t": "les"
+        },
+        {
+        "-xml:id": "Ao_w_001603",
+        "t": "fais"
+        },
+        {
+        "-xml:id": "Ao_w_001604",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_001605",
+        "t": "chevalerie"
+        },
+        {
+        "-xml:id": "Ao_w_001606",
+        "t": "cels"
+        },
+        {
+        "-xml:id": "Ao_w_001607",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_001608",
+        "t": "ge"
+        },
+        {
+        "-xml:id": "Ao_w_001609",
+        "t": "porrai"
+        },
+        {
+        "-xml:id": "Ao_w_001610",
+        "t": "savoir"
+        },
+        {
+        "-xml:id": "Ao_w_001611",
+        "t": "non"
+        },
+        {
+        "-xml:id": "Ao_w_001612",
+        "t": "mie"
+        },
+        {
+        "-xml:id": "Ao_w_001613",
+        "t": "toz"
+        },
+        {
+        "-xml:id": "Ao_w_001614",
+        "t": "car"
+        },
+        {
+        "-xml:id": "Ao_w_001615",
+        "t": "ge"
+        },
+        {
+        "-xml:id": "Ao_w_001616",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_001617",
+        "t": "sui"
+        },
+        {
+        "-xml:id": "Ao_w_001618",
+        "t": "pas"
+        },
+        {
+        "-xml:id": "Ao_w_001619",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_001620",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_001621",
+        "t": "grant"
+        },
+        {
+        "-xml:id": "Ao_w_001622",
+        "t": "san"
+        },
+        {
+        "-xml:id": "Ao_w_001623",
+        "t": "Et"
+        },
+        {
+        "-xml:id": "Ao_w_001624",
+        "t": "neporqant"
+        },
+        {
+        "-xml:id": "Ao_w_001625",
+        "t": "entendez"
+        },
+        {
+        "-xml:id": "Ao_w_001626",
+        "t": "les"
+        },
+        {
+        "-xml:id": "Ao_w_001627",
+        "t": "bien"
+        },
+        {
+        "-xml:id": "Ao_w_001628",
+        "t": "Qant"
+        },
+        {
+        "-xml:id": "Ao_w_001629",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_001630",
+        "t": "les"
+        },
+        {
+        "-xml:id": "Ao_w_001631",
+        "t": "avroiz"
+        },
+        {
+        "-xml:id": "Ao_w_001632",
+        "t": "oïes"
+        },
+        {
+        "-xml:id": "Ao_w_001633",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_001634",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_001635",
+        "t": "metez"
+        },
+        {
+        "-xml:id": "Ao_w_001636",
+        "t": "avocques"
+        },
+        {
+        "-xml:id": "Ao_w_001637",
+        "t": "l"
+        },
+        {
+        "-xml:id": "Ao_w_001638",
+        "t": "oiance"
+        },
+        {
+        "-xml:id": "Ao_w_001639",
+        "t": "cuer"
+        },
+        {
+        "-xml:id": "Ao_w_001640",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_001641",
+        "t": "raison"
+        },
+        {
+        "-xml:id": "Ao_w_001642",
+        "t": "car"
+        },
+        {
+        "-xml:id": "Ao_w_001643",
+        "t": "por"
+        },
+        {
+        "-xml:id": "Ao_w_001644",
+        "t": "ce"
+        },
+        {
+        "-xml:id": "Ao_w_001645",
+        "t": "se"
+        },
+        {
+        "-xml:id": "Ao_w_001646",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_001647",
+        "t": "avez"
+        },
+        {
+        "-xml:id": "Ao_w_001648",
+        "t": "talent"
+        },
+        {
+        "-xml:id": "Ao_w_001649",
+        "t": "d"
+        },
+        {
+        "-xml:id": "Ao_w_001650",
+        "t": "estre"
+        },
+        {
+        "-xml:id": "Ao_w_001651",
+        "t": "chevaliers"
+        },
+        {
+        "-xml:id": "Ao_w_001652",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_001653",
+        "t": "devez"
+        },
+        {
+        "-xml:id": "Ao_w_001654",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_001655",
+        "t": "pas"
+        },
+        {
+        "-xml:id": "Ao_w_001656",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_001657",
+        "t": "talant"
+        },
+        {
+        "-xml:id": "Ao_w_001658",
+        "t": "tant"
+        },
+        {
+        "-xml:id": "Ao_w_001659",
+        "t": "boter"
+        },
+        {
+        "-xml:id": "Ao_w_001660",
+        "t": "avant"
+        },
+        {
+        "-xml:id": "Ao_w_001661",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_001662",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_001663",
+        "t": "n"
+        },
+        {
+        "-xml:id": "Ao_w_001664",
+        "t": "i"
+        },
+        {
+        "-xml:id": "Ao_w_001665",
+        "t": "esgardoiz"
+        },
+        {
+        "-xml:id": "Ao_w_001666",
+        "t": "ançois"
+        },
+        {
+        "-xml:id": "Ao_w_001667",
+        "t": "raison"
+        },
+        {
+        "-xml:id": "Ao_w_001668",
+        "t": "car"
+        },
+        {
+        "-xml:id": "Ao_w_001669",
+        "t": "por"
+        },
+        {
+        "-xml:id": "Ao_w_001670",
+        "t": "ce"
+        },
+        {
+        "-xml:id": "Ao_w_001671",
+        "t": "fu"
+        },
+        {
+        "-xml:id": "Ao_w_001672",
+        "t": "doné"
+        },
+        {
+        "-xml:id": "Ao_w_001673",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_001674",
+        "t": "home"
+        },
+        {
+        "-xml:id": "Ao_w_001675",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_001676",
+        "t": "raison"
+        },
+        {
+        "-xml:id": "Ao_w_001677",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_001678",
+        "t": "antandement"
+        },
+        {
+        "-xml:id": "Ao_w_001679",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_001680",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_001681",
+        "t": "esgardast"
+        },
+        {
+        "-xml:id": "Ao_w_001682",
+        "t": "droiture"
+        },
+        {
+        "-xml:id": "Ao_w_001683",
+        "t": "ançois"
+        },
+        {
+        "-xml:id": "Ao_w_001684",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_001685",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_001686",
+        "t": "anpreïst"
+        },
+        {
+        "-xml:id": "Ao_w_001687",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_001688",
+        "t": "faire"
+        },
+        {"-xml:id": "Ao_w_001689",
+              "t": "rien"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_001914",
+        "t": "Et"
+        },{
+        "-xml:id": "Ez_w_001915",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_001916",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_001917",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_001918",
+        "t": "deviseray"
+        },{
+        "-xml:id": "Ez_w_001919",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_001920",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_001921",
+        "t": "dame"
+        },{
+        "-xml:id": "Ez_w_001922",
+        "t": "ainsi"
+        },{
+        "-xml:id": "Ez_w_001923",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_001924",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_001925",
+        "t": "en"
+        },{
+        "-xml:id": "Ez_w_001926",
+        "t": "pourray"
+        },{
+        "-xml:id": "Ez_w_001927",
+        "t": "savoir"
+        },{
+        "-xml:id": "Ez_w_001928",
+        "t": "combien"
+        },{
+        "-xml:id": "Ez_w_001929",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_001930",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_001931",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_001932",
+        "t": "soie"
+        },{
+        "-xml:id": "Ez_w_001933",
+        "t": "mie"
+        },{
+        "-xml:id": "Ez_w_001934",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_001935",
+        "t": "assez"
+        },{
+        "-xml:id": "Ez_w_001936",
+        "t": "grant"
+        },{
+        "-xml:id": "Ez_w_001937",
+        "t": "sens"
+        },{
+        "-xml:id": "Ez_w_001938",
+        "t": "mais"
+        },{
+        "-xml:id": "Ez_w_001939",
+        "t": "entendez"
+        },{
+        "-xml:id": "Ez_w_001940",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_001941",
+        "t": "petit"
+        },{
+        "-xml:id": "Ez_w_001942",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_001943",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_001944",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_001945",
+        "t": "diray"
+        },{
+        "-xml:id": "Ez_w_001946",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_001947",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_001948",
+        "t": "retenez"
+        },{
+        "-xml:id": "Ez_w_001949",
+        "t": "en"
+        },{
+        "-xml:id": "Ez_w_001950",
+        "t": "vostre"
+        },{
+        "-xml:id": "Ez_w_001951",
+        "t": "cueur"
+        },{
+        "-xml:id": "Ez_w_001952",
+        "t": "pour"
+        },{
+        "-xml:id": "Ez_w_001953",
+        "t": "en"
+        },{
+        "-xml:id": "Ez_w_001954",
+        "t": "user"
+        },{
+        "-xml:id": "Ez_w_001955",
+        "t": "par"
+        },{
+        "-xml:id": "Ez_w_001956",
+        "t": "raison"
+        },{
+        "-xml:id": "Ez_w_001957",
+        "t": "car"
+        },{
+        "-xml:id": "Ez_w_001958",
+        "t": "se"
+        },{
+        "-xml:id": "Ez_w_001959",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_001960",
+        "t": "avez"
+        },{
+        "-xml:id": "Ez_w_001961",
+        "t": "desir"
+        },{
+        "-xml:id": "Ez_w_001962",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_001963",
+        "t": "estre"
+        },{
+        "-xml:id": "Ez_w_001964",
+        "t": "chevalier"
+        },{
+        "-xml:id": "Ez_w_001965",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_001966",
+        "t": "devez"
+        },{
+        "-xml:id": "Ez_w_001967",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_001968",
+        "t": "mie"
+        },{
+        "-xml:id": "Ez_w_001969",
+        "t": "tant"
+        },{
+        "-xml:id": "Ez_w_001970",
+        "t": "embrasser"
+        },{
+        "-xml:id": "Ez_w_001971",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_001972",
+        "t": "ensuvir"
+        },{
+        "-xml:id": "Ez_w_001973",
+        "t": "vostre"
+        },{
+        "-xml:id": "Ez_w_001974",
+        "t": "vouloir"
+        },{
+        "-xml:id": "Ez_w_001975",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_001976",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_001977",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_001978",
+        "t": "regardez"
+        },{
+        "-xml:id": "Ez_w_001979",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_001980",
+        "t": "raison"
+        },{
+        "-xml:id": "Ez_w_001981",
+        "t": "qui"
+        },{
+        "-xml:id": "Ez_w_001982",
+        "t": "fut"
+        },{
+        "-xml:id": "Ez_w_001983",
+        "t": "donnee"
+        },{
+        "-xml:id": "Ez_w_001984",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_001985",
+        "t": "l"
+        },{
+        "-xml:id": "Ez_w_001986",
+        "t": "omme"
+        },{
+        "-xml:id": "Ez_w_001987",
+        "t": "avec"
+        },{
+        "-xml:id": "Ez_w_001988",
+        "t": "entendement"
+        },{
+        "-xml:id": "Ez_w_001989",
+        "t": "afin"
+        },{
+        "-xml:id": "Ez_w_001990",
+        "t": "qu"
+        },{
+        "-xml:id": "Ez_w_001991",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_001992",
+        "t": "regarde"
+        },{
+        "-xml:id": "Ez_w_001993",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_001994",
+        "t": "droiture"
+        },{
+        "-xml:id": "Ez_w_001995",
+        "t": "aincois"
+        },{
+        "-xml:id": "Ez_w_001996",
+        "t": "qu"
+        },{
+        "-xml:id": "Ez_w_001997",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_001998",
+        "t": "entreprint"
+        },{
+        "-xml:id": "Ez_w_001999",
+        "t": "aucune"
+        },{
+        "-xml:id": "Ez_w_002000",
+        "t": "chose"
+        }]
+            }
+        ]
+    }

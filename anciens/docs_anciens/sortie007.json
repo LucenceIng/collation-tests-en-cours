@@ -1,0 +1,122 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_000749",
+        "t": "Ha"
+        },
+        {
+        "-xml:id": "Ao_w_000750",
+        "t": "filz"
+        },
+        {
+        "-xml:id": "Ao_w_000751",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_000752",
+        "t": "roi"
+        },
+        {
+        "-xml:id": "Ao_w_000753",
+        "t": "fuiez"
+        },
+        {
+        "-xml:id": "Ao_w_000754",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_000755",
+        "t": "ci"
+        },
+        {
+        "-xml:id": "Ao_w_000756",
+        "t": "o"
+        },
+        {
+        "-xml:id": "Ao_w_000757",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_000758",
+        "t": "cuers"
+        },
+        {
+        "-xml:id": "Ao_w_000759",
+        "t": "me"
+        },
+        {
+        "-xml:id": "Ao_w_000760",
+        "t": "partira"
+        },
+        {
+        "-xml:id": "Ao_w_000761",
+        "t": "dedanz"
+        },
+        {
+        "-xml:id": "Ao_w_000762",
+        "t": "lo"
+        },
+        {"-xml:id": "Ao_w_000763",
+              "t": "ventre"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_001210",
+        "t": "Ha"
+        },{
+        "-xml:id": "Ez_w_001211",
+        "t": "filz"
+        },{
+        "-xml:id": "Ez_w_001212",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_001213",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_001214",
+        "t": "pour"
+        },{
+        "-xml:id": "Ez_w_001215",
+        "t": "dieu"
+        },{
+        "-xml:id": "Ez_w_001216",
+        "t": "fuyez"
+        },{
+        "-xml:id": "Ez_w_001217",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_001218",
+        "t": "d"
+        },{
+        "-xml:id": "Ez_w_001219",
+        "t": "icy"
+        },{
+        "-xml:id": "Ez_w_001220",
+        "t": "ou"
+        },{
+        "-xml:id": "Ez_w_001221",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_001222",
+        "t": "cueur"
+        },{
+        "-xml:id": "Ez_w_001223",
+        "t": "me"
+        },{
+        "-xml:id": "Ez_w_001224",
+        "t": "partira"
+        },{
+        "-xml:id": "Ez_w_001225",
+        "t": "du"
+        },{
+        "-xml:id": "Ez_w_001226",
+        "t": "ventre"
+        }]
+            }
+        ]
+    }

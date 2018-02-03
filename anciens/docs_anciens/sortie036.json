@@ -1,0 +1,701 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_002384",
+        "t": "Li"
+        },
+        {
+        "-xml:id": "Ao_w_002385",
+        "t": "glaives"
+        },
+        {
+        "-xml:id": "Ao_w_002386",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_002387",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_002388",
+        "t": "chevaliers"
+        },
+        {
+        "-xml:id": "Ao_w_002389",
+        "t": "porte"
+        },
+        {
+        "-xml:id": "Ao_w_002390",
+        "t": "qui"
+        },
+        {
+        "-xml:id": "Ao_w_002391",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_002392",
+        "t": "est"
+        },
+        {
+        "-xml:id": "Ao_w_002393",
+        "t": "lons"
+        },
+        {
+        "-xml:id": "Ao_w_002394",
+        "t": "qu"
+        },
+        {
+        "-xml:id": "Ao_w_002395",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_002396",
+        "t": "point"
+        },
+        {
+        "-xml:id": "Ao_w_002397",
+        "t": "ançois"
+        },
+        {
+        "-xml:id": "Ao_w_002398",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_002399",
+        "t": "l"
+        },
+        {
+        "-xml:id": "Ao_w_002400",
+        "t": "an"
+        },
+        {
+        "-xml:id": "Ao_w_002401",
+        "t": "puisse"
+        },
+        {
+        "-xml:id": "Ao_w_002402",
+        "t": "avenir"
+        },
+        {
+        "-xml:id": "Ao_w_002403",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_002404",
+        "t": "lui"
+        },
+        {
+        "-xml:id": "Ao_w_002405",
+        "t": "senefie"
+        },
+        {
+        "-xml:id": "Ao_w_002406",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_002407",
+        "t": "autresin"
+        },
+        {
+        "-xml:id": "Ao_w_002408",
+        "t": "com"
+        },
+        {
+        "-xml:id": "Ao_w_002409",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_002410",
+        "t": "paors"
+        },
+        {
+        "-xml:id": "Ao_w_002411",
+        "t": "del"
+        },
+        {
+        "-xml:id": "Ao_w_002412",
+        "t": "glaive"
+        },
+        {
+        "-xml:id": "Ao_w_002413",
+        "t": "dont"
+        },
+        {
+        "-xml:id": "Ao_w_002414",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_002415",
+        "t": "fuz"
+        },
+        {
+        "-xml:id": "Ao_w_002416",
+        "t": "est"
+        },
+        {
+        "-xml:id": "Ao_w_002417",
+        "t": "roides"
+        },
+        {
+        "-xml:id": "Ao_w_002418",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_002419",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_002420",
+        "t": "fers"
+        },
+        {
+        "-xml:id": "Ao_w_002421",
+        "t": "tranchanz"
+        },
+        {
+        "-xml:id": "Ao_w_002422",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_002423",
+        "t": "resortir"
+        },
+        {
+        "-xml:id": "Ao_w_002424",
+        "t": "arrieres"
+        },
+        {
+        "-xml:id": "Ao_w_002425",
+        "t": "les"
+        },
+        {
+        "-xml:id": "Ao_w_002426",
+        "t": "desarmez"
+        },
+        {
+        "-xml:id": "Ao_w_002427",
+        "t": "por"
+        },
+        {
+        "-xml:id": "Ao_w_002428",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_002429",
+        "t": "dotance"
+        },
+        {
+        "-xml:id": "Ao_w_002430",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_002431",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_002432",
+        "t": "mort"
+        },
+        {
+        "-xml:id": "Ao_w_002433",
+        "t": "autresin"
+        },
+        {
+        "-xml:id": "Ao_w_002434",
+        "t": "doit"
+        },
+        {
+        "-xml:id": "Ao_w_002435",
+        "t": "estre"
+        },
+        {
+        "-xml:id": "Ao_w_002436",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_002437",
+        "t": "chevaliers"
+        },
+        {
+        "-xml:id": "Ao_w_002438",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_002439",
+        "t": "fiers"
+        },
+        {
+        "-xml:id": "Ao_w_002440",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_002441",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_002442",
+        "t": "hardiz"
+        },
+        {
+        "-xml:id": "Ao_w_002443",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_002444",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_002445",
+        "t": "viguereus"
+        },
+        {
+        "-xml:id": "Ao_w_002446",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_002447",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_002448",
+        "t": "paors"
+        },
+        {
+        "-xml:id": "Ao_w_002449",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_002450",
+        "t": "lui"
+        },
+        {
+        "-xml:id": "Ao_w_002451",
+        "t": "corre"
+        },
+        {
+        "-xml:id": "Ao_w_002452",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_002453",
+        "t": "loign"
+        },
+        {
+        "-xml:id": "Ao_w_002454",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_002455",
+        "t": "nus"
+        },
+        {
+        "-xml:id": "Ao_w_002456",
+        "t": "lerres"
+        },
+        {
+        "-xml:id": "Ao_w_002457",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_002458",
+        "t": "mausfaisanz"
+        },
+        {
+        "-xml:id": "Ao_w_002459",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_002460",
+        "t": "soit"
+        },
+        {
+        "-xml:id": "Ao_w_002461",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_002462",
+        "t": "osez"
+        },
+        {
+        "-xml:id": "Ao_w_002463",
+        "t": "qu"
+        },
+        {
+        "-xml:id": "Ao_w_002464",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_002465",
+        "t": "aprime"
+        },
+        {
+        "-xml:id": "Ao_w_002466",
+        "t": "vers"
+        },
+        {
+        "-xml:id": "Ao_w_002467",
+        "t": "Sainte"
+        },
+        {
+        "-xml:id": "Ao_w_002468",
+        "t": "Eglise"
+        },
+        {
+        "-xml:id": "Ao_w_002469",
+        "t": "ainz"
+        },
+        {
+        "-xml:id": "Ao_w_002470",
+        "t": "fuie"
+        },
+        {
+        "-xml:id": "Ao_w_002471",
+        "t": "loing"
+        },
+        {
+        "-xml:id": "Ao_w_002472",
+        "t": "por"
+        },
+        {
+        "-xml:id": "Ao_w_002473",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_002474",
+        "t": "peor"
+        },
+        {
+        "-xml:id": "Ao_w_002475",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_002476",
+        "t": "lui"
+        },
+        {
+        "-xml:id": "Ao_w_002477",
+        "t": "vers"
+        },
+        {
+        "-xml:id": "Ao_w_002478",
+        "t": "cui"
+        },
+        {
+        "-xml:id": "Ao_w_002479",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_002480",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_002481",
+        "t": "doit"
+        },
+        {
+        "-xml:id": "Ao_w_002482",
+        "t": "avoir"
+        },
+        {
+        "-xml:id": "Ao_w_002483",
+        "t": "puissance"
+        },
+        {
+        "-xml:id": "Ao_w_002484",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_002485",
+        "t": "plus"
+        },
+        {
+        "-xml:id": "Ao_w_002486",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_002487",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_002488",
+        "t": "desarmez"
+        },
+        {
+        "-xml:id": "Ao_w_002489",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_002490",
+        "t": "pooir"
+        },
+        {
+        "-xml:id": "Ao_w_002491",
+        "t": "encontre"
+        },
+        {
+        "-xml:id": "Ao_w_002492",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_002493",
+        "t": "glaive"
+        },
+        {
+        "-xml:id": "Ao_w_002494",
+        "t": "dont"
+        },
+        {
+        "-xml:id": "Ao_w_002495",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_002496",
+        "t": "fers"
+        },
+        {"-xml:id": "Ao_w_002497",
+              "t": "tranche"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_002541",
+        "t": "Le"
+        },{
+        "-xml:id": "Ez_w_002542",
+        "t": "glaive"
+        },{
+        "-xml:id": "Ez_w_002543",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_002544",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_002546",
+        "t": "chevalier"
+        },{
+        "-xml:id": "Ez_w_002547",
+        "t": "tient"
+        },{
+        "-xml:id": "Ez_w_002548",
+        "t": "qui"
+        },{
+        "-xml:id": "Ez_w_002549",
+        "t": "est"
+        },{
+        "-xml:id": "Ez_w_002550",
+        "t": "long"
+        },{
+        "-xml:id": "Ez_w_002551",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_002552",
+        "t": "picque"
+        },{
+        "-xml:id": "Ez_w_002553",
+        "t": "aincois"
+        },{
+        "-xml:id": "Ez_w_002554",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_002555",
+        "t": "l"
+        },{
+        "-xml:id": "Ez_w_002556",
+        "t": "en"
+        },{
+        "-xml:id": "Ez_w_002557",
+        "t": "puisse"
+        },{
+        "-xml:id": "Ez_w_002558",
+        "t": "attaindre"
+        },{
+        "-xml:id": "Ez_w_002559",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_002560",
+        "t": "lui"
+        },{
+        "-xml:id": "Ez_w_002561",
+        "t": "signifie"
+        },{
+        "-xml:id": "Ez_w_002562",
+        "t": "paour"
+        },{
+        "-xml:id": "Ez_w_002563",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_002564",
+        "t": "mort"
+        },{
+        "-xml:id": "Ez_w_002565",
+        "t": "pourtant"
+        },{
+        "-xml:id": "Ez_w_002566",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_002567",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_002568",
+        "t": "fust"
+        },{
+        "-xml:id": "Ez_w_002569",
+        "t": "est"
+        },{
+        "-xml:id": "Ez_w_002570",
+        "t": "roide"
+        },{
+        "-xml:id": "Ez_w_002571",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_002572",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_002573",
+        "t": "fer"
+        },{
+        "-xml:id": "Ez_w_002574",
+        "t": "trenchant"
+        },{
+        "-xml:id": "Ez_w_002575",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_002576",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_002577",
+        "t": "fouyr"
+        },{
+        "-xml:id": "Ez_w_002578",
+        "t": "ceulz"
+        },{
+        "-xml:id": "Ez_w_002579",
+        "t": "qui"
+        },{
+        "-xml:id": "Ez_w_002580",
+        "t": "sont"
+        },{
+        "-xml:id": "Ez_w_002581",
+        "t": "desarmez"
+        },{
+        "-xml:id": "Ez_w_002582",
+        "t": "arriere"
+        },{
+        "-xml:id": "Ez_w_002583",
+        "t": "pour"
+        },{
+        "-xml:id": "Ez_w_002584",
+        "t": "doubtance"
+        },{
+        "-xml:id": "Ez_w_002585",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_002586",
+        "t": "mort"
+        },{
+        "-xml:id": "Ez_w_002587",
+        "t": "Et"
+        },{
+        "-xml:id": "Ez_w_002588",
+        "t": "doit"
+        },{
+        "-xml:id": "Ez_w_002589",
+        "t": "estre"
+        },{
+        "-xml:id": "Ez_w_002590",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_002591",
+        "t": "chevalier"
+        },{
+        "-xml:id": "Ez_w_002592",
+        "t": "preux"
+        },{
+        "-xml:id": "Ez_w_002593",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_002594",
+        "t": "hardy"
+        },{
+        "-xml:id": "Ez_w_002595",
+        "t": "tellement"
+        },{
+        "-xml:id": "Ez_w_002596",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_002597",
+        "t": "s"
+        },{
+        "-xml:id": "Ez_w_002598",
+        "t": "acourre"
+        },{
+        "-xml:id": "Ez_w_002599",
+        "t": "si"
+        },{
+        "-xml:id": "Ez_w_002600",
+        "t": "loing"
+        },{
+        "-xml:id": "Ez_w_002601",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_002602",
+        "t": "malfaiteur"
+        },{
+        "-xml:id": "Ez_w_002603",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_002604",
+        "t": "ose"
+        },{
+        "-xml:id": "Ez_w_002605",
+        "t": "aler"
+        },{
+        "-xml:id": "Ez_w_002606",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_002607",
+        "t": "l"
+        },{
+        "-xml:id": "Ez_w_002608",
+        "t": "encontre"
+        },{
+        "-xml:id": "Ez_w_002609",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_002610",
+        "t": "saincte"
+        },{
+        "-xml:id": "Ez_w_002611",
+        "t": "eglise"
+        },{
+        "-xml:id": "Ez_w_002612",
+        "t": "ains"
+        },{
+        "-xml:id": "Ez_w_002613",
+        "t": "fuye"
+        },{
+        "-xml:id": "Ez_w_002614",
+        "t": "loing"
+        },{
+        "-xml:id": "Ez_w_002615",
+        "t": "pour"
+        },{
+        "-xml:id": "Ez_w_002616",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_002617",
+        "t": "paour"
+        },{
+        "-xml:id": "Ez_w_002618",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_002619",
+        "t": "lui"
+        }]
+            }
+        ]
+    }

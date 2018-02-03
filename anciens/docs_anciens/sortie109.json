@@ -1,0 +1,145 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_008515",
+        "t": "Lors"
+        },
+        {
+        "-xml:id": "Ao_w_008516",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_008517",
+        "t": "conte"
+        },
+        {
+        "-xml:id": "Ao_w_008518",
+        "t": "comment"
+        },
+        {
+        "-xml:id": "Ao_w_008519",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_008520",
+        "t": "avoit"
+        },
+        {
+        "-xml:id": "Ao_w_008521",
+        "t": "esté"
+        },
+        {
+        "-xml:id": "Ao_w_008522",
+        "t": "amenez"
+        },
+        {
+        "-xml:id": "Ao_w_008523",
+        "t": "au"
+        },
+        {
+        "-xml:id": "Ao_w_008524",
+        "t": "roi"
+        },
+        {
+        "-xml:id": "Ao_w_008525",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_008526",
+        "t": "jor"
+        },
+        {
+        "-xml:id": "Ao_w_008527",
+        "t": "devant"
+        },
+        {
+        "-xml:id": "Ao_w_008528",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_008529",
+        "t": "com"
+        },
+        {
+        "-xml:id": "Ao_w_008530",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_008531",
+        "t": "dame"
+        },
+        {
+        "-xml:id": "Ao_w_008532",
+        "t": "estoit"
+        },
+        {
+        "-xml:id": "Ao_w_008533",
+        "t": "venue"
+        },
+        {
+        "-xml:id": "Ao_w_008534",
+        "t": "cointement"
+        },
+        {
+        "-xml:id": "Ao_w_008535",
+        "t": "qui"
+        },
+        {
+        "-xml:id": "Ao_w_008536",
+        "t": "l"
+        },
+        {"-xml:id": "Ao_w_008537",
+              "t": "amena"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_006552",
+        "t": "Lors"
+        },{
+        "-xml:id": "Ez_w_006553",
+        "t": "lui"
+        },{
+        "-xml:id": "Ez_w_006554",
+        "t": "compte"
+        },{
+        "-xml:id": "Ez_w_006555",
+        "t": "comment"
+        },{
+        "-xml:id": "Ez_w_006556",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_006557",
+        "t": "avoit"
+        },{
+        "-xml:id": "Ez_w_006558",
+        "t": "este"
+        },{
+        "-xml:id": "Ez_w_006559",
+        "t": "amene"
+        },{
+        "-xml:id": "Ez_w_006560",
+        "t": "au"
+        },{
+        "-xml:id": "Ez_w_006561",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_006562",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_006563",
+        "t": "jour"
+        },{
+        "-xml:id": "Ez_w_006564",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_006565",
+        "t": "devant"
+        }]
+            }
+        ]
+    }

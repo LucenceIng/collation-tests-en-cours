@@ -1,0 +1,89 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_008551",
+        "t": "Voire"
+        },
+        {
+        "-xml:id": "Ao_w_008552",
+        "t": "dame"
+        },
+        {
+        "-xml:id": "Ao_w_008553",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_008554",
+        "t": "messire"
+        },
+        {
+        "-xml:id": "Ao_w_008555",
+        "t": "Yvains"
+        },
+        {
+        "-xml:id": "Ao_w_008556",
+        "t": "car"
+        },
+        {
+        "-xml:id": "Ao_w_008557",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_008558",
+        "t": "en"
+        },
+        {
+        "-xml:id": "Ao_w_008559",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_008560",
+        "t": "trop"
+        },
+        {
+        "-xml:id": "Ao_w_008561",
+        "t": "grant"
+        },
+        {"-xml:id": "Ao_w_008562",
+              "t": "talant"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_006580",
+        "t": "Certes"
+        },{
+        "-xml:id": "Ez_w_006581",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_006582",
+        "t": "messire"
+        },{
+        "-xml:id": "Ez_w_006583",
+        "t": "yvain"
+        },{
+        "-xml:id": "Ez_w_006584",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_006585",
+        "t": "en"
+        },{
+        "-xml:id": "Ez_w_006586",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_006587",
+        "t": "trop"
+        },{
+        "-xml:id": "Ez_w_006588",
+        "t": "grant"
+        },{
+        "-xml:id": "Ez_w_006589",
+        "t": "talent"
+        }]
+            }
+        ]
+    }

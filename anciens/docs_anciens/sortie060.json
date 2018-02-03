@@ -1,0 +1,165 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_005451",
+        "t": "Ge"
+        },
+        {
+        "-xml:id": "Ao_w_005452",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_005453",
+        "t": "requier"
+        },
+        {
+        "-xml:id": "Ao_w_005454",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_005455",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_005456",
+        "t": "chevaliers"
+        },
+        {
+        "-xml:id": "Ao_w_005457",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_005458",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_005459",
+        "t": "me"
+        },
+        {
+        "-xml:id": "Ao_w_005460",
+        "t": "façoiz"
+        },
+        {
+        "-xml:id": "Ao_w_005461",
+        "t": "desferrer"
+        },
+        {
+        "-xml:id": "Ao_w_005462",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_005463",
+        "t": "ceste"
+        },
+        {
+        "-xml:id": "Ao_w_005464",
+        "t": "espee"
+        },
+        {
+        "-xml:id": "Ao_w_005465",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_005466",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_005467",
+        "t": "ces"
+        },
+        {
+        "-xml:id": "Ao_w_005468",
+        "t": "tronçons"
+        },
+        {
+        "-xml:id": "Ao_w_005469",
+        "t": "qui"
+        },
+        {
+        "-xml:id": "Ao_w_005470",
+        "t": "ci"
+        },
+        {
+        "-xml:id": "Ao_w_005471",
+        "t": "m"
+        },
+        {"-xml:id": "Ao_w_005472",
+              "t": "ocient"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_005032",
+        "t": "Je"
+        },{
+        "-xml:id": "Ez_w_005033",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_005034",
+        "t": "requier"
+        },{
+        "-xml:id": "Ez_w_005035",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_005036",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_005037",
+        "t": "chevalier"
+        },{
+        "-xml:id": "Ez_w_005038",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_005039",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_005040",
+        "t": "me"
+        },{
+        "-xml:id": "Ez_w_005041",
+        "t": "faciez"
+        },{
+        "-xml:id": "Ez_w_005042",
+        "t": "defferrer"
+        },{
+        "-xml:id": "Ez_w_005043",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_005044",
+        "t": "ceste"
+        },{
+        "-xml:id": "Ez_w_005045",
+        "t": "espee"
+        },{
+        "-xml:id": "Ez_w_005046",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_005047",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_005048",
+        "t": "ces"
+        },{
+        "-xml:id": "Ez_w_005049",
+        "t": "tronchons"
+        },{
+        "-xml:id": "Ez_w_005050",
+        "t": "qui"
+        },{
+        "-xml:id": "Ez_w_005051",
+        "t": "ainsi"
+        },{
+        "-xml:id": "Ez_w_005052",
+        "t": "me"
+        },{
+        "-xml:id": "Ez_w_005053",
+        "t": "occient"
+        }]
+            }
+        ]
+    }

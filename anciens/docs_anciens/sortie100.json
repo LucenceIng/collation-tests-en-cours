@@ -1,0 +1,101 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_008343",
+        "t": "Sire"
+        },
+        {
+        "-xml:id": "Ao_w_008344",
+        "t": "vostres"
+        },
+        {
+        "-xml:id": "Ao_w_008345",
+        "t": "vallez"
+        },
+        {
+        "-xml:id": "Ao_w_008346",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_008347",
+        "t": "mande"
+        },
+        {
+        "-xml:id": "Ao_w_008348",
+        "t": "par"
+        },
+        {
+        "-xml:id": "Ao_w_008349",
+        "t": "moi"
+        },
+        {
+        "-xml:id": "Ao_w_008350",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_008351",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_008352",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_008353",
+        "t": "façoiz"
+        },
+        {"-xml:id": "Ao_w_008354",
+              "t": "chevalier"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_006460",
+        "t": "Sire"
+        },{
+        "-xml:id": "Ez_w_006461",
+        "t": "vostre"
+        },{
+        "-xml:id": "Ez_w_006462",
+        "t": "varlet"
+        },{
+        "-xml:id": "Ez_w_006463",
+        "t": "veult"
+        },{
+        "-xml:id": "Ez_w_006464",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_006465",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_006466",
+        "t": "prie"
+        },{
+        "-xml:id": "Ez_w_006467",
+        "t": "par"
+        },{
+        "-xml:id": "Ez_w_006468",
+        "t": "moy"
+        },{
+        "-xml:id": "Ez_w_006469",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_006470",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_006471",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_006473",
+        "t": "faciez"
+        },{
+        "-xml:id": "Ez_w_006474",
+        "t": "chevalier"
+        }]
+            }
+        ]
+    }

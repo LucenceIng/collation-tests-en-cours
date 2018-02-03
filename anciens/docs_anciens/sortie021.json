@@ -1,0 +1,211 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_001155",
+        "t": "Voire"
+        },
+        {
+        "-xml:id": "Ao_w_001156",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_001157",
+        "t": "ele"
+        },
+        {
+        "-xml:id": "Ao_w_001158",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_001159",
+        "t": "l"
+        },
+        {
+        "-xml:id": "Ao_w_001160",
+        "t": "oseriez"
+        },
+        {
+        "-xml:id": "Ao_w_001161",
+        "t": "enprendre"
+        },
+        {
+        "-xml:id": "Ao_w_001162",
+        "t": "Ge"
+        },
+        {
+        "-xml:id": "Ao_w_001163",
+        "t": "cuit"
+        },
+        {
+        "-xml:id": "Ao_w_001164",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_001165",
+        "t": "se"
+        },
+        {
+        "-xml:id": "Ao_w_001166",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_001167",
+        "t": "saviez"
+        },
+        {
+        "-xml:id": "Ao_w_001168",
+        "t": "com"
+        },
+        {
+        "-xml:id": "Ao_w_001169",
+        "t": "grant"
+        },
+        {
+        "-xml:id": "Ao_w_001170",
+        "t": "fais"
+        },
+        {
+        "-xml:id": "Ao_w_001171",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_001172",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_001173",
+        "t": "en"
+        },
+        {
+        "-xml:id": "Ao_w_001174",
+        "t": "chevalerie"
+        },
+        {
+        "-xml:id": "Ao_w_001175",
+        "t": "ja"
+        },
+        {
+        "-xml:id": "Ao_w_001176",
+        "t": "mais"
+        },
+        {
+        "-xml:id": "Ao_w_001177",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_001178",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_001179",
+        "t": "prandroit"
+        },
+        {
+        "-xml:id": "Ao_w_001180",
+        "t": "talanz"
+        },
+        {
+        "-xml:id": "Ao_w_001181",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_001182",
+        "t": "l"
+        },
+        {"-xml:id": "Ao_w_001183",
+              "t": "anchargier"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_001536",
+        "t": "Voire"
+        },{
+        "-xml:id": "Ez_w_001537",
+        "t": "fit"
+        },{
+        "-xml:id": "Ez_w_001538",
+        "t": "elle"
+        },{
+        "-xml:id": "Ez_w_001539",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_001540",
+        "t": "l"
+        },{
+        "-xml:id": "Ez_w_001541",
+        "t": "oseriez"
+        },{
+        "-xml:id": "Ez_w_001542",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_001543",
+        "t": "bien"
+        },{
+        "-xml:id": "Ez_w_001544",
+        "t": "entreprendre"
+        },{
+        "-xml:id": "Ez_w_001545",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_001546",
+        "t": "cuide"
+        },{
+        "-xml:id": "Ez_w_001547",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_001548",
+        "t": "si"
+        },{
+        "-xml:id": "Ez_w_001549",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_001550",
+        "t": "saviez"
+        },{
+        "-xml:id": "Ez_w_001551",
+        "t": "comment"
+        },{
+        "-xml:id": "Ez_w_001552",
+        "t": "grans"
+        },{
+        "-xml:id": "Ez_w_001553",
+        "t": "fais"
+        },{
+        "-xml:id": "Ez_w_001554",
+        "t": "y"
+        },{
+        "-xml:id": "Ez_w_001555",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_001556",
+        "t": "en"
+        },{
+        "-xml:id": "Ez_w_001557",
+        "t": "chevalerie"
+        },{
+        "-xml:id": "Ez_w_001558",
+        "t": "ja"
+        },{
+        "-xml:id": "Ez_w_001559",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_001560",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_001561",
+        "t": "en"
+        },{
+        "-xml:id": "Ez_w_001562",
+        "t": "prendroit"
+        },{
+        "-xml:id": "Ez_w_001563",
+        "t": "talent"
+        }]
+            }
+        ]
+    }

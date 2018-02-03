@@ -1,0 +1,56 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_008440",
+        "t": "Voire"
+        },
+        {
+        "-xml:id": "Ao_w_008441",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_008442",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_008443",
+        "t": "demain"
+        },
+        {
+        "-xml:id": "Ao_w_008444",
+        "t": "el"
+        },
+        {"-xml:id": "Ao_w_008445",
+              "t": "jor"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_006515",
+        "t": "Oy"
+        },{
+        "-xml:id": "Ez_w_006516",
+        "t": "sire"
+        },{
+        "-xml:id": "Ez_w_006517",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_006518",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_006519",
+        "t": "demain"
+        },{
+        "-xml:id": "Ez_w_006520",
+        "t": "au"
+        },{
+        "-xml:id": "Ez_w_006521",
+        "t": "jour"
+        }]
+            }
+        ]
+    }

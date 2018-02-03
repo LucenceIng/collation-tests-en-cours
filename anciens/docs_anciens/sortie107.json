@@ -1,0 +1,60 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_008490",
+        "t": "Qui"
+        },
+        {
+        "-xml:id": "Ao_w_008491",
+        "t": "est"
+        },
+        {
+        "-xml:id": "Ao_w_008492",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_008493",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_008494",
+        "t": "reine"
+        },
+        {
+        "-xml:id": "Ao_w_008495",
+        "t": "cil"
+        },
+        {"-xml:id": "Ao_w_008496",
+              "t": "vallez"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_006530",
+        "t": "Qui"
+        },{
+        "-xml:id": "Ez_w_006531",
+        "t": "est"
+        },{
+        "-xml:id": "Ez_w_006532",
+        "t": "ce"
+        },{
+        "-xml:id": "Ez_w_006533",
+        "t": "varlet"
+        },{
+        "-xml:id": "Ez_w_006534",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_006535",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_006536",
+        "t": "royne"
+        }]
+            }
+        ]
+    }

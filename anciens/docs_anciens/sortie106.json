@@ -1,0 +1,211 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_008446",
+        "t": "Oëz"
+        },
+        {
+        "-xml:id": "Ao_w_008447",
+        "t": "Gauvains"
+        },
+        {
+        "-xml:id": "Ao_w_008448",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_008449",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_008450",
+        "t": "rois"
+        },
+        {
+        "-xml:id": "Ao_w_008451",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_008452",
+        "t": "nostre"
+        },
+        {
+        "-xml:id": "Ao_w_008453",
+        "t": "vallet"
+        },
+        {
+        "-xml:id": "Ao_w_008454",
+        "t": "d"
+        },
+        {
+        "-xml:id": "Ao_w_008455",
+        "t": "arsoir"
+        },
+        {
+        "-xml:id": "Ao_w_008456",
+        "t": "qui"
+        },
+        {
+        "-xml:id": "Ao_w_008457",
+        "t": "velt"
+        },
+        {
+        "-xml:id": "Ao_w_008458",
+        "t": "ja"
+        },
+        {
+        "-xml:id": "Ao_w_008459",
+        "t": "estre"
+        },
+        {
+        "-xml:id": "Ao_w_008460",
+        "t": "chevaliers"
+        },
+        {
+        "-xml:id": "Ao_w_008461",
+        "t": "Certes"
+        },
+        {
+        "-xml:id": "Ao_w_008462",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_008463",
+        "t": "messire"
+        },
+        {
+        "-xml:id": "Ao_w_008464",
+        "t": "Gauvains"
+        },
+        {
+        "-xml:id": "Ao_w_008465",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_008466",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_008467",
+        "t": "grant"
+        },
+        {
+        "-xml:id": "Ao_w_008468",
+        "t": "droit"
+        },
+        {
+        "-xml:id": "Ao_w_008469",
+        "t": "Et"
+        },
+        {
+        "-xml:id": "Ao_w_008470",
+        "t": "ge"
+        },
+        {
+        "-xml:id": "Ao_w_008471",
+        "t": "quit"
+        },
+        {
+        "-xml:id": "Ao_w_008472",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_008473",
+        "t": "chevalerie"
+        },
+        {
+        "-xml:id": "Ao_w_008474",
+        "t": "i"
+        },
+        {
+        "-xml:id": "Ao_w_008475",
+        "t": "sera"
+        },
+        {
+        "-xml:id": "Ao_w_008476",
+        "t": "bien"
+        },
+        {
+        "-xml:id": "Ao_w_008477",
+        "t": "assise"
+        },
+        {
+        "-xml:id": "Ao_w_008478",
+        "t": "car"
+        },
+        {
+        "-xml:id": "Ao_w_008479",
+        "t": "mout"
+        },
+        {
+        "-xml:id": "Ao_w_008480",
+        "t": "est"
+        },
+        {
+        "-xml:id": "Ao_w_008481",
+        "t": "biax"
+        },
+        {
+        "-xml:id": "Ao_w_008482",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_008483",
+        "t": "mout"
+        },
+        {
+        "-xml:id": "Ao_w_008484",
+        "t": "sanble"
+        },
+        {
+        "-xml:id": "Ao_w_008485",
+        "t": "bien"
+        },
+        {
+        "-xml:id": "Ao_w_008486",
+        "t": "estre"
+        },
+        {
+        "-xml:id": "Ao_w_008487",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_008488",
+        "t": "hautes"
+        },
+        {"-xml:id": "Ao_w_008489",
+              "t": "genz"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_006522",
+        "t": "En"
+        },{
+        "-xml:id": "Ez_w_006523",
+        "t": "verite"
+        },{
+        "-xml:id": "Ez_w_006524",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_006525",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_006526",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_006527",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_006528",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_006529",
+        "t": "sera"
+        }]
+            }
+        ]
+    }

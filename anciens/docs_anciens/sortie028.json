@@ -1,0 +1,1356 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_001386",
+        "t": "Dame"
+        },
+        {
+        "-xml:id": "Ao_w_001387",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_001388",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_001389",
+        "t": "ge"
+        },
+        {
+        "-xml:id": "Ao_w_001390",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_001391",
+        "t": "en"
+        },
+        {
+        "-xml:id": "Ao_w_001392",
+        "t": "dirai"
+        },
+        {
+        "-xml:id": "Ao_w_001393",
+        "t": "ce"
+        },
+        {
+        "-xml:id": "Ao_w_001394",
+        "t": "qe"
+        },
+        {
+        "-xml:id": "Ao_w_001395",
+        "t": "g"
+        },
+        {
+        "-xml:id": "Ao_w_001396",
+        "t": "en"
+        },
+        {
+        "-xml:id": "Ao_w_001397",
+        "t": "cuit"
+        },
+        {
+        "-xml:id": "Ao_w_001398",
+        "t": "Il"
+        },
+        {
+        "-xml:id": "Ao_w_001399",
+        "t": "m"
+        },
+        {
+        "-xml:id": "Ao_w_001400",
+        "t": "est"
+        },
+        {
+        "-xml:id": "Ao_w_001401",
+        "t": "avis"
+        },
+        {
+        "-xml:id": "Ao_w_001402",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_001403",
+        "t": "tex"
+        },
+        {
+        "-xml:id": "Ao_w_001404",
+        "t": "puet"
+        },
+        {
+        "-xml:id": "Ao_w_001405",
+        "t": "avoir"
+        },
+        {
+        "-xml:id": "Ao_w_001406",
+        "t": "les"
+        },
+        {
+        "-xml:id": "Ao_w_001407",
+        "t": "bontez"
+        },
+        {
+        "-xml:id": "Ao_w_001408",
+        "t": "del"
+        },
+        {
+        "-xml:id": "Ao_w_001409",
+        "t": "cuer"
+        },
+        {
+        "-xml:id": "Ao_w_001410",
+        "t": "qui"
+        },
+        {
+        "-xml:id": "Ao_w_001411",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_001412",
+        "t": "puet"
+        },
+        {
+        "-xml:id": "Ao_w_001413",
+        "t": "pas"
+        },
+        {
+        "-xml:id": "Ao_w_001414",
+        "t": "avoir"
+        },
+        {
+        "-xml:id": "Ao_w_001415",
+        "t": "celes"
+        },
+        {
+        "-xml:id": "Ao_w_001416",
+        "t": "del"
+        },
+        {
+        "-xml:id": "Ao_w_001417",
+        "t": "cors"
+        },
+        {
+        "-xml:id": "Ao_w_001418",
+        "t": "car"
+        },
+        {
+        "-xml:id": "Ao_w_001419",
+        "t": "tex"
+        },
+        {
+        "-xml:id": "Ao_w_001420",
+        "t": "puet"
+        },
+        {
+        "-xml:id": "Ao_w_001421",
+        "t": "estre"
+        },
+        {
+        "-xml:id": "Ao_w_001422",
+        "t": "cortois"
+        },
+        {
+        "-xml:id": "Ao_w_001423",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_001424",
+        "t": "sages"
+        },
+        {
+        "-xml:id": "Ao_w_001425",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_001426",
+        "t": "debonaires"
+        },
+        {
+        "-xml:id": "Ao_w_001427",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_001428",
+        "t": "leiaus"
+        },
+        {
+        "-xml:id": "Ao_w_001429",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_001430",
+        "t": "preuz"
+        },
+        {
+        "-xml:id": "Ao_w_001431",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_001432",
+        "t": "larges"
+        },
+        {
+        "-xml:id": "Ao_w_001433",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_001434",
+        "t": "hardiz"
+        },
+        {
+        "-xml:id": "Ao_w_001435",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_001436",
+        "t": "tot"
+        },
+        {
+        "-xml:id": "Ao_w_001437",
+        "t": "ce"
+        },
+        {
+        "-xml:id": "Ao_w_001438",
+        "t": "sont"
+        },
+        {
+        "-xml:id": "Ao_w_001439",
+        "t": "les"
+        },
+        {
+        "-xml:id": "Ao_w_001440",
+        "t": "vertuz"
+        },
+        {
+        "-xml:id": "Ao_w_001441",
+        "t": "del"
+        },
+        {
+        "-xml:id": "Ao_w_001442",
+        "t": "cuer"
+        },
+        {
+        "-xml:id": "Ao_w_001443",
+        "t": "qui"
+        },
+        {
+        "-xml:id": "Ao_w_001444",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_001445",
+        "t": "puet"
+        },
+        {
+        "-xml:id": "Ao_w_001446",
+        "t": "pas"
+        },
+        {
+        "-xml:id": "Ao_w_001447",
+        "t": "estre"
+        },
+        {
+        "-xml:id": "Ao_w_001448",
+        "t": "granz"
+        },
+        {
+        "-xml:id": "Ao_w_001449",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_001450",
+        "t": "corsuz"
+        },
+        {
+        "-xml:id": "Ao_w_001451",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_001452",
+        "t": "isniaus"
+        },
+        {
+        "-xml:id": "Ao_w_001453",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_001454",
+        "t": "biaus"
+        },
+        {
+        "-xml:id": "Ao_w_001455",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_001456",
+        "t": "plaisanz"
+        },
+        {
+        "-xml:id": "Ao_w_001457",
+        "t": "totes"
+        },
+        {
+        "-xml:id": "Ao_w_001458",
+        "t": "ces"
+        },
+        {
+        "-xml:id": "Ao_w_001459",
+        "t": "choses"
+        },
+        {
+        "-xml:id": "Ao_w_001460",
+        "t": "m"
+        },
+        {
+        "-xml:id": "Ao_w_001461",
+        "t": "est"
+        },
+        {
+        "-xml:id": "Ao_w_001462",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_001463",
+        "t": "avis"
+        },
+        {
+        "-xml:id": "Ao_w_001464",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_001465",
+        "t": "ce"
+        },
+        {
+        "-xml:id": "Ao_w_001466",
+        "t": "sont"
+        },
+        {
+        "-xml:id": "Ao_w_001467",
+        "t": "les"
+        },
+        {
+        "-xml:id": "Ao_w_001468",
+        "t": "bontez"
+        },
+        {
+        "-xml:id": "Ao_w_001469",
+        "t": "del"
+        },
+        {
+        "-xml:id": "Ao_w_001470",
+        "t": "cors"
+        },
+        {
+        "-xml:id": "Ao_w_001471",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_001472",
+        "t": "cuit"
+        },
+        {
+        "-xml:id": "Ao_w_001473",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_001474",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_001475",
+        "t": "hom"
+        },
+        {
+        "-xml:id": "Ao_w_001476",
+        "t": "les"
+        },
+        {
+        "-xml:id": "Ao_w_001477",
+        "t": "aporte"
+        },
+        {
+        "-xml:id": "Ao_w_001478",
+        "t": "avecques"
+        },
+        {
+        "-xml:id": "Ao_w_001479",
+        "t": "lui"
+        },
+        {
+        "-xml:id": "Ao_w_001480",
+        "t": "hors"
+        },
+        {
+        "-xml:id": "Ao_w_001481",
+        "t": "del"
+        },
+        {
+        "-xml:id": "Ao_w_001482",
+        "t": "ventre"
+        },
+        {
+        "-xml:id": "Ao_w_001483",
+        "t": "sa"
+        },
+        {
+        "-xml:id": "Ao_w_001484",
+        "t": "mere"
+        },
+        {
+        "-xml:id": "Ao_w_001485",
+        "t": "des"
+        },
+        {
+        "-xml:id": "Ao_w_001486",
+        "t": "cele"
+        },
+        {
+        "-xml:id": "Ao_w_001487",
+        "t": "hore"
+        },
+        {
+        "-xml:id": "Ao_w_001488",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_001489",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_001490",
+        "t": "naist"
+        },
+        {
+        "-xml:id": "Ao_w_001491",
+        "t": "Mais"
+        },
+        {
+        "-xml:id": "Ao_w_001492",
+        "t": "les"
+        },
+        {
+        "-xml:id": "Ao_w_001493",
+        "t": "teches"
+        },
+        {
+        "-xml:id": "Ao_w_001494",
+        "t": "del"
+        },
+        {
+        "-xml:id": "Ao_w_001495",
+        "t": "cuer"
+        },
+        {
+        "-xml:id": "Ao_w_001496",
+        "t": "m"
+        },
+        {
+        "-xml:id": "Ao_w_001497",
+        "t": "est"
+        },
+        {
+        "-xml:id": "Ao_w_001498",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_001499",
+        "t": "avis"
+        },
+        {
+        "-xml:id": "Ao_w_001500",
+        "t": "qe"
+        },
+        {
+        "-xml:id": "Ao_w_001501",
+        "t": "chascuns"
+        },
+        {
+        "-xml:id": "Ao_w_001502",
+        "t": "porroit"
+        },
+        {
+        "-xml:id": "Ao_w_001503",
+        "t": "avoir"
+        },
+        {
+        "-xml:id": "Ao_w_001504",
+        "t": "se"
+        },
+        {
+        "-xml:id": "Ao_w_001505",
+        "t": "peresce"
+        },
+        {
+        "-xml:id": "Ao_w_001506",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_001507",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_001508",
+        "t": "toloit"
+        },
+        {
+        "-xml:id": "Ao_w_001509",
+        "t": "car"
+        },
+        {
+        "-xml:id": "Ao_w_001510",
+        "t": "chascuns"
+        },
+        {
+        "-xml:id": "Ao_w_001511",
+        "t": "puet"
+        },
+        {
+        "-xml:id": "Ao_w_001512",
+        "t": "avoir"
+        },
+        {
+        "-xml:id": "Ao_w_001513",
+        "t": "cortoisie"
+        },
+        {
+        "-xml:id": "Ao_w_001514",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_001515",
+        "t": "debonaireté"
+        },
+        {
+        "-xml:id": "Ao_w_001516",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_001517",
+        "t": "les"
+        },
+        {
+        "-xml:id": "Ao_w_001518",
+        "t": "autres"
+        },
+        {
+        "-xml:id": "Ao_w_001519",
+        "t": "biens"
+        },
+        {
+        "-xml:id": "Ao_w_001520",
+        "t": "qui"
+        },
+        {
+        "-xml:id": "Ao_w_001521",
+        "t": "del"
+        },
+        {
+        "-xml:id": "Ao_w_001522",
+        "t": "cuer"
+        },
+        {
+        "-xml:id": "Ao_w_001523",
+        "t": "muevent"
+        },
+        {
+        "-xml:id": "Ao_w_001524",
+        "t": "ce"
+        },
+        {
+        "-xml:id": "Ao_w_001525",
+        "t": "m"
+        },
+        {
+        "-xml:id": "Ao_w_001526",
+        "t": "est"
+        },
+        {
+        "-xml:id": "Ao_w_001527",
+        "t": "avis"
+        },
+        {
+        "-xml:id": "Ao_w_001528",
+        "t": "Por"
+        },
+        {
+        "-xml:id": "Ao_w_001529",
+        "t": "ce"
+        },
+        {
+        "-xml:id": "Ao_w_001530",
+        "t": "quit"
+        },
+        {
+        "-xml:id": "Ao_w_001531",
+        "t": "ge"
+        },
+        {
+        "-xml:id": "Ao_w_001532",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_001533",
+        "t": "l"
+        },
+        {
+        "-xml:id": "Ao_w_001534",
+        "t": "an"
+        },
+        {
+        "-xml:id": "Ao_w_001535",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_001536",
+        "t": "pert"
+        },
+        {
+        "-xml:id": "Ao_w_001537",
+        "t": "se"
+        },
+        {
+        "-xml:id": "Ao_w_001538",
+        "t": "par"
+        },
+        {
+        "-xml:id": "Ao_w_001539",
+        "t": "paresce"
+        },
+        {
+        "-xml:id": "Ao_w_001540",
+        "t": "non"
+        },
+        {
+        "-xml:id": "Ao_w_001541",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_001542",
+        "t": "estre"
+        },
+        {
+        "-xml:id": "Ao_w_001543",
+        "t": "preuz"
+        },
+        {
+        "-xml:id": "Ao_w_001544",
+        "t": "car"
+        },
+        {
+        "-xml:id": "Ao_w_001545",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_001546",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_001547",
+        "t": "meismes"
+        },
+        {
+        "-xml:id": "Ao_w_001548",
+        "t": "ai"
+        },
+        {
+        "-xml:id": "Ao_w_001549",
+        "t": "ge"
+        },
+        {
+        "-xml:id": "Ao_w_001550",
+        "t": "oï"
+        },
+        {
+        "-xml:id": "Ao_w_001551",
+        "t": "dire"
+        },
+        {
+        "-xml:id": "Ao_w_001552",
+        "t": "pluseurs"
+        },
+        {
+        "-xml:id": "Ao_w_001553",
+        "t": "foiees"
+        },
+        {
+        "-xml:id": "Ao_w_001554",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_001555",
+        "t": "riens"
+        },
+        {
+        "-xml:id": "Ao_w_001556",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_001557",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_001558",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_001559",
+        "t": "preudome"
+        },
+        {
+        "-xml:id": "Ao_w_001560",
+        "t": "se"
+        },
+        {
+        "-xml:id": "Ao_w_001561",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_001562",
+        "t": "cuers"
+        },
+        {
+        "-xml:id": "Ao_w_001563",
+        "t": "non"
+        },
+        {
+        "-xml:id": "Ao_w_001564",
+        "t": "Et"
+        },
+        {
+        "-xml:id": "Ao_w_001565",
+        "t": "neporqant"
+        },
+        {
+        "-xml:id": "Ao_w_001566",
+        "t": "se"
+        },
+        {
+        "-xml:id": "Ao_w_001567",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_001568",
+        "t": "me"
+        },
+        {
+        "-xml:id": "Ao_w_001569",
+        "t": "devisier"
+        },
+        {
+        "-xml:id": "Ao_w_001570",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_001571",
+        "t": "grant"
+        },
+        {
+        "-xml:id": "Ao_w_001572",
+        "t": "fais"
+        },
+        {
+        "-xml:id": "Ao_w_001573",
+        "t": "qui"
+        },
+        {
+        "-xml:id": "Ao_w_001574",
+        "t": "est"
+        },
+        {
+        "-xml:id": "Ao_w_001575",
+        "t": "an"
+        },
+        {
+        "-xml:id": "Ao_w_001576",
+        "t": "chevalerie"
+        },
+        {
+        "-xml:id": "Ao_w_001577",
+        "t": "par"
+        },
+        {
+        "-xml:id": "Ao_w_001578",
+        "t": "quoi"
+        },
+        {
+        "-xml:id": "Ao_w_001579",
+        "t": "nus"
+        },
+        {
+        "-xml:id": "Ao_w_001580",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_001581",
+        "t": "devroit"
+        },
+        {
+        "-xml:id": "Ao_w_001582",
+        "t": "estre"
+        },
+        {
+        "-xml:id": "Ao_w_001583",
+        "t": "si"
+        },
+        {
+        "-xml:id": "Ao_w_001584",
+        "t": "hardiz"
+        },
+        {
+        "-xml:id": "Ao_w_001585",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_001586",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_001587",
+        "t": "chevaliers"
+        },
+        {
+        "-xml:id": "Ao_w_001588",
+        "t": "devenist"
+        },
+        {
+        "-xml:id": "Ao_w_001589",
+        "t": "ge"
+        },
+        {
+        "-xml:id": "Ao_w_001590",
+        "t": "l"
+        },
+        {
+        "-xml:id": "Ao_w_001591",
+        "t": "orroie"
+        },
+        {
+        "-xml:id": "Ao_w_001592",
+        "t": "mout"
+        },
+        {"-xml:id": "Ao_w_001593",
+              "t": "volentiers"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_001742",
+        "t": "Dame"
+        },{
+        "-xml:id": "Ez_w_001743",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_001744",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_001745",
+        "t": "j"
+        },{
+        "-xml:id": "Ez_w_001746",
+        "t": "en"
+        },{
+        "-xml:id": "Ez_w_001747",
+        "t": "diray"
+        },{
+        "-xml:id": "Ez_w_001748",
+        "t": "ce"
+        },{
+        "-xml:id": "Ez_w_001749",
+        "t": "qu"
+        },{
+        "-xml:id": "Ez_w_001750",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_001751",
+        "t": "m"
+        },{
+        "-xml:id": "Ez_w_001752",
+        "t": "en"
+        },{
+        "-xml:id": "Ez_w_001753",
+        "t": "semble"
+        },{
+        "-xml:id": "Ez_w_001754",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_001755",
+        "t": "m"
+        },{
+        "-xml:id": "Ez_w_001756",
+        "t": "est"
+        },{
+        "-xml:id": "Ez_w_001757",
+        "t": "advis"
+        },{
+        "-xml:id": "Ez_w_001758",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_001759",
+        "t": "tel"
+        },{
+        "-xml:id": "Ez_w_001760",
+        "t": "peut"
+        },{
+        "-xml:id": "Ez_w_001761",
+        "t": "avoir"
+        },{
+        "-xml:id": "Ez_w_001762",
+        "t": "les"
+        },{
+        "-xml:id": "Ez_w_001763",
+        "t": "bontez"
+        },{
+        "-xml:id": "Ez_w_001764",
+        "t": "du"
+        },{
+        "-xml:id": "Ez_w_001765",
+        "t": "cueur"
+        },{
+        "-xml:id": "Ez_w_001766",
+        "t": "qui"
+        },{
+        "-xml:id": "Ez_w_001767",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_001768",
+        "t": "peut"
+        },{
+        "-xml:id": "Ez_w_001769",
+        "t": "mie"
+        },{
+        "-xml:id": "Ez_w_001770",
+        "t": "avoir"
+        },{
+        "-xml:id": "Ez_w_001771",
+        "t": "celles"
+        },{
+        "-xml:id": "Ez_w_001772",
+        "t": "du"
+        },{
+        "-xml:id": "Ez_w_001773",
+        "t": "corps"
+        },{
+        "-xml:id": "Ez_w_001774",
+        "t": "Car"
+        },{
+        "-xml:id": "Ez_w_001775",
+        "t": "tel"
+        },{
+        "-xml:id": "Ez_w_001776",
+        "t": "est"
+        },{
+        "-xml:id": "Ez_w_001777",
+        "t": "courtois"
+        },{
+        "-xml:id": "Ez_w_001778",
+        "t": "sage"
+        },{
+        "-xml:id": "Ez_w_001779",
+        "t": "debonnaire"
+        },{
+        "-xml:id": "Ez_w_001780",
+        "t": "loyal"
+        },{
+        "-xml:id": "Ez_w_001781",
+        "t": "piteux"
+        },{
+        "-xml:id": "Ez_w_001782",
+        "t": "large"
+        },{
+        "-xml:id": "Ez_w_001783",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_001784",
+        "t": "hardy"
+        },{
+        "-xml:id": "Ez_w_001785",
+        "t": "ce"
+        },{
+        "-xml:id": "Ez_w_001786",
+        "t": "sont"
+        },{
+        "-xml:id": "Ez_w_001787",
+        "t": "les"
+        },{
+        "-xml:id": "Ez_w_001789",
+        "t": "vertus"
+        },{
+        "-xml:id": "Ez_w_001790",
+        "t": "du"
+        },{
+        "-xml:id": "Ez_w_001791",
+        "t": "cueur"
+        },{
+        "-xml:id": "Ez_w_001792",
+        "t": "qui"
+        },{
+        "-xml:id": "Ez_w_001793",
+        "t": "toutesfois"
+        },{
+        "-xml:id": "Ez_w_001794",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_001795",
+        "t": "peut"
+        },{
+        "-xml:id": "Ez_w_001796",
+        "t": "pas"
+        },{
+        "-xml:id": "Ez_w_001797",
+        "t": "estre"
+        },{
+        "-xml:id": "Ez_w_001798",
+        "t": "coursu"
+        },{
+        "-xml:id": "Ez_w_001799",
+        "t": "fort"
+        },{
+        "-xml:id": "Ez_w_001800",
+        "t": "legier"
+        },{
+        "-xml:id": "Ez_w_001801",
+        "t": "beau"
+        },{
+        "-xml:id": "Ez_w_001802",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_001803",
+        "t": "plaisant"
+        },{
+        "-xml:id": "Ez_w_001804",
+        "t": "toutes"
+        },{
+        "-xml:id": "Ez_w_001805",
+        "t": "ces"
+        },{
+        "-xml:id": "Ez_w_001806",
+        "t": "bontez"
+        },{
+        "-xml:id": "Ez_w_001807",
+        "t": "sont"
+        },{
+        "-xml:id": "Ez_w_001808",
+        "t": "du"
+        },{
+        "-xml:id": "Ez_w_001809",
+        "t": "corps"
+        },{
+        "-xml:id": "Ez_w_001810",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_001811",
+        "t": "l"
+        },{
+        "-xml:id": "Ez_w_001812",
+        "t": "omme"
+        },{
+        "-xml:id": "Ez_w_001813",
+        "t": "les"
+        },{
+        "-xml:id": "Ez_w_001814",
+        "t": "apporte"
+        },{
+        "-xml:id": "Ez_w_001815",
+        "t": "avec"
+        },{
+        "-xml:id": "Ez_w_001816",
+        "t": "lui"
+        },{
+        "-xml:id": "Ez_w_001817",
+        "t": "du"
+        },{
+        "-xml:id": "Ez_w_001818",
+        "t": "ventre"
+        },{
+        "-xml:id": "Ez_w_001819",
+        "t": "sa"
+        },{
+        "-xml:id": "Ez_w_001820",
+        "t": "mere"
+        },{
+        "-xml:id": "Ez_w_001821",
+        "t": "des"
+        },{
+        "-xml:id": "Ez_w_001822",
+        "t": "l"
+        },{
+        "-xml:id": "Ez_w_001823",
+        "t": "eure"
+        },{
+        "-xml:id": "Ez_w_001824",
+        "t": "qu"
+        },{
+        "-xml:id": "Ez_w_001825",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_001826",
+        "t": "est"
+        },{
+        "-xml:id": "Ez_w_001827",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_001828",
+        "t": "mais"
+        },{
+        "-xml:id": "Ez_w_001829",
+        "t": "les"
+        },{
+        "-xml:id": "Ez_w_001830",
+        "t": "vertus"
+        },{
+        "-xml:id": "Ez_w_001831",
+        "t": "du"
+        },{
+        "-xml:id": "Ez_w_001832",
+        "t": "cueur"
+        },{
+        "-xml:id": "Ez_w_001833",
+        "t": "pourroit"
+        },{
+        "-xml:id": "Ez_w_001834",
+        "t": "il"
+        },{
+        "-xml:id": "Ez_w_001835",
+        "t": "avoir"
+        },{
+        "-xml:id": "Ez_w_001836",
+        "t": "se"
+        },{
+        "-xml:id": "Ez_w_001837",
+        "t": "m"
+        },{
+        "-xml:id": "Ez_w_001838",
+        "t": "est"
+        },{
+        "-xml:id": "Ez_w_001839",
+        "t": "aviz"
+        },{
+        "-xml:id": "Ez_w_001840",
+        "t": "se"
+        },{
+        "-xml:id": "Ez_w_001841",
+        "t": "negligence"
+        },{
+        "-xml:id": "Ez_w_001842",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_001843",
+        "t": "l"
+        },{
+        "-xml:id": "Ez_w_001844",
+        "t": "empeschoit"
+        },{
+        "-xml:id": "Ez_w_001845",
+        "t": "car"
+        },{
+        "-xml:id": "Ez_w_001846",
+        "t": "chacun"
+        },{
+        "-xml:id": "Ez_w_001847",
+        "t": "peut"
+        },{
+        "-xml:id": "Ez_w_001848",
+        "t": "avoir"
+        },{
+        "-xml:id": "Ez_w_001849",
+        "t": "courtoisie"
+        },{
+        "-xml:id": "Ez_w_001850",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_001851",
+        "t": "debonnairete"
+        },{
+        "-xml:id": "Ez_w_001852",
+        "t": "et"
+        },{
+        "-xml:id": "Ez_w_001853",
+        "t": "les"
+        },{
+        "-xml:id": "Ez_w_001854",
+        "t": "autres"
+        },{
+        "-xml:id": "Ez_w_001855",
+        "t": "biens"
+        },{
+        "-xml:id": "Ez_w_001856",
+        "t": "qui"
+        },{
+        "-xml:id": "Ez_w_001857",
+        "t": "du"
+        },{
+        "-xml:id": "Ez_w_001858",
+        "t": "cueur"
+        },{
+        "-xml:id": "Ez_w_001859",
+        "t": "descendent"
+        },{
+        "-xml:id": "Ez_w_001860",
+        "t": "pour"
+        },{
+        "-xml:id": "Ez_w_001861",
+        "t": "ce"
+        },{
+        "-xml:id": "Ez_w_001862",
+        "t": "cui"
+        },{
+        "-xml:id": "Ez_w_001863",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_001864",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_001865",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_001866",
+        "t": "l"
+        },{
+        "-xml:id": "Ez_w_001867",
+        "t": "en"
+        },{
+        "-xml:id": "Ez_w_001868",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_001869",
+        "t": "pert"
+        },{
+        "-xml:id": "Ez_w_001870",
+        "t": "honneur"
+        },{
+        "-xml:id": "Ez_w_001871",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_001872",
+        "t": "par"
+        },{
+        "-xml:id": "Ez_w_001873",
+        "t": "paresse"
+        },{
+        "-xml:id": "Ez_w_001874",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_001875",
+        "t": "aussi"
+        },{
+        "-xml:id": "Ez_w_001876",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_001877",
+        "t": "estre"
+        },{
+        "-xml:id": "Ez_w_001878",
+        "t": "preudomme"
+        },{
+        "-xml:id": "Ez_w_001879",
+        "t": "Et"
+        },{
+        "-xml:id": "Ez_w_001880",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_001881",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_001882",
+        "t": "ay"
+        },{
+        "-xml:id": "Ez_w_001883",
+        "t": "ouy"
+        },{
+        "-xml:id": "Ez_w_001884",
+        "t": "dire"
+        },{
+        "-xml:id": "Ez_w_001885",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_001886",
+        "t": "rien"
+        },{
+        "-xml:id": "Ez_w_001887",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_001888",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_001889",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_001890",
+        "t": "preudomme"
+        },{
+        "-xml:id": "Ez_w_001891",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_001892",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_001893",
+        "t": "bon"
+        },{
+        "-xml:id": "Ez_w_001894",
+        "t": "cueur"
+        },{
+        "-xml:id": "Ez_w_001895",
+        "t": "Et"
+        },{
+        "-xml:id": "Ez_w_001896",
+        "t": "non"
+        },{
+        "-xml:id": "Ez_w_001897",
+        "t": "pourtant"
+        },{
+        "-xml:id": "Ez_w_001898",
+        "t": "se"
+        },{
+        "-xml:id": "Ez_w_001899",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_001900",
+        "t": "me"
+        },{
+        "-xml:id": "Ez_w_001901",
+        "t": "disiez"
+        },{
+        "-xml:id": "Ez_w_001902",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_001903",
+        "t": "grant"
+        },{
+        "-xml:id": "Ez_w_001904",
+        "t": "faiz"
+        },{
+        "-xml:id": "Ez_w_001905",
+        "t": "qui"
+        },{
+        "-xml:id": "Ez_w_001906",
+        "t": "est"
+        },{
+        "-xml:id": "Ez_w_001907",
+        "t": "en"
+        },{
+        "-xml:id": "Ez_w_001908",
+        "t": "chevalerie"
+        },{
+        "-xml:id": "Ez_w_001909",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_001910",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_001911",
+        "t": "orroie"
+        },{
+        "-xml:id": "Ez_w_001912",
+        "t": "bien"
+        },{
+        "-xml:id": "Ez_w_001913",
+        "t": "voulentiers"
+        }]
+            }
+        ]
+    }

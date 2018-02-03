@@ -1,0 +1,130 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_008120",
+        "t": "Ge"
+        },
+        {
+        "-xml:id": "Ao_w_008121",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_008122",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_008123",
+        "t": "commant"
+        },
+        {
+        "-xml:id": "Ao_w_008124",
+        "t": "lo"
+        },
+        {
+        "-xml:id": "Ao_w_008125",
+        "t": "vallet"
+        },
+        {
+        "-xml:id": "Ao_w_008126",
+        "t": "car"
+        },
+        {
+        "-xml:id": "Ao_w_008127",
+        "t": "nus"
+        },
+        {
+        "-xml:id": "Ao_w_008128",
+        "t": "ne"
+        },
+        {
+        "-xml:id": "Ao_w_008129",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_008130",
+        "t": "savroit"
+        },
+        {
+        "-xml:id": "Ao_w_008131",
+        "t": "enseignier"
+        },
+        {
+        "-xml:id": "Ao_w_008132",
+        "t": "miauz"
+        },
+        {
+        "-xml:id": "Ao_w_008133",
+        "t": "de"
+        },
+        {
+        "-xml:id": "Ao_w_008134",
+        "t": "vos"
+        },
+        {
+        "-xml:id": "Ao_w_008135",
+        "t": "comment"
+        },
+        {
+        "-xml:id": "Ao_w_008136",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_008137",
+        "t": "se"
+        },
+        {
+        "-xml:id": "Ao_w_008138",
+        "t": "doit"
+        },
+        {"-xml:id": "Ao_w_008139",
+              "t": "contenir"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_006311",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_006312",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_006313",
+        "t": "vous"
+        },{
+        "-xml:id": "Ez_w_006314",
+        "t": "recommande"
+        },{
+        "-xml:id": "Ez_w_006315",
+        "t": "car"
+        },{
+        "-xml:id": "Ez_w_006316",
+        "t": "homme"
+        },{
+        "-xml:id": "Ez_w_006317",
+        "t": "ne"
+        },{
+        "-xml:id": "Ez_w_006318",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_006319",
+        "t": "saura"
+        },{
+        "-xml:id": "Ez_w_006320",
+        "t": "mieulx"
+        },{
+        "-xml:id": "Ez_w_006321",
+        "t": "enseignier"
+        },{
+        "-xml:id": "Ez_w_006322",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_006323",
+        "t": "vous"
+        }]
+            }
+        ]
+    }

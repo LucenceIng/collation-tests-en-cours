@@ -1,0 +1,50 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_005473",
+        "t": "Certes"
+        },
+        {
+        "-xml:id": "Ao_w_005474",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_005475",
+        "t": "li"
+        },
+        {
+        "-xml:id": "Ao_w_005476",
+        "t": "rois"
+        },
+        {
+        "-xml:id": "Ao_w_005477",
+        "t": "mout"
+        },
+        {"-xml:id": "Ao_w_005478",
+              "t": "volentiers"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_005054",
+        "t": "Certes"
+        },{
+        "-xml:id": "Ez_w_005055",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_005056",
+        "t": "le"
+        },{
+        "-xml:id": "Ez_w_005057",
+        "t": "roy"
+        },{
+        "-xml:id": "Ez_w_005058",
+        "t": "voulentiers"
+        }]
+            }
+        ]
+    }

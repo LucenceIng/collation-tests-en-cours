@@ -1,0 +1,139 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_001135",
+        "t": "Certes"
+        },
+        {
+        "-xml:id": "Ao_w_001136",
+        "t": "dame"
+        },
+        {
+        "-xml:id": "Ao_w_001137",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_001138",
+        "t": "il"
+        },
+        {
+        "-xml:id": "Ao_w_001139",
+        "t": "ce"
+        },
+        {
+        "-xml:id": "Ao_w_001140",
+        "t": "seroit"
+        },
+        {
+        "-xml:id": "Ao_w_001141",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_001142",
+        "t": "chose"
+        },
+        {
+        "-xml:id": "Ao_w_001143",
+        "t": "del"
+        },
+        {
+        "-xml:id": "Ao_w_001144",
+        "t": "mont"
+        },
+        {
+        "-xml:id": "Ao_w_001145",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_001146",
+        "t": "ge"
+        },
+        {
+        "-xml:id": "Ao_w_001147",
+        "t": "plus"
+        },
+        {
+        "-xml:id": "Ao_w_001148",
+        "t": "voudroit"
+        },
+        {
+        "-xml:id": "Ao_w_001149",
+        "t": "avoir"
+        },
+        {
+        "-xml:id": "Ao_w_001150",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_001151",
+        "t": "l"
+        },
+        {
+        "-xml:id": "Ao_w_001152",
+        "t": "ordre"
+        },
+        {
+        "-xml:id": "Ao_w_001153",
+        "t": "de"
+        },
+        {"-xml:id": "Ao_w_001154",
+              "t": "chevalerie"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_001520",
+        "t": "Certes"
+        },{
+        "-xml:id": "Ez_w_001521",
+        "t": "dame"
+        },{
+        "-xml:id": "Ez_w_001522",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_001523",
+        "t": "chose"
+        },{
+        "-xml:id": "Ez_w_001524",
+        "t": "du"
+        },{
+        "-xml:id": "Ez_w_001525",
+        "t": "monde"
+        },{
+        "-xml:id": "Ez_w_001526",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_001527",
+        "t": "je"
+        },{
+        "-xml:id": "Ez_w_001528",
+        "t": "desire"
+        },{
+        "-xml:id": "Ez_w_001529",
+        "t": "plus"
+        },{
+        "-xml:id": "Ez_w_001530",
+        "t": "c"
+        },{
+        "-xml:id": "Ez_w_001531",
+        "t": "est"
+        },{
+        "-xml:id": "Ez_w_001532",
+        "t": "l"
+        },{
+        "-xml:id": "Ez_w_001533",
+        "t": "ordre"
+        },{
+        "-xml:id": "Ez_w_001534",
+        "t": "de"
+        },{
+        "-xml:id": "Ez_w_001535",
+        "t": "chevalerie"
+        }]
+            }
+        ]
+    }

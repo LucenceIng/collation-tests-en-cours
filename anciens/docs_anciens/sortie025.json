@@ -1,0 +1,154 @@
+{
+        "witnesses" : [
+        {
+        "id" : "A",
+        "tokens" : [{
+        "-xml:id": "Ao_w_001269",
+        "t": "Oïl"
+        },
+        {
+        "-xml:id": "Ao_w_001270",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_001271",
+        "t": "la"
+        },
+        {
+        "-xml:id": "Ao_w_001272",
+        "t": "dame"
+        },
+        {
+        "-xml:id": "Ao_w_001273",
+        "t": "mout"
+        },
+        {
+        "-xml:id": "Ao_w_001274",
+        "t": "bien"
+        },
+        {
+        "-xml:id": "Ao_w_001275",
+        "t": "car"
+        },
+        {
+        "-xml:id": "Ao_w_001276",
+        "t": "Damedex"
+        },
+        {
+        "-xml:id": "Ao_w_001277",
+        "t": "a"
+        },
+        {
+        "-xml:id": "Ao_w_001278",
+        "t": "fait"
+        },
+        {
+        "-xml:id": "Ao_w_001279",
+        "t": "les"
+        },
+        {
+        "-xml:id": "Ao_w_001280",
+        "t": "uns"
+        },
+        {
+        "-xml:id": "Ao_w_001281",
+        "t": "plus"
+        },
+        {
+        "-xml:id": "Ao_w_001282",
+        "t": "vaillanz"
+        },
+        {
+        "-xml:id": "Ao_w_001283",
+        "t": "que"
+        },
+        {
+        "-xml:id": "Ao_w_001284",
+        "t": "les"
+        },
+        {
+        "-xml:id": "Ao_w_001285",
+        "t": "autres"
+        },
+        {
+        "-xml:id": "Ao_w_001286",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_001287",
+        "t": "plus"
+        },
+        {
+        "-xml:id": "Ao_w_001288",
+        "t": "preuz"
+        },
+        {
+        "-xml:id": "Ao_w_001289",
+        "t": "et"
+        },
+        {
+        "-xml:id": "Ao_w_001290",
+        "t": "plus"
+        },
+        {"-xml:id": "Ao_w_001291",
+              "t": "gracieus"
+            }
+              ]
+                    }, 
+                    {
+                    "id" : "B",
+                    "tokens" : [{
+        "-xml:id": "Ez_w_001641",
+        "t": "Ouy"
+        },{
+        "-xml:id": "Ez_w_001642",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_001643",
+        "t": "la"
+        },{
+        "-xml:id": "Ez_w_001644",
+        "t": "dame"
+        },{
+        "-xml:id": "Ez_w_001645",
+        "t": "moult"
+        },{
+        "-xml:id": "Ez_w_001646",
+        "t": "bien"
+        },{
+        "-xml:id": "Ez_w_001647",
+        "t": "mais"
+        },{
+        "-xml:id": "Ez_w_001648",
+        "t": "dieu"
+        },{
+        "-xml:id": "Ez_w_001649",
+        "t": "a"
+        },{
+        "-xml:id": "Ez_w_001650",
+        "t": "fait"
+        },{
+        "-xml:id": "Ez_w_001651",
+        "t": "les"
+        },{
+        "-xml:id": "Ez_w_001652",
+        "t": "ungz"
+        },{
+        "-xml:id": "Ez_w_001653",
+        "t": "plus"
+        },{
+        "-xml:id": "Ez_w_001654",
+        "t": "vaillans"
+        },{
+        "-xml:id": "Ez_w_001655",
+        "t": "que"
+        },{
+        "-xml:id": "Ez_w_001656",
+        "t": "les"
+        },{
+        "-xml:id": "Ez_w_001657",
+        "t": "autres"
+        }]
+            }
+        ]
+    }
