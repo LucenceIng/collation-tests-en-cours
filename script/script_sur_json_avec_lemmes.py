@@ -23,7 +23,6 @@ if __name__ == '__main__':
         acoller = Collation.create_from_dict(data)
         acoller2 = Collation.create_from_dict(data2)
         acoller3 = Collation.create_from_dict(data3)
-        
         #test avec create_from_json : meme resultat
         json_datatest=open('./docs/002_lemmes.json')
         test = Collation.create_from_json(json_datatest)

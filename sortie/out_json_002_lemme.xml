@@ -1,1 +1,132 @@
-<root><app><rdg wit="#A">Qant </rdg><rdg wit="#B">Quant </rdg></app><app><rdg wit="#A">vint au chief de </rdg><rdg wit="#B">vint au chief de </rdg></app><app><rdg wit="#A">dishuit anz un po aprés </rdg><rdg wit="#B">xviii ans ung peu apres </rdg></app><app><rdg wit="#A">la </rdg><rdg wit="#B">la </rdg></app><app><rdg wit="#A">Pentecoste si fu alez en bois si ot trové un </rdg><rdg wit="#B">penthecouste il ala au boys et trouva ung </rdg></app><app><rdg wit="#A">si grant cerf que </rdg><rdg wit="#B">si grant cerf que </rdg></app><app><rdg wit="#A">onques mais en sa vie un si grant </rdg><rdg wit="#B">oncques mes </rdg></app><app><rdg wit="#A">n avoit </rdg><rdg wit="#B">n avoit </rdg></app><app><rdg wit="#A">veü </rdg><rdg wit="#B">veu tel </rdg></app><app><rdg wit="#A">Et </rdg><rdg wit="#B">Et </rdg></app><app><rdg wit="#A">por </rdg><rdg wit="#B">pour </rdg></app><app><rdg wit="#A">la </rdg><rdg wit="#B">la </rdg></app><app><rdg wit="#A">grant mervoille mostrer si i traist </rdg><rdg wit="#B">merveille il tira une saiette </rdg></app><app><rdg wit="#A">et l </rdg><rdg wit="#B">et l </rdg></app><app><rdg wit="#A">ocist Qant il l ot ocis </rdg><rdg wit="#B">occist et le trouva de </rdg></app><app><rdg wit="#A">si </rdg><rdg wit="#B">si </rdg></app><app><rdg wit="#A">lo trova de grant graisse com s il </rdg><rdg wit="#B">grande gresse comme se ce </rdg></app><app><rdg wit="#A">fust </rdg><rdg wit="#B">fust </rdg></app><app><rdg wit="#A">el mois </rdg><rdg wit="#B">ou moys </rdg></app><app><rdg wit="#A">d </rdg><rdg wit="#B">d </rdg></app><app><rdg wit="#A">aost Si l esgardoient tuit si compaignon a grant mervoille </rdg><rdg wit="#B">aoust Ses compaignons le regardoient a merveilles pour la grandeur qu il avoit </rdg></app><app><rdg wit="#A">Il </rdg><rdg wit="#B">Il </rdg></app><app><rdg wit="#A">enveia lo cerf </rdg><rdg wit="#B">l envoya </rdg></app><app><rdg wit="#A">a sa dame </rdg><rdg wit="#B">a sa dame </rdg></app><app><rdg wit="#A">par deus vallez </rdg></app><app><rdg wit="#A">et </rdg><rdg wit="#B">et </rdg></app><app><rdg wit="#A">ele se merveilla trop durement comment il estoit </rdg><rdg wit="#B">celle s esmerveille moult de ce que </rdg></app><app><rdg wit="#A">si gras </rdg><rdg wit="#B">si gras </rdg></app><app><rdg wit="#B">le vit </rdg></app><app><rdg wit="#A">en </rdg><rdg wit="#B">en </rdg></app><app><rdg wit="#A">tel </rdg><rdg wit="#B">celle </rdg></app><app><rdg wit="#A">saison </rdg><rdg wit="#B">saison </rdg></app><app><rdg wit="#A">et de la grandor qu il avoit se merveilla a desmesure </rdg></app></root>
+<root>
+    <app>
+        <rdg wit="#A">Qant </rdg>
+        <rdg wit="#B">Quant </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">vint au chief de </rdg>
+        <rdg wit="#B">vint au chief de </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">dishuit anz un po aprés </rdg>
+        <rdg wit="#B">xviii ans ung peu apres </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">la </rdg>
+        <rdg wit="#B">la </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">Pentecoste si fu alez en bois si ot trové un </rdg>
+        <rdg wit="#B">penthecouste il ala au boys et trouva ung </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">si grant cerf que </rdg>
+        <rdg wit="#B">si grant cerf que </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">onques mais en sa vie un si grant </rdg>
+        <rdg wit="#B">oncques mes </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">n avoit </rdg>
+        <rdg wit="#B">n avoit </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">veü </rdg>
+        <rdg wit="#B">veu tel </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">Et </rdg>
+        <rdg wit="#B">Et </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">por </rdg>
+        <rdg wit="#B">pour </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">la </rdg>
+        <rdg wit="#B">la </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">grant mervoille mostrer si i traist </rdg>
+        <rdg wit="#B">merveille il tira une saiette </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">et l </rdg>
+        <rdg wit="#B">et l </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">ocist Qant il l ot ocis </rdg>
+        <rdg wit="#B">occist et le trouva de </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">si </rdg>
+        <rdg wit="#B">si </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">lo trova de grant graisse com s il </rdg>
+        <rdg wit="#B">grande gresse comme se ce </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">fust </rdg>
+        <rdg wit="#B">fust </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">el mois </rdg>
+        <rdg wit="#B">ou moys </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">d </rdg>
+        <rdg wit="#B">d </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">aost Si l esgardoient tuit si compaignon a grant mervoille </rdg>
+        <rdg wit="#B">aoust Ses compaignons le regardoient a merveilles pour la grandeur qu il avoit
+        </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">Il </rdg>
+        <rdg wit="#B">Il </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">enveia lo cerf </rdg>
+        <rdg wit="#B">l envoya </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">a sa dame </rdg>
+        <rdg wit="#B">a sa dame </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">par deus vallez </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">et </rdg>
+        <rdg wit="#B">et </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">ele se merveilla trop durement comment il estoit </rdg>
+        <rdg wit="#B">celle s esmerveille moult de ce que </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">si gras </rdg>
+        <rdg wit="#B">si gras </rdg>
+    </app>
+    <app>
+        <rdg wit="#B">le vit </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">en </rdg>
+        <rdg wit="#B">en </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">tel </rdg>
+        <rdg wit="#B">celle </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">saison </rdg>
+        <rdg wit="#B">saison </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">et de la grandor qu il avoit se merveilla a desmesure </rdg>
+    </app>
+</root>
