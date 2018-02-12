@@ -1,0 +1,453 @@
+<root>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="cant1" xml:id="Ao_w_000256">Qant</w>
+            <w lemma="venir" xml:id="Ao_w_000257">vint</w>
+            <w lemma="a3+le" xml:id="Ao_w_000258">au</w>
+            <w lemma="chief1" xml:id="Ao_w_000259">chief</w>
+            <w lemma="de" xml:id="Ao_w_000260">de</w>
+            <w lemma="dis+huit" xml:id="Ao_w_000261">dishuit</w>
+            <w lemma="an" xml:id="Ao_w_000262">anz</w>
+            <w lemma="un" xml:id="Ao_w_000263">un</w>
+            <w lemma="poi" xml:id="Ao_w_000264">po</w>
+            <w lemma="après" xml:id="Ao_w_000265">aprés</w>
+            <w lemma="le" xml:id="Ao_w_000266">la</w>
+            <w lemma="pentecoste" xml:id="Ao_w_000267">Pentecoste</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="cant1" xml:id="Ez_w_000809">Quant</w>
+            <w lemma="venir" xml:id="Ez_w_000810">vint</w>
+            <w lemma="a3+le" xml:id="Ez_w_000811">au</w>
+            <w lemma="chief1" xml:id="Ez_w_000812">chief</w>
+            <w lemma="de" xml:id="Ez_w_000813">de</w>
+            <w lemma="dis+huit" xml:id="Ez_w_000814">xviii</w>
+            <w lemma="an" xml:id="Ez_w_000815">ans</w>
+            <w lemma="un" xml:id="Ez_w_000816">ung</w>
+            <w lemma="poi" xml:id="Ez_w_000817">peu</w>
+            <w lemma="après" xml:id="Ez_w_000818">apres</w>
+            <w lemma="le" xml:id="Ez_w_000819">la</w>
+            <w lemma="pentecoste" xml:id="Ez_w_000820">penthecouste</w>
+        </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">
+            <w lemma="si" xml:id="Ao_w_000268">si</w>
+            <w lemma="estre1" xml:id="Ao_w_000269">fu</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="il" xml:id="Ez_w_000821">il</w>
+        </rdg>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="aler" xml:id="Ao_w_000270">alez</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="aler" xml:id="Ez_w_000822">ala</w>
+        </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">
+            <w lemma="en1" xml:id="Ao_w_000271">en</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="a3+le" xml:id="Ez_w_000823">au</w>
+        </rdg>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="bois" xml:id="Ao_w_000272">bois</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="bois" xml:id="Ez_w_000824">boys</w>
+        </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">
+            <w lemma="si" xml:id="Ao_w_000273">si</w>
+            <w lemma="avoir" xml:id="Ao_w_000274">ot</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="et" xml:id="Ez_w_000825">et</w>
+        </rdg>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="trover" xml:id="Ao_w_000275">trové</w>
+            <w lemma="un" xml:id="Ao_w_000276">un</w>
+            <w lemma="si" xml:id="Ao_w_000277">si</w>
+            <w lemma="grant" xml:id="Ao_w_000278">grant</w>
+            <w lemma="cerf" xml:id="Ao_w_000279">cerf</w>
+            <w lemma="que2" xml:id="Ao_w_000280">que</w>
+            <w lemma="onque" xml:id="Ao_w_000281">onques</w>
+            <w lemma="mais1" xml:id="Ao_w_000282">mais</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="trover" xml:id="Ez_w_000826">trouva</w>
+            <w lemma="un" xml:id="Ez_w_000827">ung</w>
+            <w lemma="si" xml:id="Ez_w_000828">si</w>
+            <w lemma="grant" xml:id="Ez_w_000829">grant</w>
+            <w lemma="cerf" xml:id="Ez_w_000830">cerf</w>
+            <w lemma="que2" xml:id="Ez_w_000831">que</w>
+            <w lemma="onque" xml:id="Ez_w_000832">oncques</w>
+            <w lemma="mais1" xml:id="Ez_w_000833">mes</w>
+        </rdg>
+    </app>
+    <app type="onlyA">
+        <rdg wit="#A">
+            <w lemma="en1" xml:id="Ao_w_000283">en</w>
+            <w lemma="son4" xml:id="Ao_w_000284">sa</w>
+            <w lemma="vie" xml:id="Ao_w_000285">vie</w>
+            <w lemma="un" xml:id="Ao_w_000286">un</w>
+            <w lemma="si" xml:id="Ao_w_000287">si</w>
+            <w lemma="grant" xml:id="Ao_w_000288">grant</w>
+        </rdg>
+        <rdg wit="#B"/>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="ne1" xml:id="Ao_w_000289">n</w>
+            <w lemma="avoir" xml:id="Ao_w_000290">avoit</w>
+            <w lemma="vëoir" xml:id="Ao_w_000291">veü</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="ne1" xml:id="Ez_w_000834">n</w>
+            <w lemma="avoir" xml:id="Ez_w_000835">avoit</w>
+            <w lemma="vëoir" xml:id="Ez_w_000836">veu</w>
+        </rdg>
+    </app>
+    <app type="onlyB">
+        <rdg wit="#B">
+            <w lemma="tel" xml:id="Ez_w_000837">tel</w>
+        </rdg>
+        <rdg wit="#A"/>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="et" xml:id="Ao_w_000292">Et</w>
+            <w lemma="por2" xml:id="Ao_w_000293">por</w>
+            <w lemma="le" xml:id="Ao_w_000294">la</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="et" xml:id="Ez_w_000838">Et</w>
+            <w lemma="por2" xml:id="Ez_w_000839">pour</w>
+            <w lemma="le" xml:id="Ez_w_000840">la</w>
+        </rdg>
+    </app>
+    <app type="onlyA">
+        <rdg wit="#A">
+            <w lemma="grant" xml:id="Ao_w_000295">grant</w>
+        </rdg>
+        <rdg wit="#B"/>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="merveille" xml:id="Ao_w_000296">mervoille</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="merveille" xml:id="Ez_w_000841">merveille</w>
+        </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">
+            <w lemma="mostrer" xml:id="Ao_w_000297">mostrer</w>
+            <w lemma="si" xml:id="Ao_w_000298">si</w>
+            <w lemma="i2" xml:id="Ao_w_000299">i</w>
+            <w lemma="traire" xml:id="Ao_w_000300">traist</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="il" xml:id="Ez_w_000842">il</w>
+            <w lemma="tirer" xml:id="Ez_w_000843">tira</w>
+            <w lemma="un" xml:id="Ez_w_000844">une</w>
+            <w lemma="saiete" xml:id="Ez_w_000845">saiette</w>
+        </rdg>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="et" xml:id="Ao_w_000301">et</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="et" xml:id="Ez_w_000846">et</w>
+        </rdg>
+    </app>
+    <app type="onlyA">
+        <rdg wit="#A">
+            <w lemma="il" xml:id="Ao_w_000302">l</w>
+            <w lemma="ocire" xml:id="Ao_w_000303">ocist</w>
+            <w lemma="cant1" xml:id="Ao_w_000304">Qant</w>
+            <w lemma="il" xml:id="Ao_w_000305">il</w>
+        </rdg>
+        <rdg wit="#B"/>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="il" xml:id="Ao_w_000306">l</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="il" xml:id="Ez_w_000847">l</w>
+        </rdg>
+    </app>
+    <app type="onlyA">
+        <rdg wit="#A">
+            <w lemma="avoir" xml:id="Ao_w_000307">ot</w>
+        </rdg>
+        <rdg wit="#B"/>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="ocire" xml:id="Ao_w_000308">ocis</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="ocire" xml:id="Ez_w_000848">occist</w>
+        </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">
+            <w lemma="si" xml:id="Ao_w_000309">si</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="et" xml:id="Ez_w_000849">et</w>
+        </rdg>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="il" xml:id="Ao_w_000310">lo</w>
+            <w lemma="trover" xml:id="Ao_w_000311">trova</w>
+            <w lemma="de" xml:id="Ao_w_000312">de</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="il" xml:id="Ez_w_000850">le</w>
+            <w lemma="trover" xml:id="Ez_w_000851">trouva</w>
+            <w lemma="de" xml:id="Ez_w_000852">de</w>
+        </rdg>
+    </app>
+    <app type="onlyB">
+        <rdg wit="#B">
+            <w lemma="si" xml:id="Ez_w_000853">si</w>
+        </rdg>
+        <rdg wit="#A"/>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="grant" xml:id="Ao_w_000313">grant</w>
+            <w lemma="craisse" xml:id="Ao_w_000314">graisse</w>
+            <w lemma="come1" xml:id="Ao_w_000315">com</w>
+            <w lemma="se" xml:id="Ao_w_000316">s</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="grant" xml:id="Ez_w_000854">grande</w>
+            <w lemma="craisse" xml:id="Ez_w_000855">gresse</w>
+            <w lemma="come1" xml:id="Ez_w_000856">comme</w>
+            <w lemma="se" xml:id="Ez_w_000857">se</w>
+        </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">
+            <w lemma="il" xml:id="Ao_w_000317">il</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="ce1" xml:id="Ez_w_000858">ce</w>
+        </rdg>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="estre1" xml:id="Ao_w_000318">fust</w>
+            <w lemma="en1+le" xml:id="Ao_w_000319">el</w>
+            <w lemma="mois1" xml:id="Ao_w_000320">mois</w>
+            <w lemma="de" xml:id="Ao_w_000321">d</w>
+            <w lemma="aost" xml:id="Ao_w_000322">aost</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="estre1" xml:id="Ez_w_000859">fust</w>
+            <w lemma="en1+le" xml:id="Ez_w_000860">ou</w>
+            <w lemma="mois1" xml:id="Ez_w_000861">moys</w>
+            <w lemma="de" xml:id="Ez_w_000862">d</w>
+            <w lemma="aost" xml:id="Ez_w_000863">aoust</w>
+        </rdg>
+    </app>
+    <app type="onlyA">
+        <rdg wit="#A">
+            <w lemma="si" xml:id="Ao_w_000323">Si</w>
+            <w lemma="il" xml:id="Ao_w_000324">l</w>
+            <w lemma="esgarder" xml:id="Ao_w_000325">esgardoient</w>
+            <w lemma="tot" xml:id="Ao_w_000326">tuit</w>
+        </rdg>
+        <rdg wit="#B"/>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="son4" xml:id="Ao_w_000327">si</w>
+            <w lemma="compagnon" xml:id="Ao_w_000328">compaignon</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="son4" xml:id="Ez_w_000864">Ses</w>
+            <w lemma="compagnon" xml:id="Ez_w_000865">compaignons</w>
+        </rdg>
+    </app>
+    <app type="onlyB">
+        <rdg wit="#B">
+            <w lemma="il" xml:id="Ez_w_000866">le</w>
+            <w lemma="regarder" xml:id="Ez_w_000867">regardoient</w>
+        </rdg>
+        <rdg wit="#A"/>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="a3" xml:id="Ao_w_000329">a</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="a3" xml:id="Ez_w_000868">a</w>
+        </rdg>
+    </app>
+    <app type="onlyA">
+        <rdg wit="#A">
+            <w lemma="grant" xml:id="Ao_w_000330">grant</w>
+        </rdg>
+        <rdg wit="#B"/>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="merveille" xml:id="Ao_w_000331">mervoille</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="merveille" xml:id="Ez_w_000869">merveilles</w>
+        </rdg>
+    </app>
+    <app type="onlyB">
+        <rdg wit="#B">
+            <w lemma="por2" xml:id="Ez_w_000870">pour</w>
+            <w lemma="le" xml:id="Ez_w_000871">la</w>
+            <w lemma="grandor" xml:id="Ez_w_000872">grandeur</w>
+            <w lemma="que2" xml:id="Ez_w_000873">qu</w>
+        </rdg>
+        <rdg wit="#A"/>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="il" xml:id="Ao_w_000332">Il</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="il" xml:id="Ez_w_000874">il</w>
+        </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">
+            <w lemma="envoier" xml:id="Ao_w_000333">enveia</w>
+            <w lemma="le" xml:id="Ao_w_000334">lo</w>
+            <w lemma="cerf" xml:id="Ao_w_000335">cerf</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="avoir" xml:id="Ez_w_000875">avoit</w>
+            <w lemma="il" xml:id="Ez_w_000876">Il</w>
+            <w lemma="il" xml:id="Ez_w_000877">l</w>
+            <w lemma="envoier" xml:id="Ez_w_000878">envoya</w>
+        </rdg>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="a3" xml:id="Ao_w_000336">a</w>
+            <w lemma="son4" xml:id="Ao_w_000337">sa</w>
+            <w lemma="dame" xml:id="Ao_w_000338">dame</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="a3" xml:id="Ez_w_000879">a</w>
+            <w lemma="son4" xml:id="Ez_w_000880">sa</w>
+            <w lemma="dame" xml:id="Ez_w_000881">dame</w>
+        </rdg>
+    </app>
+    <app type="onlyA">
+        <rdg wit="#A">
+            <w lemma="par" xml:id="Ao_w_000339">par</w>
+            <w lemma="deus" xml:id="Ao_w_000340">deus</w>
+            <w lemma="vaslet" xml:id="Ao_w_000341">vallez</w>
+        </rdg>
+        <rdg wit="#B"/>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="et" xml:id="Ao_w_000342">et</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="et" xml:id="Ez_w_000882">et</w>
+        </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">
+            <w lemma="il" xml:id="Ao_w_000343">ele</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="cel" xml:id="Ez_w_000883">celle</w>
+        </rdg>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="soi1" xml:id="Ao_w_000344">se</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="soi1" xml:id="Ez_w_000886">s</w>
+        </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">
+            <w lemma="merveillier" xml:id="Ao_w_000345">merveilla</w>
+            <w lemma="trop" xml:id="Ao_w_000346">trop</w>
+            <w lemma="durement" xml:id="Ao_w_000347">durement</w>
+            <w lemma="coment" xml:id="Ao_w_000348">comment</w>
+            <w lemma="il" xml:id="Ao_w_000349">il</w>
+            <w lemma="estre1" xml:id="Ao_w_000350">estoit</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="esmerveillier" xml:id="Ez_w_000887">esmerveille</w>
+            <w lemma="mout" xml:id="Ez_w_000888">moult</w>
+            <w lemma="de" xml:id="Ez_w_000889">de</w>
+            <w lemma="ce1" xml:id="Ez_w_000890">ce</w>
+            <w lemma="que2" xml:id="Ez_w_000891">que</w>
+        </rdg>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="si" xml:id="Ao_w_000351">si</w>
+            <w lemma="cras" xml:id="Ao_w_000352">gras</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="si" xml:id="Ez_w_000892">si</w>
+            <w lemma="cras" xml:id="Ez_w_000893">gras</w>
+        </rdg>
+    </app>
+    <app type="onlyA">
+        <rdg wit="#A">
+            <w lemma="en1" xml:id="Ao_w_000353">en</w>
+            <w lemma="tel" xml:id="Ao_w_000354">tel</w>
+            <w lemma="saison" xml:id="Ao_w_000355">saison</w>
+            <w lemma="et" xml:id="Ao_w_000356">et</w>
+            <w lemma="de" xml:id="Ao_w_000357">de</w>
+            <w lemma="le" xml:id="Ao_w_000358">la</w>
+            <w lemma="grandor" xml:id="Ao_w_000359">grandor</w>
+            <w lemma="que2" xml:id="Ao_w_000360">qu</w>
+        </rdg>
+        <rdg wit="#B"/>
+    </app>
+    <app type="novariance">
+        <rdg wit="#A">
+            <w lemma="il" xml:id="Ao_w_000361">il</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="il" xml:id="Ez_w_000894">le</w>
+        </rdg>
+    </app>
+    <app>
+        <rdg wit="#A">
+            <w lemma="avoir" xml:id="Ao_w_000362">avoit</w>
+            <w lemma="soi1" xml:id="Ao_w_000363">se</w>
+            <w lemma="merveillier" xml:id="Ao_w_000364">merveilla</w>
+            <w lemma="a3" xml:id="Ao_w_000365">a</w>
+            <w lemma="desmesure" xml:id="Ao_w_000366">desmesure</w>
+        </rdg>
+        <rdg wit="#B">
+            <w lemma="vëoir" xml:id="Ez_w_000895">vit</w>
+            <w lemma="en1" xml:id="Ez_w_000896">en</w>
+            <w lemma="cel" xml:id="Ez_w_000897">celle</w>
+            <w lemma="saison" xml:id="Ez_w_000898">saison</w>
+        </rdg>
+    </app>
+</root>

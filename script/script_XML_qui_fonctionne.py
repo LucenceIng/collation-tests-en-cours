@@ -109,7 +109,7 @@ class Word:
         token = {}
         token['t'] = self.unwrap()
         token['n'] = self.normalize()
-        token['a'] = self.attrib()
+        token['i'] = self.attrib()
         return token
 
 os.listdir('./docs/coll')

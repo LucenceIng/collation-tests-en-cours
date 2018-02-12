@@ -4,10 +4,9 @@ from collatex import *
 from lxml import etree
 import json,re,os,itertools
 
-#fonctionne : de notre xml vers json avec prise en compte des éléments
-#vers xml aussi, mais pb des mots, pas dans balise <w>
-#modifications du core_functions.py du code pour faire apparaître les id et des espaces 11/02/2018
-# pb : l'XSLT inutile
+#fonctionne : de xml vers xml, avec prise en compte des ids, collation sur les lemmes et sortie complète
+# ajout 12/02/2018 pour compléter l'apparat, avec des rdg vides
+#XLST inutile
 
 
 class WitnessSet:
@@ -74,6 +73,11 @@ class Line:
             <xsl:attribute name="xml:id">
                 <xsl:value-of select="@xml:id"/>
             </xsl:attribute>
+            <xsl:if test="@lemma">
+            <xsl:attribute name="lemma">
+                <xsl:value-of select="@lemma"/>
+            </xsl:attribute>
+            </xsl:if>
             <xsl:value-of select="."/>
         </xsl:element>
     </xsl:template>
@@ -83,66 +87,49 @@ class Line:
     def __init__(self,line):
         self.line = line
     def tokens(self):
-        #fonctionne ?
         return [Word(token).createToken() for token in Line.transformWrapW(self.line).xpath('//w')]
-        #return  [Word(token).createToken() for token in Line.xpath('//w')] 
-        #print (Word(token).createToken() for token in Line.transformWrapW(self.line).xpath('//w'))
                
 
 class Word:
     #unwrapRegex = re.compile('<w>(.*)</w>')
-    stripTagsRegex = re.compile('<.*?>')
+    #stripTagsRegex = re.compile('<.*?>')
     def __init__(self,word):
         self.word = word
     def unwrap(self):
         return self.word.text
         #code de base
         #return Word.unwrapRegex.match(etree.tostring(self.word,encoding='unicode')).group(1)
-    def attrib(self):
+    def attribut(self):
         return self.word.get('{http://www.w3.org/XML/1998/namespace}id')
-    def normalize(self):
-        return Word.stripTagsRegex.sub('',self.unwrap().lower())
+    def lemma(self):
+        return self.word.get('lemma')
+    #on enlève normalize : la collation s'effectue ici, donc on place la valeur du lemme à l'intérieur de ce normalize
+    #def normalize(self):
+     #   return Word.stripTagsRegex.sub('',self.unwrap().lower())
     def createToken(self):
         token = {}
         token['t'] = self.unwrap()
-        token['n'] = self.normalize()
-        token['a'] = self.attrib()
+        token['n'] = self.lemma()
+        token['i'] = self.attribut()
         return token
 
 
-os.listdir('./docs/coll')
+os.listdir('./docs/coll_002')
 
-witnessSet = WitnessSet([(inputFile[0],open('./docs/coll/' + inputFile,'rb').read()) for inputFile in os.listdir('./docs/coll')])
+witnessSet = WitnessSet([(inputFile[0],open('./docs/coll_002/' + inputFile,'rb').read()) for inputFile in os.listdir('./docs/coll_002')])
 
 
 print(witnessSet.all_ids())
-#création d'une variable pour opérer sur chaque ensemble en une fois
-repet = witnessSet.all_ids()
+print(witnessSet.witnessList)
 
-json_input = witnessSet.generate_json_input('003')
+json_input = witnessSet.generate_json_input('002')
 print(json_input)
 
-#tests pour la modification du code Collatex
 graph = collate(json_input, output='xml')
-with open("TEST_def.xml", "w") as text_file:
+with open("./sortie/xml_002_complete.xml", "w") as text_file:
     text_file.write(graph)
 
-#graph2 = collate(json_input, output='tei')
-#with open("test_tei_3.xml", "w") as text_file:
-#    text_file.write(graph2)
-    
-#boucle qui crée les documents
-#for i in repet:
- #   json_input = witnessSet.generate_json_input(i)
-  #  print(json_input)
-    #collationText = collate(json_input,output='table',layout='vertical')
-    #print(collationText)
-   # acoll = collate(json_input,output='json')
-    #with open("./sortie/XML_test%s.json" % i, "w") as text_file:
-    #    text_file.write(acoll)
-    #graph = collate(json_input, output='xml')
-    #with open("./sortie/XML_test%s.xml" % i, "w") as text_file:
-   #     text_file.write(graph)
+
 
 
 
