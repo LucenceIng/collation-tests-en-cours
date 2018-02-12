@@ -5,11 +5,13 @@ from lxml import etree
 import json,re,os,itertools
 
 #fonctionne : de notre xml vers json avec prise en compte des éléments
-#vers xml aussi, mais pb des mots, pas dans balise <w>
-#modifications du core_functions.py du code pour faire apparaître les id et des espaces 11/02/2018
+# fonctionne de l'xml vers l'xml
+#modifications du core_functions.py du code Collatex pour dessiner notre sortie, avec des mots et les id de chaque mot + un type 'novariance' quand ne bouge pas
+#réussite pour concaténer toutes les sorties isolées en un document, avec récupération de l'id du p
+# pb : code un peu sale ?
 # pb : l'XSLT inutile
 
-
+#définition de la classe witnessSet
 class WitnessSet:
     def __init__(self,witnessList):
         self.witnessList = witnessList
@@ -90,6 +92,7 @@ class Line:
                
 
 class Word:
+    #code original :
     #unwrapRegex = re.compile('<w>(.*)</w>')
     stripTagsRegex = re.compile('<.*?>')
     def __init__(self,word):
@@ -113,35 +116,55 @@ os.listdir('./docs/coll')
 
 witnessSet = WitnessSet([(inputFile[0],open('./docs/coll/' + inputFile,'rb').read()) for inputFile in os.listdir('./docs/coll')])
 
-
+#vérification que tout se passe bien !
 print(witnessSet.all_ids())
-#création d'une variable pour opérer sur chaque ensemble en une fois
-repet = witnessSet.all_ids()
 
-#json_input = witnessSet.generate_json_input('003')
-#print(json_input)
 
 #tests pour la modification du code Collatex
 #graph = collate(json_input, output='xml')
 #with open("TEST_3.xml", "w") as text_file:
  #   text_file.write(graph)
-
 #graph2 = collate(json_input, output='tei')
 #with open("test_tei_3.xml", "w") as text_file:
 #    text_file.write(graph2)
-    
-#boucle qui crée les documents
+
+
+#création d'une variable pour opérer sur chaque ensemble en une fois
+repet = witnessSet.all_ids()   
+#ouverture du document destiné à accueillir tous les paragrpahes collationnés
+outfile = open('./sortie/XML_test_tout.xml', encoding='utf-8')
+#création d'une liste vide pour y mettre tous les paragraphes
+v = []
+
+#boucle sur chaque paragraphe
 for i in repet:
     json_input = witnessSet.generate_json_input(i)
-    print(json_input)
+    graph = collate(json_input, output='xml')
+#on met le résultat de la collation d'un ensemble, ayant pour racine l'élément <p> avec le numéro qui nous permet de l'identifier
+    doc = "<p n='" + i +"'>" + graph + "</p>"
+#on remplit la liste au fur et à mesure
+    v.append(doc)    
+#lorsque la liste est complète, on la transforme en string
+ensemble = str(v)
+
+#on crée un objet dans lequel on place notre liste, à l'intérieur d'une balise racine <text>
+val = "<text>" + ''.join(v) + "</text>"
+
+#on écrit le résultat (une simple chaîne de caractères) dans notre document XML
+with open("./sortie/XML_test_tout.xml", "w") as text_file:
+    text_file.write(val)
+
+#anciennement : boucle qui crée chaque document, dans un doc JSON et dans un doc XML :
+#for i in repet:
+ #   json_input = witnessSet.generate_json_input(i)
+  #  print(json_input)
     #collationText = collate(json_input,output='table',layout='vertical')
     #print(collationText)
-    acoll = collate(json_input,output='json')
-    with open("./sortie/XML_test%s.json" % i, "w") as text_file:
-        text_file.write(acoll)
-    graph = collate(json_input, output='xml')
-    with open("./sortie/XML_test%s.xml" % i, "w") as text_file:
-        text_file.write(graph)
-
+   # acoll = collate(json_input,output='json')
+    #with open("./sortie/XML_test%s.json" % i, "w") as text_file:
+    #    text_file.write(acoll)
+    #graph = collate(json_input, output='xml')
+    #with open("./sortie/XML_test%s.xml" % i, "w") as text_file:
+   #     text_file.write(graph)
 
 

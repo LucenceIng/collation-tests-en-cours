@@ -109,6 +109,7 @@ class Word:
         token['a'] = self.attrib()
         return token
 
+
 os.listdir('./docs/coll')
 
 witnessSet = WitnessSet([(inputFile[0],open('./docs/coll/' + inputFile,'rb').read()) for inputFile in os.listdir('./docs/coll')])
@@ -122,26 +123,26 @@ json_input = witnessSet.generate_json_input('003')
 print(json_input)
 
 #tests pour la modification du code Collatex
-#graph = collate(json_input, output='xml')
-#with open("TEST_3.xml", "w") as text_file:
- #   text_file.write(graph)
+graph = collate(json_input, output='xml')
+with open("TEST_def.xml", "w") as text_file:
+    text_file.write(graph)
 
 #graph2 = collate(json_input, output='tei')
 #with open("test_tei_3.xml", "w") as text_file:
 #    text_file.write(graph2)
     
 #boucle qui crée les documents
-for i in repet:
-    json_input = witnessSet.generate_json_input(i)
-    print(json_input)
+#for i in repet:
+ #   json_input = witnessSet.generate_json_input(i)
+  #  print(json_input)
     #collationText = collate(json_input,output='table',layout='vertical')
     #print(collationText)
-    acoll = collate(json_input,output='json')
-    with open("./sortie/XML_test%s.json" % i, "w") as text_file:
-        text_file.write(acoll)
-    graph = collate(json_input, output='xml')
-    with open("./sortie/XML_test%s.xml" % i, "w") as text_file:
-        text_file.write(graph)
+   # acoll = collate(json_input,output='json')
+    #with open("./sortie/XML_test%s.json" % i, "w") as text_file:
+    #    text_file.write(acoll)
+    #graph = collate(json_input, output='xml')
+    #with open("./sortie/XML_test%s.xml" % i, "w") as text_file:
+   #     text_file.write(graph)
 
 
 
