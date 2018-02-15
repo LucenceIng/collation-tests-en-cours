@@ -4,9 +4,7 @@ from collatex import *
 from lxml import etree
 import json,re,os,itertools
 
-#fonctionne : de xml vers xml, avec prise en compte des ids, collation sur les lemmes et sortie complète
-# ajout 12/02/2018 pour compléter l'apparat, avec des rdg vides
-#XLST inutile
+#tests différents
 
 
 class WitnessSet:
@@ -125,11 +123,11 @@ print(witnessSet.witnessList)
 json_input = witnessSet.generate_json_input('038')
 print(json_input)
 
-graph = collate(json_input, output='xml')
-with open("./sortie/xml_038_complete.xml", "w") as text_file:
-    text_file.write(graph)
-
-
-
-
+#astar :
+#detect transposition
+# je ne comprends pas comment ça fonctionne !!
+c2 = collate(json_input, output='xml', astar=False, near_match=False, detect_transpositions=True)
+print(c2)
+with open("./sortie/xml_038_test2.xml", "w") as text_file:
+    text_file.write(c2)
 

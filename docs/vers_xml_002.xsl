@@ -4,7 +4,7 @@
     exclude-result-prefixes="xs"
     version="2.0">
     
-    <!-- vers xml 002 -->
+    <!-- vers xml 002 puis 038-->
     <!-- juste avec les lemmes pour le moment -->
     <!-- depuis A et B. xml avec insertion des XML depuis CSV -->
     <!-- donc règles qui appellent que le p 2 -->
@@ -20,9 +20,9 @@
         </xsl:element>
     </xsl:template>
     
-    <xsl:template match="p[not(@n='002')]"/>
+    <xsl:template match="p[not(@n='038')]"/>
     
-    <xsl:template match="p[@n='002']">
+    <xsl:template match="p[@n='038']">
         <xsl:element name="p">
             <xsl:attribute name="n">
                 <xsl:value-of select="@n"/>
@@ -41,10 +41,10 @@
         <xsl:variable name="lemme">
             <xsl:choose>
                 <xsl:when test="$idT='Ao'">
-                <xsl:value-of select="document('AF_deCSV_002.xml')/root/row/LEMME[parent::row/child::id=$idM]"/>
+                <xsl:value-of select="document('AF_deCSV_038.xml')/root/row/LEMME[parent::row/child::id=$idM]"/>
             </xsl:when>
                 <xsl:otherwise>
-                    <xsl:value-of select="document('MF_deCSV_002.xml')/root/row/LEMME[parent::row/child::id=$idM]"/>  
+                    <xsl:value-of select="document('MF_deCSV_038.xml')/root/row/LEMME[parent::row/child::id=$idM]"/>  
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:variable>

@@ -18,10 +18,13 @@ if __name__ == '__main__':
         #ne marche pas ici
        # colle = collate(acoller, output='table')
         #appel de la fonction collate avec astar
-        graphxml = collate(acoller, output='table', astar=True)
+        graphxml = collate(acoller, detect_transpositions=True, astar=True, output='xml', debug_scores=False)
         #collate()
         #graphxml = collate(acoller, output='xml')
 
 #écriture des fichiers
-with open("./sortie/002_astar.xml", "w") as text_file:
+with open("./sortie/002_trans.xml", "w") as text_file:
         text_file.writelines(graphxml)
+        
+        
+        #erreurs quand astar et quand detect_transpositions
