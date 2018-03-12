@@ -132,6 +132,7 @@ print(witnessSet.all_ids())
 #création d'une variable pour opérer sur chaque ensemble en une fois
 repet = witnessSet.all_ids()   
 #ouverture du document destiné à accueillir tous les paragrpahes collationnés
+#outfile = open('./sortie/XML_test_tout.xml', encoding='utf-8')
 outfile = open('./sortie/XML_test_tout.xml', encoding='utf-8')
 #création d'une liste vide pour y mettre tous les paragraphes
 v = []
@@ -140,6 +141,7 @@ v = []
 for i in repet:
     json_input = witnessSet.generate_json_input(i)
     graph = collate(json_input, output='xml')
+    #test avec NEAR graph = collate(json_input, output='xml', near_match=True, segmentation=False)
 #on met le résultat de la collation d'un ensemble, ayant pour racine l'élément <p> avec le numéro qui nous permet de l'identifier
     doc = "<p n='" + i +"'>" + graph + "</p>"
 #on remplit la liste au fur et à mesure
